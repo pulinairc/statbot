@@ -1,6 +1,6 @@
 bind pub - !olenaa pub:olenaa
 
-proc pub:olenaa {nick host hand chan} {
+proc pub:olenaa {nick host hand chan arg} {
   puthelp "PRIVMSG $chan :Joo mäki oon servu. :P"
 }
 
