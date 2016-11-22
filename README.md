@@ -27,6 +27,7 @@ Feel free to send a pull request if you spot any bugs.
 - **peak.tcl** - Keeps a record of the peak amount of users in a channel.
 - **urltitle.tcl** - Detects URL from IRC channels and prints out the title
 - **lilyurl_logger.tcl** - Scans links in IRC channels and returns titles and tinyurl, and logs to a webpage.
+- **olenaa.tcl** - Joo mäki oon servu. :P
 
 ## Full filetree of ~/eggdrop
 
