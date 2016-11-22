@@ -87,7 +87,7 @@ namespace eval UrlTitle {
             ::http::unregister https
           }
           if {[string length $urtitle]} {
-            putserv "PRIVMSG $chan :[encoding convertto utf-8 :\[ $urtitle \]]"
+            putserv "PRIVMSG $chan :\[ $urtitle \]"
           }
           break
         }
