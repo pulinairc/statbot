@@ -29,6 +29,24 @@ Feel free to send a pull request if you spot any bugs.
 - **lilyurl_logger.tcl** - Scans links in IRC channels and returns titles and tinyurl, and logs to a webpage.
 - **olenaa.tcl** - Joo mäki oon servu. :P
 
+## Contributing
+
+### Fixing bugs
+
+Feel free to clone repo or do minor edits to the scripts if you spot any bugs.
+
+### Making your own script
+
+If you have ideas how to improve the bot or even rewrite it in python, feel free to do so. However, currently you can code your own scripts in TCL with these simple steps:
+
+1. Fork this repo
+2. Create a new tcl file to scripts folder
+3. Edit [kummitus.conf](https://github.com/pulinairc/kummitus/blob/master/kummitus.conf) and add line `source /home/rolle/pulinairc-repos/kummitus/scripts/yourscript.tcl` where **yourscript.tcl** is obviously the actual file name.
+4. Do a pull request
+5. Wait for merge
+
+You can install your own eggdrop for development or we can test it live!!!11
+
 ## Full filetree of ~/eggdrop
 
 As of 2016-11-22:
