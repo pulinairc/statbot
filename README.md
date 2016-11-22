@@ -15,6 +15,7 @@ Feel free to send a pull request if you spot any bugs.
 - **remind.tcl** - Add reminders
 - **rolle.tcl** - General #pulina related commands
 - **pvm.tcl** - Get current Finnish date and other info about the day
+- **toptod.tcl** - Displays top-10 IRC chatters today with !toptod
 - **valimatkat.tcl** - Fetches the kilometres between locations
 - **battle.tcl** - The infamous battle script
 - **keksi.tcl** - Makes up things to do
