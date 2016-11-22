@@ -86,6 +86,10 @@ namespace eval UrlTitle {
           if {$httpsSupport} {
             ::http::unregister https
           }
+
+          # convert urtitle to utf-8 in all cases
+          set urtitle [encoding convertto utf-8 $urtitle]
+
           if {[string length $urtitle]} {
             putserv "PRIVMSG $chan :\[ $urtitle \]"
           }
