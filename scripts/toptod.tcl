@@ -23,11 +23,12 @@ set toptod(todlogchannel) "#pulina"
 
 #bind pub - !toptod toptod::julkinentop
 #proc julkinentop {nick host hand chan arg} {
-#   puthelp "NOTICE $nick :Käytä privaa ilman huutomerkkiä alussa, tähänt tapaan: /msg kummitus toptod"
+#   puthelp "NOTICE $nick :Käytä privaa ilman huutomerkkiä alussa, tähän tapaan: /msg kummitus toptod"
 #   }
 
 
 bind pubm - * toptod::count_words_tod
+bind pubm - * toptod::savetohtml
 bind pub - !pojot toptod::toptodpub
 bind pub - !top toptod::toptodpub
 bind pub - .toptod toptod::toptodpub
@@ -40,6 +41,13 @@ proc getsavedir {} {
 	return "."
 }
 
+proc savetohtml {min hour day month year} {
+	variable toptod
+
+	# Tämä sisältää itse tallentamisen (kökköä, tiedän) t. rolle
+	foreach i [split $toptod(todlogchannel) ","] { toptod::toptodpub $i - - $i "" }
+
+}
 
 proc cleartod {min hour day month year} {
 	variable toptod
@@ -218,6 +226,12 @@ proc toptodpub {nick uhost hand chan text} {
 		}
 		incr pippeli
 	}
+
+	set htmlpage [ open "/var/www/html/toptod.html" w+ ]
+	puts $htmlpage "
+	$flood
+	"
+	close $htmlpage
 
 	putserv "NOTICE $to :$flood"
 #	puthelp "PRIVMSG $chan :$flood"
