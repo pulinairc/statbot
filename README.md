@@ -1,4 +1,6 @@
-# kummitus IRC bot
+# statbot
+
+Old kummitus, currently working as stats collector.
 
 Current version of the eggdrop bot kummitus (Finnish for "ghost"). Mostly Finnish stuff. Some scripts programmed by [Roni "rolle" Laukkarinen](https://github.com/ronilaukkarinen), others downloaded from [egghelp.org](http://www.egghelp.org/tcl.htm).
 
