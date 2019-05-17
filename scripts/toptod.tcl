@@ -109,7 +109,7 @@ proc resumetoptod {} {
 
 	variable toptod
 	set dir [getsavedir]
-	set virhe [catch {set fiilu [open /var/www/html/toptod.save]}]
+	set virhe [catch {set fiilu [open /home/rolle/public_html/toptod.save]}]
 
 	if {$virhe != 1} {
 #		putlog "resuming toptod.."
@@ -140,7 +140,7 @@ proc savetoptod {name accessmode date} {
 
 	if {$accessmode != "a"} {
 		set dir [getsavedir]
-		set virhe [catch {set fiilu [open /var/www/html/toptod.save]}]
+		set virhe [catch {set fiilu [open /home/rolle/public_html/toptod.save]}]
 	        if {$virhe != 1} {
 	                set savedate [gets $fiilu]
 	                if {$savedate != $cdate} {
@@ -158,7 +158,7 @@ proc savetoptod {name accessmode date} {
 	}
 
 	set dir [getsavedir]
-        set virhe [catch {set fiilu [open /var/www/html/$name $accessmode 0770]}]
+        set virhe [catch {set fiilu [open /home/rolle/public_html/$name $accessmode 0770]}]
 
 	if {$virhe != 1} {
 		puts $fiilu $date
@@ -166,7 +166,7 @@ proc savetoptod {name accessmode date} {
 		puts $fiilu $toptod(todwordcount)
 		close $fiilu
 	} else {
-		putlog "unable to save toptod file to /var/www/html/$name"
+		putlog "unable to save toptod file to/home/rolle/public_html/$name"
 	}
 }
 
@@ -227,7 +227,7 @@ proc toptodpub {nick uhost hand chan text} {
 		incr pippeli
 	}
 
-	set htmlpage [ open "/var/www/html/toptod.html" w+ ]
+	set htmlpage [ open "/home/rolle/public_html/toptod.html" w+ ]
 	puts $htmlpage "
 	$flood
 	"
