@@ -1,0 +1,167 @@
+do{ my $x = [
+       {
+         'ARGV' => []
+       },
+       {},
+       {
+         'verbose' => undef,
+         'alien_repository' => {
+                                 'protocol' => 'local',
+                                 'pattern' => qr/(?-xism:(?:^libgumbo-([\d\.]+)\.tar\.gz$))/,
+                                 'location' => './',
+                                 'host' => ''
+                               },
+         'dist_suffix' => undef,
+         'alien_autoconf_with_pic' => 1,
+         'PL_files' => undef,
+         'pollute' => undef,
+         'alien_inline_auto_include' => [],
+         'alien_test_commands' => [],
+         'alien_provides_cflags' => undef,
+         'metafile2' => 'META.json',
+         'bindoc_dirs' => [
+                            'blib/script'
+                          ],
+         'conflicts' => {},
+         'scripts' => undef,
+         'recommends' => {},
+         'pod_files' => undef,
+         'config_dir' => '_build',
+         'dist_version' => '0.02',
+         'sign' => undef,
+         'recurse_into' => [],
+         'build_bat' => 0,
+         'extra_linker_flags' => [],
+         'build_class' => 'Alien::Base::ModuleBuild',
+         'prereq_action_types' => [
+                                    'requires',
+                                    'build_requires',
+                                    'test_requires',
+                                    'conflicts',
+                                    'recommends'
+                                  ],
+         'base_dir' => '/home/rolle/eggdrop/scripts/htmltitle_gumbo/HTML-Gumbo-0.11/Alien-LibGumbo-0.02',
+         'allow_mb_mismatch' => 0,
+         'alien_build_commands' => [
+                                     '%pautogen.sh',
+                                     '%pconfigure --prefix=%s',
+                                     'make'
+                                   ],
+         'xs_files' => undef,
+         'destdir' => undef,
+         'metafile' => 'META.yml',
+         'mb_version' => '0.4203',
+         'use_tap_harness' => 0,
+         'alien_temp_dir' => '_alien',
+         'test_file_exts' => [
+                               '.t'
+                             ],
+         'has_config_data' => undef,
+         'dist_name' => 'Alien-LibGumbo',
+         'install_base' => undef,
+         'module_name' => 'Alien::LibGumbo',
+         'recursive_test_files' => 1,
+         'alien_version_check' => 'pkg-config --modversion %n',
+         'libdoc_dirs' => [
+                            'blib/lib',
+                            'blib/arch'
+                          ],
+         'perl' => '/usr/bin/perl',
+         'dist_author' => [
+                            'Ruslan Zakirov <Ruslan.Zakirov@gmail.com>'
+                          ],
+         'bundle_inc' => [],
+         'use_rcfile' => 1,
+         'alien_name' => 'libgumbo',
+         'pureperl_only' => 0,
+         'configure_requires' => {
+                                   'File::ShareDir' => '1.03',
+                                   'Path::Class' => '0.013',
+                                   'Alien::Base' => '0.002'
+                                 },
+         'extra_manify_args' => undef,
+         'test_files' => undef,
+         'dist_abstract' => 'gumbo parser library',
+         'create_readme' => undef,
+         'prefix_relpaths' => {},
+         'alien_repository_default' => {},
+         'share_dir' => undef,
+         'alien_selection_method' => 'newest',
+         'debug' => undef,
+         'meta_merge' => {},
+         'get_options' => {},
+         'alien_bin_requires' => {},
+         'alien_isolate_dynamic' => 0,
+         'dist_version_from' => undef,
+         '_added_to_INC' => [
+                              'inc'
+                            ],
+         'create_license' => undef,
+         'auto_configure_requires' => 1,
+         'alien_msys' => 0,
+         'alien_ffi_name' => undef,
+         'debugger' => undef,
+         'alien_install_commands' => [
+                                       'make install'
+                                     ],
+         'html_css' => '',
+         'cpan_client' => 'cpan',
+         'mymetafile2' => 'MYMETA.json',
+         'bundle_inc_preload' => [],
+         'build_elements' => [
+                               'PL',
+                               'support',
+                               'pm',
+                               'xs',
+                               'share_dir',
+                               'pod',
+                               'script'
+                             ],
+         'needs_compiler' => '',
+         'release_status' => 'stable',
+         'alien_share_dir' => '_share',
+         'include_dirs' => [],
+         'orig_dir' => '/home/rolle/eggdrop/scripts/htmltitle_gumbo/HTML-Gumbo-0.11/Alien-LibGumbo-0.02',
+         'installdirs' => 'site',
+         'test_requires' => {},
+         'mymetafile' => 'MYMETA.yml',
+         'create_makefile_pl' => undef,
+         'dynamic_config' => 1,
+         'magic_number' => undef,
+         'tap_harness_args' => {},
+         'install_sets' => {},
+         'install_base_relpaths' => {},
+         'create_packlist' => 1,
+         'meta_add' => {},
+         'requires' => {
+                         'File::ShareDir' => '1.03',
+                         'Path::Class' => '0.013',
+                         'Alien::Base' => '0.002'
+                       },
+         'install_path' => {},
+         'pm_files' => undef,
+         'quiet' => undef,
+         'extra_compiler_flags' => [],
+         'alien_provides_libs' => undef,
+         'script_files' => [],
+         'build_script' => 'Build',
+         'original_prefix' => {},
+         'c_source' => undef,
+         'program_name' => undef,
+         'autosplit' => undef,
+         'alien_repository_class' => {
+                                       'ftp' => 'Alien::Base::ModuleBuild::Repository::FTP',
+                                       'http' => 'Alien::Base::ModuleBuild::Repository::HTTP',
+                                       'https' => 'Alien::Base::ModuleBuild::Repository::HTTP',
+                                       'default' => 'Alien::Base::ModuleBuild::Repository',
+                                       'local' => 'Alien::Base::ModuleBuild::Repository::Local'
+                                     },
+         'license' => 'perl',
+         'build_requires' => {},
+         'allow_pureperl' => 0,
+         'config' => undef,
+         'blib' => 'blib',
+         'prefix' => undef
+       }
+     ];
+$x; }

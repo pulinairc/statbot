@@ -1,0 +1,53 @@
+1 3 CMoreTennis 04:00 {Tennis: Abierto Mexicano Telcel Acapulco 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301001 13
+1 3 CMoreTennis 06:00 {Tennis: Abierto Mexicano Telcel Acapulco 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301002 13
+1 3 CMoreTennis 11:00 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301003 13
+1 3 CMoreExtreme 04:00 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130301001 13
+1 3 CMoreSportHD 08:00 {La Liga: Barcelona - Sevilla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301001 13
+1 3 CMoreSportHD 10:00 {La Liga: Athletic Bilbao - Real Sociedad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301002 13
+1 3 CMoreUrheilu 13:40 {La Liga Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301001 13
+1 3 CMoreUrheilu 14:40 {Serie A Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301002 13
+1 3 CMoreUrheilu 15:10 {Serie A: Inter - Milan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301003 13
+1 3 CMoreUrheilu 17:00 {La Liga: Barcelona - Sevilla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301004 13
+1 3 CMoreTennis 12:00 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301004 13
+1 3 CMoreTennis 13:00 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301005 13
+1 3 CMoreTennis 13:55 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301006 13
+1 3 CMoreTennis 15:00 {Tennis: Dubai Duty Free tennis Championships Dubai 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301007 13
+1 3 CMoreTennis 17:00 {Tennis: Dubai Duty Free tennis Championships Dubai 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301008 13
+1 3 CMoreAitio 14:10 {Valioliiga: Newcastle - Southampton} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130301001 13
+1 3 CMoreAitio 16:00 {Elitserien: Växjö - HV71} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130301002 13
+1 3 CMoreSportHD 12:00 {Serie A (C More Nordic 12/13): Atalanta - Roma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301003 13
+1 3 CMoreSportHD 13:55 {Ishockey: Elitserien 12/13: Rögle BK - Skellefteå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301004 13
+1 3 CMoreSportHD 16:05 {Eredivisie: Ajax - ADO Den Haag} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301005 13
+1 3 CMoreUrheilu 18:50 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301005 13
+1 3 CMoreUrheilu 19:20 {Valioliiga: QPR - Manchester United} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301006 13
+1 3 CMoreTennis 19:30 {Tennis: Delrey Beach Int´l Tennis Championship 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301009 13
+1 3 CMoreAitio 18:00 {Valioliiga: Reading - Wigan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130301003 13
+1 3 CMoreAitio 19:45 {Valioliiga: West Bromwich - Sunderland} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130301004 13
+1 3 CMoreExtreme 20:00 {Speedway: Elitserien 2012: Piraterna - Dackarna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130301002 13
+1 3 CMoreSportHD 18:00 {La Liga: Barcelona - Sevilla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301006 13
+1 3 CMoreSportHD 20:00 {Fotboll: Franska Cupen: Paris SG - Marseille} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301007 13
+1 3 CMoreUrheilu 21:10 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301007 13
+1 3 CMoreUrheilu 21:40 {Serie A: Napoli - Juventus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301008 13
+1 3 CMoreUrheilu 23:45 {Premier League Preview} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301009 13
+02 03 CMoreUrheilu 00:15 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301010 13
+02 03 CMoreUrheilu 00:45-02:28 {La Liga: Athletic Bilbao - Real Sociedad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130301011 13
+1 3 CMoreTennis 21:30 {Tennis: Delrey Beach Int´l Tennis Championship 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301010 13
+02 03 CMoreTennis 00:00 {Tennis: ATP 500 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301011 13
+02 03 CMoreTennis 01:00 {Tennis: Davis Cup Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301012 13
+02 03 CMoreTennis 02:00-04:00 {Tennis: Abierto Mexicano Telcel Acapulco 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130301013 13
+1 3 CMoreAitio 21:35 {Valioliiga: Manchester City - Chelsea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130301005 13
+1 3 CMoreAitio 23:25 {Valioliiga: Arsenal - Aston Villa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130301006 13
+02 03 CMoreAitio 01:15-02:07 {Real Madrid News} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130301007 13
+1 3 CMoreExtreme 22:00 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130301003 13
+1 3 CMoreExtreme 22:40 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130301004 13
+1 3 CMoreExtreme 23:25 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130301005 13
+02 03 CMoreExtreme 00:30 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130301006 13
+02 03 CMoreExtreme 03:25 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130301007 13
+02 03 CMoreExtreme 03:50-04:12 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130301008 13
+1 3 CMoreSportHD 21:55 {La Liga: Getafe - Zaragoza} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301008 13
+02 03 CMoreSportHD 00:00 {La Liga 12/13 Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301009 13
+02 03 CMoreSportHD 00:30 {Elitserien: Condensed Games 12/13} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301010 13
+02 03 CMoreSportHD 00:50 {Elitserien: Bakom Kulisserna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301011 13
+02 03 CMoreSportHD 01:05 {Ishockey: Elitserien 12/13: Timrå - Färjestad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301012 13
+02 03 CMoreSportHD 03:15 {Fotboll: La Liga World - Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301013 13
+02 03 CMoreSportHD 03:45-05:23 {La Liga: Celta Vigo - Granada} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130301014 13

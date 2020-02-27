@@ -1,0 +1,132 @@
+20 2 MTV3MAX 09:00 {Mäkihypyn maailmancup: Oberstdorf} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220001 13
+20 2 MTV3MAX 10:05 {Mäkihypyn maailmancup: Oberstdorf} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220002 13
+20 2 MTV3MAX 11:00 Selviytymisleiri http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220003 13
+20 2 MTV3MAX 11:30 Selviytymisleiri http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220004 13
+20 2 MTV3Sarja 11:00 V http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220001 13
+20 2 MTV3Sarja 11:50 Dallas http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220002 13
+20 2 SubLeffa 04:25 {Arkajalat (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220001 13
+20 2 SubLeffa 10:20 {Valiant (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220002 13
+20 2 SubLeffa 11:35 {Linnunradan käsikirja liftareille (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220003 13
+20 2 MTV3Fakta 04:10 Poliisitulokkaat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130219031 13
+20 2 MTV3Fakta 08:30 Hälytysvalmiudessa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220001 13
+20 2 MTV3Fakta 09:15 Fobia http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220002 13
+20 2 MTV3Fakta 09:40 {Santa Barbaran poliisipartio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220003 13
+20 2 MTV3Fakta 10:05 {Hillerodin sairaalassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220004 13
+20 2 MTV3Fakta 10:30 {Hillerodin sairaalassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220005 13
+20 2 MTV3Fakta 10:55 {Kadonneiden etsintäyksikkö} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220006 13
+20 2 MTV3Fakta 11:40 Selviytymistarinoita http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220007 13
+20 2 SubJuniori 06:00 Unelmatarha http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220001 13
+20 2 SubJuniori 06:30 {Piirun piirustukset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220002 13
+20 2 SubJuniori 06:45 Linus http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220003 13
+20 2 SubJuniori 06:55 {Hassut eläinlaulut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220004 13
+20 2 SubJuniori 07:00 {Hyvää huomenta!} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220005 13
+20 2 SubJuniori 07:01 {Richard Scarryn touhukas maailma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220006 13
+20 2 SubJuniori 07:30 {Pörri Orava} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220007 13
+20 2 SubJuniori 08:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220008 13
+20 2 SubJuniori 08:05 {Kotitilan konkkaronkka} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220009 13
+20 2 SubJuniori 08:20 {Pinkkupoppoo - Pelastetaan Maa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220010 13
+20 2 SubJuniori 08:30 Juniorijumppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220011 13
+20 2 SubJuniori 08:31 {Katti kaiken tietää!} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220012 13
+20 2 SubJuniori 09:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220013 13
+20 2 SubJuniori 09:05 {Eveliina Koo, eikös joo} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220014 13
+20 2 SubJuniori 09:20 {Professori Balthazar} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220015 13
+20 2 SubJuniori 09:30 Benjamin http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220016 13
+20 2 SubJuniori 10:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220017 13
+20 2 SubJuniori 10:05 {Muumien maailma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220018 13
+20 2 SubJuniori 10:15 Koalaveljekset http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220019 13
+20 2 SubJuniori 10:26 {Van Dogh} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220020 13
+20 2 SubJuniori 10:31 Vipo http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220021 13
+20 2 SubJuniori 10:45 Taikaleppis http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220022 13
+20 2 SubJuniori 11:00 Smurffit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220023 13
+20 2 SubJuniori 11:30 Hopla http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220024 13
+20 2 MTV3MAX 12:00 {Late Show With David Letterman} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220005 13
+20 2 MTV3MAX 12:45 {Maailman rankin ajokoulu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220006 13
+20 2 MTV3MAX 13:40 {Kalamiehen paratiisit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220007 13
+20 2 MTV3MAX 14:10 {Rikos ratkaistu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220008 13
+20 2 MTV3MAX 15:00 {Rikos ratkaistu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220009 13
+20 2 MTV3MAX 15:45 {Freestylen maailmancup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220010 13
+20 2 MTV3MAX 17:15 {Viimeinen erä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220011 13
+20 2 MTV3Sarja 12:40 Dallas http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220003 13
+20 2 MTV3Sarja 13:30 {Hart To Hart} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220004 13
+20 2 MTV3Sarja 14:20 {Konnankoukkuja kahdelle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220005 13
+20 2 MTV3Sarja 15:10 Hulk http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220006 13
+20 2 MTV3Sarja 16:00 {Starsky & Hutch} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220007 13
+20 2 MTV3Sarja 16:50 {Mike Hammer} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220008 13
+20 2 MTV3Sarja 17:40 V http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220009 13
+20 2 SubLeffa 13:20 {Jättini (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220004 13
+20 2 SubLeffa 15:10 {Silta salaiseen maahan (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220005 13
+20 2 SubLeffa 16:45 {Wayne's World (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220006 13
+20 2 MTV3Fakta 12:30 Hälytysvalmiudessa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220008 13
+20 2 MTV3Fakta 13:15 {Dominick Dunne - Oikeuden puolesta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220009 13
+20 2 MTV3Fakta 14:00 {Paluu Prinssi Alfredin sairaalaan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220010 13
+20 2 MTV3Fakta 14:45 {Santa Barbaran poliisipartio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220011 13
+20 2 MTV3Fakta 15:10 {Lopullinen oikeus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220012 13
+20 2 MTV3Fakta 16:00 {Kadonneiden etsintäyksikkö} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220013 13
+20 2 MTV3Fakta 16:50 {Dominick Dunne - Oikeuden puolesta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220014 13
+20 2 MTV3Fakta 17:40 Hälytysvalmiudessa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220015 13
+20 2 SubJuniori 12:00 Juniorijumppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220025 13
+20 2 SubJuniori 12:01 Teletapit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220026 13
+20 2 SubJuniori 12:30 {Van Dogh} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220027 13
+20 2 SubJuniori 12:35 {Antti piirtää} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220028 13
+20 2 SubJuniori 13:00 Juniorijumppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220029 13
+20 2 SubJuniori 13:01 {Kotitilan konkkaronkka} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220030 13
+20 2 SubJuniori 13:15 {Palomies Sami} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220031 13
+20 2 SubJuniori 13:30 Chuggington http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220032 13
+20 2 SubJuniori 13:45 {Mokon suuri maailma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220033 13
+20 2 SubJuniori 14:00 {Mona Vampyyri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220034 13
+20 2 SubJuniori 14:30 Tenavat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220035 13
+20 2 SubJuniori 15:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220036 13
+20 2 SubJuniori 15:05 {Madagascarin pingviinit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220037 13
+20 2 SubJuniori 15:30 {Olipa kerran planeetta Maa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220038 13
+20 2 SubJuniori 16:00 Pokémon http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220039 13
+20 2 SubJuniori 16:30 {Code Lyoko} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220040 13
+20 2 SubJuniori 17:00 Chaplin http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220041 13
+20 2 SubJuniori 17:10 {Late Lisko} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220042 13
+20 2 SubJuniori 17:20 {Kung Fu Panda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220043 13
+20 2 SubJuniori 17:50 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220044 13
+20 2 SubJuniori 17:55-20:00 {Henkien kätkemä (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130220045 13
+20 2 MTV3MAX 18:00 Virittäjät http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220012 13
+20 2 MTV3MAX 18:30 Virittäjät http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220013 13
+20 2 MTV3MAX 19:00 {Syvissä vesissä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220014 13
+20 2 MTV3MAX 19:30 Erämiehet http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220015 13
+20 2 MTV3MAX 20:00 {Lain nimessä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220016 13
+20 2 MTV3MAX 20:30 {Lain nimessä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220017 13
+20 2 MTV3Sarja 18:30 Hulk http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220010 13
+20 2 MTV3Sarja 19:20 {Hart To Hart} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220011 13
+20 2 MTV3Sarja 20:10 Dallas http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220012 13
+20 2 SubLeffa 18:20 {Joe ja tulivuori (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220007 13
+20 2 SubLeffa 20:00 {Splash (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220008 13
+20 2 MTV3Fakta 18:25 Ensiapupolilla http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220016 13
+20 2 MTV3Fakta 19:10 FBI-kansiot http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220017 13
+20 2 MTV3Fakta 20:05 Riget-sairaalassa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220018 13
+20 2 MTV3Fakta 20:35 Riget-sairaalassa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220019 13
+20 2 MTV3MAX 21:00 {Kaikilla vaihteilla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220018 13
+20 2 MTV3MAX 21:30 {Bullrun: Kaarat kierroksella} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220019 13
+20 2 MTV3MAX 22:00 {Elämää Philadelphiassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220020 13
+20 2 MTV3MAX 22:30 {Formula 1: Talvitestit, Barcelona} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220021 13
+20 2 MTV3MAX 22:45 {Kunnian kentillä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220022 13
+20 2 MTV3MAX 23:30 {Late Show With David Letterman} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220023 13
+21 02 MTV3MAX 00:15 {Rikos ratkaistu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220024 13
+21 02 MTV3MAX 01:00 {MAX Fight: Friday Night Fights - Cage 21} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220025 13
+21 02 MTV3MAX 02:30 {Rikos ratkaistu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220026 13
+21 02 MTV3MAX 03:15-04:00 {Rikos ratkaistu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130220027 13
+20 2 MTV3Sarja 21:00 Dallas http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220013 13
+20 2 MTV3Sarja 21:50 {Konnankoukkuja kahdelle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220014 13
+20 2 MTV3Sarja 22:35 {Starsky & Hutch} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220015 13
+20 2 MTV3Sarja 23:25-23:48 {Kesä 68} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130220016 13
+20 2 SubLeffa 21:45 {Open Water (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220009 13
+20 2 SubLeffa 23:10 {Hämärästä aamunkoittoon (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220010 13
+21 02 SubLeffa 01:00 {Yli rajojen (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220011 13
+21 02 SubLeffa 03:00-04:31 {Action Jackson - ässä hihassa (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130220012 13
+20 2 MTV3Fakta 21:00 {Hillerodin sairaalassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220020 13
+20 2 MTV3Fakta 21:25 {Hillerodin sairaalassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220021 13
+20 2 MTV3Fakta 21:55 {Kriittisessä tilassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220022 13
+20 2 MTV3Fakta 22:45 {Paluu Prinssi Alfredin sairaalaan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220023 13
+20 2 MTV3Fakta 23:30 {48 ratkaisevan tunnin jälkenn} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220024 13
+21 02 MTV3Fakta 00:15 Jäljillä http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220025 13
+21 02 MTV3Fakta 00:40 {Lopullinen oikeus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220026 13
+21 02 MTV3Fakta 01:25 Parkkisota http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220027 13
+21 02 MTV3Fakta 01:50 Parkkisota http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220028 13
+21 02 MTV3Fakta 02:15 {48 ratkaisevan tunnin jälkenn} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220029 13
+21 02 MTV3Fakta 03:00 {Dominick Dunne - Oikeuden puolesta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220030 13
+21 02 MTV3Fakta 03:45-04:10 Poliisitulokkaat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130220031 13

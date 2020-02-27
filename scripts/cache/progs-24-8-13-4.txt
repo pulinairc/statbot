@@ -1,0 +1,122 @@
+24 8 CMoreFirst 04:30 {Phil Spector (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824001 13
+24 8 CMoreFirst 06:00 {Mitä nimi tuo tullessaan? (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824002 13
+24 8 CMoreFirst 07:55 {W.E. (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824003 13
+24 8 CMoreFirst 09:55 {Mary and Martha (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824004 13
+24 8 CMoreFirst 11:30 {Hotelli Marigold (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824005 13
+24 8 CMoreHits 04:25 {Paranormal Activity 4 (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824001 13
+24 8 CMoreHits 06:00 {Sicko - aivan sairasta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824002 13
+24 8 CMoreHits 08:00 {Hugo (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824003 13
+24 8 CMoreHits 10:05 {The Sitter (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824004 13
+24 8 CMoreHits 11:25 {Kultainen kompassi (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824005 13
+24 8 CMoreAction 04:20 {The Pact (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824001 13
+24 8 CMoreAction 05:50 {Valiojoukko (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824002 13
+24 8 CMoreAction 09:05 {Green Lantern (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824003 13
+24 8 CMoreAction 11:00 {Your Highness (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824004 13
+24 8 CMoreEmotion 04:55 {Ensisilmäyksellä (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824001 13
+24 8 CMoreEmotion 07:05 {Tuplabisnes (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824002 13
+24 8 CMoreEmotion 08:45 {Take Me Home Tonight (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824003 13
+24 8 CMoreEmotion 10:20 {Another Happy Day (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824004 13
+24 8 CMoreSeries 04:00 Revolution http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824001 13
+24 8 CMoreSeries 05:00 Revolution http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824002 13
+24 8 CMoreSeries 06:00 {Parks and Recreation} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824003 13
+24 8 CMoreSeries 06:30 {Parks and Recreation} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824004 13
+24 8 CMoreSeries 07:00 {Mad Men} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824005 13
+24 8 CMoreSeries 08:00 {Mad Men} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824006 13
+24 8 CMoreSeries 09:00 {Mad Men} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824007 13
+24 8 CMoreSeries 10:00 {Mad Men} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824008 13
+24 8 CMoreSeries 11:00 {Mad Men} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824009 13
+24 8 CMoreKids 07:30 Teletubbies http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824001 13
+24 8 CMoreKids 07:50 {Andy Pandy} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824002 13
+24 8 CMoreKids 08:00 {Andy Pandy} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824003 13
+24 8 CMoreKids 08:05 ZingZillas http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824004 13
+24 8 CMoreKids 08:15 {Buzz & Tell} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824005 13
+24 8 CMoreKids 08:25 {Buzz & Tell} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824006 13
+24 8 CMoreKids 08:30 Bobinogs http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824007 13
+24 8 CMoreKids 08:40 Numtums http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824008 13
+24 8 CMoreKids 08:45 {Andy's Wild Adventures} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824009 13
+24 8 CMoreKids 09:00 Gigglebiz http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824010 13
+24 8 CMoreKids 09:15 {Penelope K, by the Way} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824011 13
+24 8 CMoreKids 09:25 {Mr Bloom's Nursery} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824012 13
+24 8 CMoreKids 09:45 {Nina & the Neurons VII: Engineering} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824013 13
+24 8 CMoreKids 10:00 Tellytales http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824014 13
+24 8 CMoreKids 10:10 {The Roly Mo Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824015 13
+24 8 CMoreKids 10:30 {Nalle Puhin elokuva - uudet seikkailut puolen hehtaarin metsässä (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824016 13
+24 8 CMoreKids 11:35 {Arthur ja minimoit (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824017 13
+24 8 SF-Kanalen 05:20 {Täältä tullaan tulevaisuus (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824001 13
+24 8 SF-Kanalen 07:05 {Pieniä ihmeitä (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824002 13
+24 8 SF-Kanalen 08:45 {Vaahteramäen Eemeli (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824003 13
+24 8 SF-Kanalen 10:25 {Jim och piraterna Blom (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824004 13
+24 8 SF-Kanalen 11:55 {Ronja Ryövärintytär (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824005 13
+24 8 CMoreFirst 13:30 {Fun Size (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824006 13
+24 8 CMoreFirst 15:00 {Annika Bengtzon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824007 13
+24 8 CMoreFirst 16:35 {The We and The I (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824008 13
+24 8 CMoreHits 13:15 {Just Go With It (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824006 13
+24 8 CMoreHits 15:10 {Quills - syntiset säkeet (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824007 13
+24 8 CMoreHits 17:10 {Vauva vapaalla (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824008 13
+24 8 CMoreAction 12:45 {Taru sormusten herrasta - Sormuksen ritarit (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824005 13
+24 8 CMoreAction 15:40 {Taru sormusten herrasta - kaksi tornia (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824006 13
+24 8 CMoreEmotion 12:20 {Smurffit (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824005 13
+24 8 CMoreEmotion 14:10 {Phil Spector (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824006 13
+24 8 CMoreEmotion 15:40 {Jane Eyre (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824007 13
+24 8 CMoreEmotion 17:40 {To liv (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824008 13
+24 8 CMoreSeries 12:00 {Mad Men} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824010 13
+24 8 CMoreSeries 13:00 {Mad Men} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824011 13
+24 8 CMoreSeries 14:00 {The Newsroom} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824012 13
+24 8 CMoreSeries 15:00 {Strike Back: Vengeance} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824013 13
+24 8 CMoreSeries 16:00 Revolution http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824014 13
+24 8 CMoreSeries 17:00 Revolution http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824015 13
+24 8 CMoreKids 13:20 {Karvakamut 3 (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824018 13
+24 8 CMoreKids 14:35 Minuscule http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824019 13
+24 8 CMoreKids 15:05 {Autot 2 (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824020 13
+24 8 CMoreKids 16:50 {Andy Pandy} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824021 13
+24 8 CMoreKids 16:55 {Andy Pandy} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824022 13
+24 8 CMoreKids 17:00 {Show Me Show Me} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824023 13
+24 8 CMoreKids 17:25 {Mister Maker} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824024 13
+24 8 CMoreKids 17:45 ZingZillas http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824025 13
+24 8 CMoreKids 17:55 {Buzz & Tell} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824026 13
+24 8 SF-Kanalen 14:00 {Under solen (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824006 13
+24 8 SF-Kanalen 16:05 {Sixten (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824007 13
+24 8 SF-Kanalen 17:25 {Tilapäinen vaimo haussa (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824008 13
+24 8 CMoreFirst 18:30 {Moonrise Kingdom (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824009 13
+24 8 CMoreFirst 20:05 {Albert Nobbs (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824010 13
+24 8 CMoreHits 18:50 {Fast & Furious 5 (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824009 13
+24 8 CMoreAction 18:40 {Taru sormusten herrasta - kuninkaan paluu (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824007 13
+24 8 CMoreEmotion 19:20 {2 päivää New Yorkissa (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824009 13
+24 8 CMoreSeries 18:00 {True Blood} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824016 13
+24 8 CMoreSeries 19:00 {The Newsroom} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824017 13
+24 8 CMoreSeries 20:00 Dexter http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824018 13
+24 8 CMoreKids 18:05 {Buzz & Tell} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824027 13
+24 8 CMoreKids 18:10 Bobinogs http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824028 13
+24 8 CMoreKids 18:20 {Andy's Wild Adventures} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824029 13
+24 8 CMoreKids 18:35 Gigglebiz http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824030 13
+24 8 CMoreKids 18:50 {Mr Bloom's Nursery} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824031 13
+24 8 CMoreKids 19:10 {Nina & the Neurons VII: Engineering} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824032 13
+24 8 CMoreKids 19:25 Tellytales http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824033 13
+24 8 CMoreKids 19:35-19:48 {The Roly Mo Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAF20130824034 13
+24 8 SF-Kanalen 19:00 {Kaikkea sinä keksitkin, Marikki! (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824009 13
+24 8 CMoreFirst 22:00 {Hobitti - Odottamaton matka (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824011 13
+25 08 CMoreFirst 00:45 {Fright Night (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824012 13
+25 08 CMoreFirst 02:35-04:13 {Room 237 (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAK20130824013 13
+24 8 CMoreHits 21:00 {Pappi lukkari talonpoika vakooja (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824010 13
+24 8 CMoreHits 23:05 {Klo 15:10 lähtö Yumaan (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824011 13
+25 08 CMoreHits 01:05 {La Journaliste (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824012 13
+25 08 CMoreHits 02:35-04:15 {Diary of Love (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAS20130824013 13
+24 8 CMoreAction 22:00 {Hamilton (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824008 13
+24 8 CMoreAction 23:40 {007 Skyfall (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824009 13
+25 08 CMoreAction 02:00-03:55 {Bras, Panties, Scissors (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CF320130824010 13
+24 8 CMoreEmotion 21:00 {Korttelivahdit (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824010 13
+24 8 CMoreEmotion 22:45 {Morsiusneidot (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824011 13
+25 08 CMoreEmotion 00:50 {Tiny Furniture (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824012 13
+25 08 CMoreEmotion 02:25-04:04 {Prom (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFD20130824013 13
+24 8 CMoreSeries 21:00 {Strike Back: Vengeance} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824019 13
+24 8 CMoreSeries 22:00 {The Borgias} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824020 13
+24 8 CMoreSeries 23:00 Banshee http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824021 13
+25 08 CMoreSeries 00:00 Banshee http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824022 13
+25 08 CMoreSeries 01:00 {True Blood} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824023 13
+25 08 CMoreSeries 02:00 Shameless http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824024 13
+25 08 CMoreSeries 03:00-03:51 Shameless http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CFC20130824025 13
+24 8 SF-Kanalen 21:00 {Joker (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824010 13
+24 8 SF-Kanalen 22:45 {Henkivartijat (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824011 13
+25 08 SF-Kanalen 00:35 {Kommissarie Späck (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824012 13
+25 08 SF-Kanalen 02:00 {Ruumis kateissa (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824013 13
+25 08 SF-Kanalen 03:45-05:22 {Heartbreak Hotel (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SFK20130824014 13

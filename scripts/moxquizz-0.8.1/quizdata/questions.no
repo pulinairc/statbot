@@ -1,0 +1,2058 @@
+#
+# $Id: questions.no,v 1.3 2002/02/24 15:54:55 chat Exp $
+#
+# ------------------------------------------------------------------------------
+#
+#  Editor:  	 Julia33
+#  Last edited:  2001-10-05
+#  Last checkin: $Date: 2002/02/24 15:54:55 $
+#  Comment:      Includes questions from BriZen
+#
+# ------------------------------------------------------------------------------
+
+## Demo-Entry:
+#  ----------
+#  Category: History
+#  Question: Chinese philosopher (um 500 v. Chr.) ?
+#  Answer: Konfuzius
+#  Regexp: [ck]onfu(ts|z)ius
+#  Author: anonymous
+#  Level: hard
+#  Comment: demo-entry, ÄÖÜäöüß ^° !"§$%&/()=? `´
+#  Score: 5
+#  Tip: Kon......
+#  Tip: ...fuz...
+#  Tip: ......ius
+
+## valid keys:
+#  ----------
+#  Category?                              (should always be on top!)
+#  Question                               (should always stand after Category)
+#  Answer                                 (will be matched if no regexp is provided)
+#  Regexp?                                (use UNIX-style expressions)
+#  Author?                                (the brain behind this question)
+#  Level? [baby|easy|normal|hard|extreme] (difficulty)
+#  Comment?                               (comment line)
+#  Score? [#]                             (credits for answering this question)
+#  Tip*                                   (provide one or more hints)
+#  TipCycle? [#]                          (Specify number of generated tips)
+
+## WARNING:
+#  -------
+#  DO NOT ADD COMMENTS BEYOND THIS LINE, since they might get lost.
+#  you may add as much comments as you want into the part above
+#  <!========================================================!>
+
+Category: geografi
+Question: Hva heter hovedstaden i Spania?
+Answer: Madrid
+
+Category: geografi
+Question: Hva heter hovedstaden i Egypt?
+Answer: Kairo
+
+Category: musikk
+Question: Hva heter vokalisten i gruppa DDE?
+Answer: Bjarne Brønnbo
+
+Question: Hvor mange meter er det i en nautisk mil?
+Answer: 1852
+
+Question: Hva heter myntenheten i Sveits?
+Answer: Franc
+
+Question: Hva heter myntenheten i Etiopia?
+Answer: Birr
+
+Category: Geografi
+Question: I hvilket land ligger Victoria Ørkenen?
+Answer: Australia
+
+Category: Musikk
+Question:  Hva er Elton John's virkelige navn?
+Answer: Reginald Dwight
+
+Category: Geografi
+Question: I hvilken verdensdel finner du elven Niger?
+Answer: Afrika
+
+Category: Litteratur
+Question: Fra hvilket Shakespear stykke finner du disse ord: "To be or not to be"?
+Answer: Hamlet
+
+Category: musikk
+Question: Hvor mange symfonier skrev Beethoven?
+Answer: 9
+
+
+Category: Anatomi
+Question: Hvor mange liter med luft er det i en voksen lunge?
+Answer: 5
+
+Category: Geografi
+Question: Hva heter hovedstaden i Pakistan?
+Answer: Islamabad
+
+Category: Geografi
+Question: Hvilket land forbinder du med Fidel Castro?
+Answer: Cuba
+
+Category: Natur
+Question: En en-humpet kamel kalles en ........?
+Answer: Dromedar
+
+Category: Geografi
+Question: Hva heter hovedstaden i Colombia?
+Answer: Bogota
+
+Question:(Geografi) Lagos er hovedstaden i .......?
+Answer: Nigeria
+
+Question:(Natur)  Hva kalles en kastrert hest?
+Answer: Vallak
+
+Category: Geofrafi
+Question: Hva kalles den minste Canadiske provinsen?
+Answer: Prince Edward Island
+
+Question: Hvilket ord forbinder du med disse tre: -maling, -bøl, -negl?
+Answer: Finger
+
+Category: Show Biz
+Question: Hvem er Tippi Hedren's datter?
+Answer: Melanie Griffith
+
+Category: Kjemi
+Question: Hva er det kjemiske symbolet for radon?
+Answer: Rn
+
+Category: Astronomi
+Question: Denne planetens diameter er nesten lik jordens..?
+Answer: Venus
+
+Question: Hva er myntenheten i Tanzania?
+Answer: Shilling
+
+Category: Geografi
+Question: I hvilket hav ligger Seychellene?
+Answer: Indiske
+
+Question: Navnet Lego kommer fra hvilke danske ord?
+Answer: leg godt
+
+Question: Hva heter kjæresten til Kermit?
+Answer: miss piggy
+
+Question:(Film) Hvilken Marlon Brando film ble bannlyst over hele verden?
+Answer: Siste tango i Paris
+
+Category: Sport
+Question: Hvilken sport forbinder du med Jack Nicklaus?
+Answer: golf
+
+Question:(Historie)  Hva var det siste kinesiske dynastiet?
+Answer: Manchu
+
+Category: Geografi
+Question: Hva er hovedstaden i Portugal?
+Answer: Lisboa
+
+Category: Musikk
+Question: Et gruppe for fem musikere kalles en .......?
+Answer: Kvintett
+
+Question: Hvilket land er verdens nest største produsent av gull?
+Answer: Sør Afrika
+
+Category: Fort, fort... ;
+Question: Hva heter statsministeren i Norge?
+Answer: Jens Stoltenberg
+
+Category: Fort, fort.... ;
+Question: Er Norge medlem av EU?
+Answer: Nei
+
+Category: Geografi
+Question: Hvilket land har den høyeste registrerte temperaturen målt noen gang, 13.september 1922, med 58 C?
+Answer: Libya
+
+Question: Hvilken britisk leder ble født på et dametoalett under en dansefest?
+Answer: Winston Churchill
+
+Question: Det er umulig å nyse med øynene ....?
+Answer: Åpne
+
+Question: Alle klokkene i hvilken film står fast på 4:20 ?
+Answer: Pulp Fiction
+
+Question: Hva er den eneste fisken som kan blunke til deg med begge øynene?
+Answer: Hai
+
+Question: Hva kjøpte amerikanerne fra russerne for $7,200 000 i 1867?
+Answer: Alaska
+
+Question: Hvilket land er det største spansk-talende land i verden?
+Answer: Mexico
+
+Category: Geografi
+Question: Det eneste stedet i verden hvor man kan se solen stå opp i Stillehavet, og gå ned i Atlanterhavet er..?
+Answer: Panama
+
+Question: Hvilken elv er den eneste som renner både nord og sør for ekvator?
+Answer: Kongo
+
+Question: Romeo og Julie bodde i hvilken Italiensk by?
+Answer: Verona
+
+Question: Mark Twain refererte til dette når han snakket om et "stomach Steinway" ?
+Answer: Trekkspill
+
+Question: Den første ikke-kongelige personen som ble avbildet på et britisk frimerke var.....?
+Answer: William Shakespeare
+
+Question: Van Gogh begynte å tegne når han var hvor gammel..?
+Answer: 27
+
+Question: I 1900 var det 8000 av disse i USA, i 1919 var det 6 millioner....HVA?
+Answer: Biler
+
+Question: Det er nøyaktig 1048576 bytes i en ........?
+Answer: Megabyte
+
+Question: Hva er 330330 ganger større enn jorden?
+Answer: Sola
+
+Question: Hva heter kronprins Haakons forlovede?
+Answer: Mette Marit Tjessem Høiby
+
+Question: Hvor mange år kan en struts bli?
+Answer: 75
+
+Category: Film
+Question: "Groovy, smashing! yay capitalism" .....hvilken film?
+Answer: Austin Powers
+
+Question: Hva heter Jane Seymour egentlig?
+Answer: Joyce Penelope Wilhelmina Frankenberg
+
+Question: Madrid er hovedstaden i.....?
+Answer: Spania
+
+Question: Hvilken popartist heter egentlig Reginald Dwight?
+Answer: Elton John
+
+Question: Islamabad er hovedstaden i...?
+Answer: Pakistan
+
+Category: Kjemi
+Question: Hva er forkortelsen for grunnstoffet Magnesium?
+Answer: Mg
+
+Category: Kjemi
+Question: Hva er forkortelsen for grunnstoffet Bly?
+Answer: Pb
+
+Question: Hva heter det hardeste av alle mineraler?
+Answer: Diamant
+
+Question: Hva heter den mest vanlige flaggermusarten i Europa?
+Answer: Dvergflaggermus
+
+Question: Hva er det latinske navnet på brunrotte?
+Answer: Rattus Norvegicus
+
+Question: Hvilken dyrefamilie tilhører jerven?
+Answer: Mårfamilien
+
+Question: Hva er betegnelsen på nordlige flatestrekninger hvor telen holder seg i jorden hele året, og hvor det er for kaldt til å trær kan vokse?
+Answer: Tundra
+
+Question: Kan du nevne et annet navn på spermasetthval?
+Answer: Kaskelott
+
+Question: Hvilken fuglefamilie tilhører Vepsevåken?
+Answer: Haukefamilien
+
+Question: Hva heter Norges nasjonalfugl?
+Answer: Fossekall
+
+Question: Hva heter den største av alle gjessene?
+Answer: Kanadagås
+
+Question: Hva er de to første ordene i bibelen?
+Answer: I begynnelsen
+
+Question: Hva heter den store elva som renner ut i persiabukta?
+Answer: Eufrat
+
+Question: Hvilket år falt Berlinmuren?
+Answer: 1989
+
+Question: Når ble Mikhail Gorbatsjov president i Sovietunionen?
+Answer: 1985
+
+Question: Hvem ble europamester i skøyter, allround, i Trondheim i 1980?
+Answer: Kay Stenshjemmet
+
+Question: Hvem fremførte Norges bidrag til Grand-Prix, "Samiid Ædnan", i 1980?
+Answer: Sverre Kjelsberg og Mattis Hætta
+
+Question: Hva het plattformen som veltet på Ekofisk feltet 27.mars 1980, der 123 mennesker omkom?
+Answer: Alexander L Kielland
+
+Question: Hvilket år døde Sir Alfred Hitchcock?
+Answer: 1980
+
+Question: Hva heter vulkanen i delstaten Washington som hadde et voldsomt utbrudd 18.mai 1980?
+Answer: St. Helens
+
+Question: Hvilken tunnell forbinder Italia og Frankrike?
+Answer: Mont Blanc tunnellen
+
+Question: Hvem sang "Any way you want me" ?
+Answer: Elvis Presley
+
+Question: Hvem spiller hovedrollene i filmen "Jeg, meg og Irene"?
+Answer: Jim Carrey og Renee Zellweger
+
+Question: Hvem spiller hovedrollen i filmen "Erin Brockovich"?
+Answer: Julia Roberts
+
+Question: Hvem spilte hovedrollene i filmen "Runaway bride"?
+Answer: Julia Roberts og Richard Gere
+
+Question: I hvilken film spilte Whitney Houston og Kevin Costner sammen?
+Answer: The bodyguard
+
+Question: Hvem spilte den kvinnelige hovedrollen i filmen "Naturens spill"?
+Answer: Sandra Bullock
+
+Question: Hva heter produsenten av filmen "Coyote ugly"?
+Answer: Jerry Bruckheimer
+
+Question:Hva heter filmen der nordmannen Lars Arentz Hansen spiller mot blant annet Leonardo Dicaprio?
+Answer: The beach
+
+Question: Hva heter filmen der Julia Roberts og Hugh Grant spiller sammen"
+Answer: Notting Hill
+
+Question: Hva heter hovedstaden i Senegal?
+Answer: Dakar
+
+Question: Hvor mange dager var det i 1976?
+Answer: 366
+
+Question: Dakar er hovedstaden i .......?
+Answer: Senegal
+
+Question: Hva heter nordmannen som debuterte for Liverpool i juli 2001?
+Answer: John Arne Riise
+
+Question: Hva heter jerbanestrekningen som går mellom Åndalsnes og Bjorli?
+Answer: Raumabanen
+
+Question: Hva heter de fire artistene som utgjør "Gitarkameratene"?
+Answer: Øystein Sunde, Halvdan Sivertsen, Lillebjørn Nilsen og Jan Eggum
+
+Question: Hva heter kjæresten til prinsen av Wales?
+Answer: Camilla Parker Bowles
+
+Question: Hvilket av stjernetegnene er det eneste som ikke symboliserer et levende vesen?
+Answer: Vekten
+
+Question: Raumabanen går mellom ......... og ......?
+Answer: Åndalsnes og Bjorli
+
+Question: Hvor betaler man med Yen?
+Answer: Japan
+
+Question: Hva er "samlenavnet" på José Carreras, Placido Domingo og Luciano Pavarotti?
+Answer: De tre tenorer
+
+Question: Hvor lang er en engelsk mil?
+Answer: 1609 meter
+
+Question: Hva var guden Tors våpen?
+Answer: hammeren Mjølner
+
+Question: Hva heter trikkeføreren i Kardemommeby?
+Answer: Syversen
+
+Question: Hvilket bilkonsern produserer Golf?
+Answer: Volkswagen
+
+Question: I hvilket europeisk land har de fire offesielle språk?
+Answer: Sveits
+
+Question: Hvilke to norske byer er kjent for sine jazzfestivaler?
+Answer: Molde og Kongsberg
+
+Question: På grensen mellom hvilke to land ligger fjellkjeden Pyreneene?
+Answer: Frankrike og Spania
+
+Question: På hvilken dansk øy ligger Odense?
+Answer: Fyn
+
+Question: Hva het romernes krigsgud?
+Answer: Mars
+
+Question: Hva het Senterpartiet før 1959?
+Answer: Bondepartiet
+
+Question: Hvem var Russlands siste tsar?
+Answer: Nikolai II
+
+Question: Hvem skrev "Øst for Eden"?
+Answer: John Steinbeck
+
+Question: Hvilken norsk forfatter fikk Nobelprisen i litteratur i 1928?
+Answer: Sigrid Undset
+
+Question: Hva var Johan Borgens pseudonym?
+Answer: Mumle Gåsegg
+
+Question: Hvem skrev "Den fjerde nattevakt"? 
+Answer: Johan Falkberget
+
+Question: Hva heter generaldirektøren i Verdens Helseorganisasjon (WHO) ?
+Answer: Gro Harlem Brundtland
+
+Question: Når har prinsesse Märta Louise fødselsdag?
+Answer: 22.september
+
+Question : Fra neste år blir 19. august ny offesiell flaggdag. Hvorfor?
+Answer: Mette Marits fødselsdag
+
+Question: I hvilket land var Idi Amin diktator?
+Answer: Uganda
+
+Question: Fra hvilket land kommer komponisten Bela Bartok fra?
+Answer: Ungarn
+
+Question: Hva het Odins hest?
+Answer: Sleipner
+
+Question: Hvem ble også kalt "Jomfruen fra Orleans"?
+Answer: Jeanne d'Arc
+
+Question: Hvem oppdaget røntgenstrålene?
+Answer: Wilhelm von Røntgen
+
+Question: Hva heter komikeren Falsk til fornavn?
+Answer: Herodes
+
+Question: Hvilken nasjon tilhører Gibraltar?
+Answer: Storbritannia
+
+Question: Hva het Burkina Faso tidligere?
+Answer: Øvre Volta
+
+Question: Hvilket land tilhører Øst-Timor i dag?
+Answer: Indonesia
+
+Question: I hvilket hav ligger øystaten Mauritsius?
+Answer: Det indiske hav
+
+Question: Hvor ligger Fredens Hav og Stillhetens Hav?
+Answer: På månen
+
+Question: Hvor ligger FNs krigsforbryterdomstol?
+Answer: Haag, Nederland
+
+Question: I hvilket år døde Olof Palme?
+Answer: 1986
+
+Question: I hvilket år ble Bergensbanen offesielt åpnet?
+Answer: 1909
+
+Question: Fram til hvilket år praktiserte de venstrekjøring i Sverige?
+Answer: 1967
+
+Question: Når vant Vebjørn Rodal OL-gull på 800 meter?
+Answer: 1996
+
+Question: Hva står forkortelsen SAS for?
+Answer: Scandinavian Airlines System
+
+Question: Hva er en ventrilokvist?
+Answer: Buktaler
+
+Question: Hvilket apparat brukes for å registrere jordskjelv?
+Answer: Seismograf
+
+Question: Hvilke fylker grenser Hedmark til?
+Answer: Sør-Trøndelag, Oppland og Akershus
+
+Question: Hvor opererer Taliban-geriljaen?
+Answer: Afghanistan
+
+Question: Hva heter hovedstaden i Sierra Leone?
+Answer: Freetown
+
+Question: Et annet navn på buktaler?
+Answer: Ventrilokvist
+
+Question: På hvilken fangeøy satt Nelson Mandela i fengsel i mange år?
+Answer: Robben Island
+
+Question: Hva het Bangladesh tidligere?
+Answer: Øst-Pakistan
+
+Question: I hvilket fylke ligger Lesjaverk?
+Answer: Oppland
+
+Question: Hvem er avbildet på den norske femti-lappen?
+Answer: Peter Christen Asbjørnsen
+
+Question: Hvem er landslagssjef for de norske langrennsgutta?
+Answer: Pål Gunnar Mikkelsplass
+
+Question: Hva heter lederen av Sosialistisk Venstreparti (SV)?
+Answer: Kristin Halvorsen
+
+Question: Hvem ble verdensmester i fotball i 1998?
+Answer: Frankrike
+
+Question: Hvilken idrett forbinder du med Kristian Hammer og Kenneth Braaten?
+Answer: Kombinert
+
+Question: Hvilke farger har de olympiske ringene?
+Answer: Blå, gul, svart, grønn og rød
+
+Question: Hvor lenge varer en ishockeykamp?
+Answer: 60 minutter
+
+Question: Hvor mange spillere er det på hvert lag i innebandy?
+Answer: 6
+
+Question: Hvilken idrett forbinder du med Bente Nordby?
+Answer: Fotball
+
+Question: Kan du et annet navn på Sveriges ishockeylandslag?
+Answer: Tre kronor
+
+Question: I hvilket fylke ligger Harstad?
+Answer: Troms
+
+Question: I hvilket fylke ligger Andenes?
+Answer: Nordland
+
+Question: Hvilken engelsk fotballspiller kalles "Gazza"?
+Answer: Paul Gascoigne
+
+Question: Hvor kom skiløperen Sondre Nordheim fra?
+Answer: Morgedal i Telemark
+
+Question: Hva heter de to avdelingene i Stortinget?
+Answer: Odelstinget og Lagtinget
+
+Question: Hva er det motsatte av konveks?
+Answer: Konkav
+
+Question: Hva heter den egyptiske solguden?
+Answer: Ra
+
+Question: Hvor mye veier 1 liter vann?
+Answer: 1 kilo
+
+Question: Hvor mange farger er det i regnbuen?
+Answer: 7
+
+Question: Hvilken farge har rubinen?
+Answer: Rød
+
+Question: Hva heter myr - og sumpområdet i det sørlige Florida?
+Answer: Everglades
+
+Question: I hvilken fjellkjede ligger Mount Everest?
+Answer: Himalaya
+
+Question: Santiago er hovedstaden i.....?
+Answer: Chile
+
+Question: Hvor kommer avisen Romsdals Budstikke ut?
+Answer: Molde
+
+Question: Hva het vinneren av den norske utgaven av Big Brother?
+Answer: Lars Joakim Ringom
+
+Question: Hva kalles de vannsprutende kildene på Island?
+Answer: Geysirer
+
+Question: Hvor skal neste VM i fotball for menn arrangeres?
+Answer: Japan og Sør-Korea
+
+Question: I hvilken enhet måles energi?
+Answer: Joule
+
+Question: Hvor mange sider er det i et trapes?
+Answer: Fire
+
+Question: Hva står bokstavene IT for?
+Answer: Informasjonsteknologi
+
+Question: Hvem oppfant boktrykkerkunsten?
+Answer: Gutenberg
+
+Question: Hvor mange knokler består menneskets skjelett av?
+Answer: ca 200
+
+Question: Hvem komponerte "Kjempeviseslåtten"?
+Answer: Harald Sæverud
+
+Question: Hva het den siste svensk/norske unionskongen?
+Answer: Oscar 2
+
+Question: Når falt skuddene i Sarajevo?
+Answer: 28.juni 1914
+
+Question: Hva het keiseren som regjerte i Østerrike-Ungarn i 1914?
+Answer: Frans Josef
+
+Question: I hvilket år fikk norske kvinner stemmerett?
+Answer: 1913
+
+Question: Hva heter de seks statene som tilsammen utgjorde det gamle Jugoslavia?
+Answer: Slovenia, Kroatia, Makedonia, Serbia, Montenegro og Bosnia-Hercegovina
+
+Question: Hvilket land ble ledet av Fidel Castro?
+Answer: Cuba
+
+Question: Hvor ligger "den himmelske freds plass"?
+Answer: Beijing
+
+Question: Når fikk britiske kvinner stemmerett?
+Answer: 1918
+
+Question: Hva het de to brødrene som fant opp den første flymaskinen?
+Answer: Orville og Wilbur Wright
+
+Question: Hva het den gamle keiserbyen i Japan?
+Answer: Kyoto
+
+Question: Hvem var David Livingstone?
+Answer: skotsk misjonær og oppdager
+
+Question: Hvor ble det gjennomført en stor student demonstrasjon i 1989?
+Answer:Den himmelske freds plass
+
+Question: Hva het de to byene som ble bombet med atombomber i slutten av 2. verdenskrig?
+Answer: Hiroshima og Nagasaki
+
+Question: Hva kalles den dagen det store børskrakket i New York fant sted?
+Answer: Den svarte torsdagen
+
+Question: Når var den svarte torsdagen?
+Answer: 24.oktober 1929
+
+Question: statene Slovenia, Kroatia, Makedonia, Serbia, Montenegro og Bosnia-Hercegovina utgjorde tilsammen hvilket land?
+Answer: Jugoslavia
+
+Question: Hvor var Frans Josef keiser?
+Answer: Østerike-Ungarn
+
+Question: Hvem fikk stemmerett i 1913?
+Answer: Norske kvinner
+
+Question: Hva kaller man en rødbrun hest?
+Answer: Fuks
+
+Question: I hvilken by finner vi Spansketrappen?
+Answer: Roma
+
+Question:Ved hvilken by ligger Torp flyplass?
+Answer: Sandefjord
+
+Question: I hvilket land er moussaka nasjonalrett?
+Answer: Hellas
+
+Question: I hvilken by virket Al Capone?
+Answer: Chicago
+
+Question: Gro Harlem Brundtland var stasminister i hvor mange år?
+Answer: 11
+
+Question: Hva heter nasjonalretten i Hellas?
+Answer: Moussaka
+
+Question: Hva slags dyr er en kamelon?
+Answer: øgle
+
+Question: I hvilken by ligger hovedkvarteret til Amnesty International?
+Answer: London
+
+Question: Hvem spilte hovedrollen i filmen "Ni liv"?
+Answer: Jack Fjeldstad
+
+Question: I hvilket år hadde filmklassikeren "Casablanca" premiere?
+Answer: 1943
+
+Question: Hvilken norsk skihopper har flest OL-gull?
+Answer: Birger Ruud
+
+Question: Hvem var FNs første generalsekretær?
+Answer: Trygve Lie
+
+Question: Hva heter den unge piken i Ibsens "Vildanden"?
+Answer: Hedvig
+
+Question: Hva heter Thor Heyerdahls bok om Påskeøya?
+Answer: Aku-Aku
+
+Question: Hvem ledet den "lange marsjen"?
+Answer: Mao Tse-tung
+
+Question: Hvem malte det berømte bildet "Vinternatt i Rondane"?
+Answer: Harald Sohlberg
+
+Question: Hva het Knut Hamsun opprinnelig?
+Answer: Knut Pedersen
+
+Question: I hvilket år gikk atom-ubåten Nautilus under Nordpolen?
+Answer: 1958
+
+Question: Byen der John F. Kennedy ble skutt, heter?
+Answer: Dallas
+
+Question: Hva slags fabrikk eide Willy Wonka?
+Answer: sjokoladefabrikk
+
+Question: Hvor mange prosent vann er det i en agurk?
+Answer: 95
+
+Question: Sommer-OL i 1912 ble arrangert i?
+Answer: Stockholm, Sverige
+
+Question: I hvilken by ligger FN-bygningen?
+Answer: New York
+
+Question:I hvilket år skjedde kjernekraftulykken i Tsjernobyl?
+Answer: 1989
+
+Question:Hva er et annet navn på lumbago?
+Answer: Hekseskudd
+
+Question: Hvilken kjent norsk forfatter het opprinnelig Knut Pedersen?
+Answer: Knut Hamsun
+
+Question: Hvor mange ganger ble Franklin D. Roosevelt valgt til USAs president?
+Answer: 4
+
+Question: Hvem har skapt skikkelsene Ludvig og Solan?
+Answer: Kjell Aukrust
+
+Question: I hvilken by ble FN-pakten inngått?
+Answer: San Francisco
+
+Question: Hvilket Europeisk land solgte i 1917 Virgin Islands til USA?
+Answer: Danmark
+
+Question: Hvem skrev fremtidsromanen "1984"?
+Answer: George Orwell
+ 
+Question: Hvilken tryllekunstner hevdet å kunne bøye skjeer o.l ved tankens kraft?
+Answer: Uri Geller
+
+Question: Hvem ble Norges første kvinnelige gullvinner i et sommer-OL?
+Answer: Linda Andersen
+
+Question: Israel okuperte Golan Høyden....fra hvem?
+Answer: Syria
+
+Question: Audun Boysens norgesrekord på 800 meter fra 1955 stod i 37 år. Hva var rekorden?
+Answer: 1.45.9
+
+Question: Hvem var norsk statsminister i 1905?
+Answer: Christian Michelsen
+
+Question: Hvem komponerte musikken til "West side story"?
+Answer: Leonard Bernstein
+
+Question: I hvilken italiensk by ligger operahuset La Scala?
+Answer: Milano
+
+Question: Hva heter statsministerboligen i London?
+Answer: Downing Street 10
+
+Question: Hollywood er forstad til hvilken amerikansk by?
+Answer: Los Angeles
+
+Question: Hvem er Vegard Ulvang gift med?
+Answer: Grete Ingeborg Nykkelmo
+
+Question: Hvem kalles "The Herminator"?
+Answer: Herman Maier
+
+Question: Hvem er sjef for det norske kvinnelandslaget i håndball?
+Answer: Marit Breivik
+
+Question: Hva het Dagsavisen tidligere?
+Answer: Arbeiderbladet
+
+Question: Hva står forkortelsen DVD for?
+Answer: Digital Versatile Disc
+
+Question: Hvilken styreform har Luxembourg?
+Answer: Storhertugdømme
+
+Question: Kan du et annet navn på Sri Lanka?
+Answer: Ceylon
+
+Question: Hva heter bukta mellom Frankrikes vestkyst og Spanias nordkyst?
+Answer: Biscayabukta
+
+Question: Hva heter den britiske nasjonalsangen?
+Answer: God save the Queen
+
+Question: Hvilket land tilhører øya Sumatra?
+Answer: Indonesia
+
+Question: I hvilket land ble kruttet oppfunnet?
+Answer: Kina
+
+Question: Hvor ligger Bolivia?
+Answer: Sør-Amerika
+
+Question: Hvor i verden finnes det mest diamanter?
+Answer: Sør-Afrika
+
+Question: Hva heter hjembyen til Lene Marlin?
+Answer: Tromsø
+
+Question: Hvilken verdensberømt popstjerne kalles ofte Macca?
+Answer: Paul Mccartney
+
+Question: Hvem synger låten "That don't impress me much"?
+Answer: Shania Twain
+
+Question: I hvilken verdensdel ligger Andorra?
+Answer: Europa
+
+Question: Hva het mannen som fant bortkomne Dr. Livingstone i Afrika?
+Answer: Henry Morton Stanley
+
+Question: Hvilken Norsk by fikk først elektrisk gatebelysning?
+Answer: Hammerfest
+
+Question: Hvor finner vi elven Darling?
+Answer: Australia
+
+Question: Hvor ligger den berømte Blå Moské?
+Answer: Istanbul
+
+Question: Hvor ligger det berømte hotellet Raffles?
+Answer: Singapore
+
+Question: Hvem bodde på Trollhaugen?
+Answer: Edvard Grieg
+
+Question: I hvilket land ligger fjellet Ararat?
+Answer: Tyrkia
+
+Question: Hvem skrev tonediktet "Finlandia"?
+Answer: Jean Sibelius
+
+Question: Hva er fluor?
+Answer: grunnstoff
+
+Question: Hvem av evangelisten skrev juleevangeliet i Bibelen?
+Answer: Lukas
+
+Question: Hva står plateforkortelsen CD for?
+Answer: compact disc
+
+Question: Egypts hovedstad heter?
+Answer: Kairo
+
+Question: Hva het moren til Elizabeth I?
+Answer: Anne Boleyn
+
+Question: Hva er det hardeste benet i menneskekroppen?
+Answer: kjevebeinet
+
+Question: Hvilken by ligger på østsiden av San Francisco bukta?
+Answer: Oakland
+
+Question: Hovedstaden i Peru heter?
+Answer: Lima
+
+Question: På hvilken elv ble Roma bygget?
+Answer: Tiber
+
+Question: Kingston er hovedstaden i ?
+Answer: Jamaica
+
+Question: Nick, Howie, Brian, Alexander og Kevin. Hvilket band?
+Answer: Backstreet Boys
+
+Question: Hvor i Norge kommer popduoen M2M fra?
+Answer: Lørenskog
+
+Question: Hvem sang sammen med Paul McCartney i "The girl is mine"?
+Answer: Michael Jackson
+
+Question: Hva het Cliff Richards første hit?
+Answer: Move it
+
+Question: Hvilket år døde Elvis Presley?
+Answer: 1977
+
+Question: Hva heter urinnvånerne på New Zealand?
+Answer: Maorier
+
+Question: Hvor finner vi Det Sixtinske Kapell?
+Answer: Vatikanet
+
+Question: Ved hvilken by ligger Årø flyplass?
+Answer: Molde
+
+Question: Hva heter flyplassen i Kristiansund N ?
+Answer: Kvernberget
+
+Question: Hva heter øya som ligger midt i Mjøsa?
+Answer: Helgøya
+
+Question: Hva heter Norges eldste by?
+Answer: Tønsberg
+
+Question: I hvilken by finner vi fotballklubben Clausenengen?
+Answer: Kristiansund
+
+Question: Hvilken by har en porselensblomst i byvåpenet sitt?
+Answer: Porsgrunn
+
+Question: Hvem skrev "Familien på Gimle"?
+Answer: Jonas Lie
+
+Question: Når ble det nye registreringssystemet for bilskilt innført i Norge?
+Answer: 1971
+
+Question: Hvilken kornsort dyrkes det mest av i Norge?
+Answer: Bygg
+
+Question: Hvilket år skilte vi lag med Sverige?
+Answer: 1905
+
+Question: Hvem har skrevet "På loven sitter nissen med sin julegrøt"?
+Answer: Margrete Munthe
+
+Question:Hva kalles det stedet som ligger rett over et jordskjelvs sentrum?
+Answer: Episentrum
+
+Question: Hva heter dronning Elizabeth av Storbritannias barn?
+Answer: Charles, Anne, Andrew og Edward
+
+Question: Hva heter nevøene til Donald Duck?
+Answer: Ole, Dole og Doffen
+
+Question: I hvilket fylke ligger Svartisen?
+Answer: Nordland
+
+Question: Hvilken TV serie forbinder du med Henriette Lien?
+Answer: Hotel Cæsar
+
+Question: Fra hvilket land kommer popgruppa The Cardigans?
+Answer: Sverige
+
+Question: Hvilket språk snakkes i Mexico?
+Answer: Spansk
+
+Question: Hva kalles det når månen går foran sola?
+Answer: Solformørkelse
+
+Question: Hva het Marilyn Monroe opprinnelig?
+Answer: Norma Jean Mortenson
+
+Question: Hva het Kennedys visepresident, som overtok embetet da presidenten ble skutt?
+Answer: Lyndon B Johnson
+
+Question: Hvilken president måtte trekke seg på grunn av Watergate skandalen?
+Answer: Richard Nixon
+
+Question: Hva het den colombianske fotballspilleren som laget selvmål i VM i USA og ble myrdet da han kom hjem?
+Answer: Andres Escobar
+
+Question: Hvilken svart amerikansk borgerrettighetsforkjemper og Nobelvinner ble skutt og drept i 1968?
+Answer: Martin Luther King
+
+Question: Hvem kom på fornavn med en hel verdensdel da han gikk i land på kysten av Venezuela i 1499 og fikk to kontinenter oppkalt etter seg?
+Answer: Amerigo Vespucci
+
+Question: Hvem skrev bl.a "Tryllefløyten" og "Figaros bryllup"?
+Answer: Wolfgang Amadeus Mozart
+
+Question: Hva het generalen som styrte Spania helt til han døde i 1975?
+Answer: Francisco Franco
+
+Question: Hvem var Italias enehersker under 2.verdenskrig?
+Answer: Benito Mussolini
+
+Question: Hvilken stumfilmstjerne ble kalt "steinansiktet"?
+Answer: Buster Keaton 
+
+Question: Hvem grunnla psykoanalysen som teori og behandlingsmåte?
+Answer: Sigmund Freud
+
+Question: Hvem skrev "Det kommunistiske manifest"?
+Answer: Karl Marx
+
+Question: Hvem spilte Kojak?
+Answer: Telly Savalas
+
+Question: Hva het den chilenske presidenten som ble drept under statskuppet i 1973?
+Answer: Salvador Allende
+
+Question: Hvilken degendarisk indisk frihetskjemper brukte ikke-vold i sin kamp mot den britiske kolonimakten?
+Answer: Mahatma Gandhi
+
+Question: Ved hvilken by ligger flyplassen Kvernberget?
+Answer: Kristiansund
+
+Question: Hvilken fotballklubb forbinder du med Michael Owen, Harry Redknapp og Vegard Heggem?
+Answer: Liverpool
+
+Question: Hvilken farge får du når du blander gult og blått?
+Answer: grønn
+
+Question: Hva heter "jeg elsker deg" på tysk?
+Answer: Ich liebe dich
+
+Question: Hvor gammel ble Metusalem?
+Answer: 969
+
+Question: Hvilken britisk øy har fått en egen ku-rase oppkaldt etter seg?
+Answer: Jersey
+
+Question: Storbritannia består av fire deler, det er....?
+Answer: England, Wales, Skottland og Nord Irland
+
+Question: Hva heter sønnen til Kronprinsesse Mette-Marit?
+Answer: Marius Borg Høiby
+
+Question: Hvem er skuespilleren Mari Maurstad gift med?
+Answer: Aage Kvalbein
+
+Question: Hvem spilte den kvinnelige hovedrollen i filmen Bridget Jones dagbok?
+Answer: Renee Zellweger
+
+Question: Hvilken kvinnelig popstjerne spiller en av hovedrollene i den helskrudde professoren 2?
+Answer: Janet Jackson
+
+Question: Hvem spiller sine hjemmekamper på Anfield Road?
+Answer: Liverpool
+
+Question: Hvem spiller sine hjemmekamper på Elland Road?
+Answer: Leeds
+
+Question: Hvem spiller sine hjemmekamper på Pride Park?
+Answer: Derby
+
+Question: I hvilket fylke ligger Averøy?
+Answer: Møre og Romsdal
+
+Question: I hvilket fylke ligger Raufoss?
+Answer: Oppland
+
+Question: Hvilke to fylker grenser ikke til havet?
+Answer: Oppland og Hedmark
+
+Question: Hva slags farge får man hvis man blander rød og gul?
+Answer: oransje
+
+Question: Hva heter den nordligste byen i Nordland?
+Answer: Narvik
+
+Question: Gitarkameratene består av: Halvdan Sivertsen, Øystein Sunde, Lillebjørn Nilsen og....?
+Answer: Jan Eggum
+
+Question: Hvorfor blir 19 august offesiell flaggdag fra 2002?
+Answer: Kronprinsessens bursdag
+
+Question: Hvor mange meter er en nautisk mil?
+Answer: 1852
+
+Question: Hva heter de svenske kongebarna?
+Answer: Victoria, Carl-Philip og Madeleine
+
+Question: Hva heter forfatteren av boken "Trist som faen"?
+Answer: Ari Behn
+
+Question: Hvor mange planeter er det i vårt solsystem?
+Answer: 9
+
+Question: To store norske lærerorganisasjoner skal fusjonere fra 1.1.02...hvilke?
+Answer: Norsk Lærerlag og Lærerforbundet
+
+Question: Hvor mange disipler hadde Jesus?
+Answer: 12
+
+Question: I hvilket år døde Kong Haakon 7?
+Answer: 1957
+
+Question: Hva het dronningen som har en høyskole i Tronheim oppkalt etter seg?
+Answer: Dronning Maud
+
+Question: I hvilket fylke ligger Røssvatnet?
+Answer: Nordland
+
+Question: Hvor havner et brev med postnummer 3000?
+Answer: Drammen
+
+Question: Hvem sang "True Love" sammen med Bing Crosby?
+Answer: Grace Kelly
+
+Question: Hvem skrev om Alberte og Jacob?
+Answer: Cora Sandel
+
+Question: Hvilke vesner førte de falne til Valhall?
+Answer: Valkyriene
+
+Question: Hvilke to begrep står sentralt i taoismen?
+Answer: Yin og Yang
+
+Question: Hvilken bok er det bare 48 eksemplarer igjen av i verden?
+Answer: Gutenbergs bibel
+
+Question: Hvilken surrealistisk maler kalte metoden sn for den "paranoik-kritiske"?
+Answer: Salvador Dali
+
+Question: Hva kalles vitenskapen om det gamle Egypts kultur og historie?
+Answer: Egyptologi
+
+Question: Hva skal ifølge tradisjonen vinneren av billøpet Indianapolis 500 drikke?
+Answer: Melk
+
+Question: Hva kalles trommen som samiske trollmenn brukte?
+Answer: Runebomme
+
+Question: I hvilket land ligger Agra?
+Answer: India
+
+Question: Hvor mange hjerter har en blekksprut?
+Answer: 3
+
+Question: Hvilken folkegruppe grunnla New York city?
+Answer: Hollenderne
+
+Question: Hva heter hovedstaden i Etiopia?
+Answer: Addis Abeba
+
+Question: Hva måler man med et hygrometer?
+Answer: Luftfuktigheten
+
+Question: I hvilken by fikk breakdance sitt gjennombrudd?
+Answer: New York
+
+Question: I hvilket land kom Boris Pasternaks "Dr Zhivago" ut?
+Answer: Italia
+
+Question: Hvilken gren av kamelslekten finnes bare i Andesfjellene?
+Answer: Lamaen
+
+Question: Hvilken prosess har de fleste typene pulverkaffe blitt utsatt for?
+Answer: Frysetørring
+
+Question: I hvilket hav ligger øy-paradiset Seychellene?
+Answer: Det Indiske hav
+
+Question: Hva var vikingenes leidarstein en forløper for?
+Answer: Kompasset
+
+Question: Hva står forkortelsen MA for?
+Answer: Motorvognførernes Avholdsforbund
+
+Question: I hvilken by ligger fylkesadministrasjonen i Finnmark fylke?
+Answer: Vadsø
+
+Question: Hvilket land er Sentral-Amerikas minste?
+Answer: El Salvador
+
+Question: Hvilket Europeisk land er tynnest befolket?
+Answer: Island
+
+Question: Hvem var guvernør i California fra 1967 til 1975?
+Answer: Ronald Reagan
+
+Question: Hva henger ned fra ganen?
+Answer: drøvelen
+
+Question: Hvem skjuler seg bak psaudonymet Plut?
+Answer: Arne Hestenes
+
+Question: Hvilken av Thor Heyerdals reiseskildringer er blir oversatt til flest språk?
+Answer: Kon-Tiki
+
+Question: Hva er et diopter?
+Answer: Kikkertsikte
+
+Question: Hvordan skrives 2000 med romertall?
+Answer: MM
+
+Question: I hvilket land leses Financial Times mest?
+Answer: England
+
+Question: Hva het Sovjets statsleder fra 1953 til 1964?
+Answer: Nikita Khrutsjov
+
+Question: Hva står forkortelsen BNP for?
+Answer: Brutto Nasjonalprodukt
+
+Question: Hva het den greske filosofen som først inndelte dyrene i arter?
+Answer: Aristoteles
+
+Question: Hvilke to fylker deler Femundsmarka Nasjonalpark mellom seg?
+Answer: Hedmark og Sør-Trøndelag
+
+Question: Hvor mange tagger hadde det første frimerket?
+Answer: ingen
+
+Question: Hvilken hollandsk mester malte 64 selvportretter?
+Answer: Rembrandt
+
+Question: Hvor på kroppen er huden minst følsom?
+Answer: Hælen
+
+Question: Hvor ofte har vi VM i fotball?
+Answer: hvert fjerde år
+
+Question: Hva heter det havet som romerne kalte Mare Nostrum?
+Answer: Middelhavet
+
+Question: Hvilket musikalsk begrep ble skapt av den amerikanske disc-jockeyen Alan Freed?
+Answer: Rock'n roll
+
+Question: Hvilken president sa "Ich bin ein berliner"?
+Answer: John F. Kennedy
+
+Question: Hvilken norsk forfatter sa at det gikk 10.000 fengselsdirektører på en poet?
+Answer: Jens Bjørneboe
+
+Question: Snur magnetnålen seg når man flytter seg fra den nordlige til den sydlige havkule?
+Answer: Nei
+
+Question: Hvilken øvelse er den siste i tikamp?
+Answer: 1500 meter
+
+Question: Hvilken republikk ligger nærmest England?
+Answer: Frankrike
+
+Question: Hvem skrev og sang Lady Jane?
+Answer: Mick Jagger
+
+Question: Hvilken tidsregning begynner år 622 e.Kr?
+Answer: den muslimske
+
+Question: Hva het det berømte søskenparet som vokste opp på Eisvoll prestegård på 1800 tallet?
+Answer: Camilla og Henrik Wergeland
+
+Question: Hvilken vekst ga oss kaffeerstatning under krigen?
+Answer: Sikori
+
+Question: Hva behøves i tillegg til Tia Maria for å få til en Black Russian?
+Answer: Vodka
+
+Question: Hvilket lands flagg består av et blått kors på hvit bunn?
+Answer: Finland
+
+Question: Hvem ble kalt "en gal hund" av Ronald Reagan?
+Answer: Gaddafi
+
+Question: Hvem skrev "Under gullregnen"?
+Answer: Marie Hamsun
+
+Question: Hva er den vanligste fargen på en amethyst?
+Answer: Fiolett
+
+Question: Hva heter stedet som er start og mål for seilasen Skaw Race?
+Answer: Hankø
+
+Question: Hva heter Norges største isbre?
+Answer: Jostedalsbreen
+
+Question: Hva var opprinnelig karnevalet innledningen til?
+Answer: Fasten
+
+Question: Hva heter tegneseriefiguren Goofy på norsk?
+Answer: Langbein
+
+Question: I hvilken sport har Ivan Lendl utmerket seg?
+Answer: tennis
+
+Question: I hvilket land heter nasjonalforsamlingen Alltinget?
+Answer: Island
+
+Question: Hvilket slektsnavn bruker alle nålevende medlemmer av det svenske kongehuset?
+Answer: Bernadotte
+
+Question: Hva heter tiurens make?
+Answer: Røy
+
+Question: Hvor langt fra sandgraven er planken som lengdehopperen tar sats på?
+Answer: 1 meter
+
+Question: Hvor mange striper er det i USAs flagg?
+Answer: 13
+
+Question: Hvem komponerte operaen Carmen?
+Answer: Georges Bizet
+
+Question: Hvilket land må du reise til hvis du vil bestige fjellet Kebnekaise?
+Answer: Sverige
+
+Question: Hvilken kvinnelig britisk forfatter solgte flest bøker i 1986?
+Answer: Barbara Cartland
+
+Question: Hvilken norsk elv kan man skue utover fra Royal Garden Hotel?
+Answer: Nidelva
+
+Question: På hvilken øy ligger Odense?
+Answer: Fyn
+
+Question: Hvem skapte jazz-klassikeren Take Five?
+Answer: Dave Brubeck
+
+Question: Hva er froskeperspektiv det motsatte av?
+Answer: Fugleperspektiv
+
+Question: Hvilken klubb har vunnet flest nordnorske mesterskap i fotball før 1969?
+Answer: Bodø Glimt
+
+Question: I hvilken storby ligger Ealing?
+Answer: London
+
+Question: Hvilken musical utspiller seg i Olderdalen?
+Answer: Bør Børson jr
+
+Question: Hva var en volve i den nordiske mytologien?
+Answer: en trollkvinne
+
+Question: Hvem overtok sjefsstolen etter Toralf Maurstad på Nationaltheateret?
+Answer: Kjetil Bang-Hansen
+
+Question: Hvor mange hjul er det på en tandemsykkel?
+Answer: to
+
+Question: Hva er hovedbestanddelen i vermut?
+Answer: Hvitvin
+
+Question: Fra hvilket land kommer elefantmannen?
+Answer: england
+
+Question: Hvor mange sønner fikk Adam og Eva?
+Answer: tre
+
+Question: Hvem er lystets gud i norrøn mytologi?
+Answer: Balder
+
+Question: I hvilket land heter hovedstaden Ulan Bator?
+Answer: Mongolia
+
+Question: Hvem var gift med Joe DiMaggio og Arthur Miller?
+Answer: Marilyn Monroe
+
+Question: Hva har deltakerne i Donald Duck-mesterskapet på beina når de konkurrerer?
+Answer: Ski og joggesko
+
+Question: Hvem skrev den stygge andungen?
+Answer: Hans Christian Andersen
+
+Question: Hvilket land er Kinshasa hovedstad i?
+Answer: Zaire
+
+Question: Hvilken kvinnelig skuespiller og gjøgler fikk en velfortjent Oscar i 1983, etter 25 år i bransjen?
+Answer: Shirley Maclaine
+
+Question: Hvilken by var Marco Polos hjemby?
+Answer: Venezia
+
+Question: Hva betyr Homo Ludens?
+Answer: Det lekende mennesket
+
+Question: Hva heter Norges største ovn-produsent?
+Answer: Jøtul
+
+Question: Hvem fikk Norges beste plassering under OL i Los Angeles i 1984?
+Answer: Grete Waitz
+
+Question: Hvilke to japanske byer består av bokstavene K,O,O,T og Y?
+Answer: Tokyo og Kyoto
+
+Question: Hvilken britisk sangerinne oppmuntret de allierte under 2.verdenskrig?
+Answer: Vera Lynn
+
+Question: Hvor ligger strandområdene som ble døpt Omaha, Juno og Gold?
+Answer: Normandie
+
+Question: Hvilket ord brukes for vokalen "o" i det internasjonale fonetiske alfabetet?
+Answer: Oscar
+
+Question: Hvilket hav er temmelig nøyaktig halvparten så stort som Stillehavet?
+Answer: Atlanterhavet
+
+Question: Hvilken norsk gruppe hadde sin debutkonsert i Perth, Australia?
+Answer: A-ha
+
+Question: Hvem var Indias første kvinnelige statsminister?
+Answer: Indira Gandhi
+
+Question: Hva er en somnabulist?
+Answer: søvngjenger
+
+Question: Hvilke tre stater utgjør tilsammen Atlas-statene?
+Answer: Marokko, Algerie og Tunis
+
+Question: Hva betyr det latinske "amo"?
+Answer: jeg elsker
+
+Question: I hvilket hav fisker svenskene sin strømming?
+Answer: Østersjøen
+
+Question: Hva het faren til Camilla og Henrik?
+Answer: Nicolai Wergeland
+
+Question: Hvilket land har alltid deltatt i VM i fotball?
+Answer: Brasil
+
+Question: I hvilket land er du hvis du lander i Plock?
+Answer: Polen
+
+Question: Hvem har en sønn som heter Diablito?
+Answer: Morgan Kane
+
+Question: Hvem blir kalt for "the crazy norwegian"?
+Answer: Martin Schanche
+
+Question: Hvilken by ble grunnlagt av Aleksander den store i år 331 f.Kr?
+Answer: Alexandria
+
+Question: Hvor mange Oscar fikk "Amadeus"?
+Answer: åtte
+
+Question: Hvor mange år må man være gift for å feire diamantbryllup?
+Answer: 65 år
+
+Question: Hva heter Japans største øy?
+Answer: Honshu
+
+Question: Hvilken krise førte til opprettelsen av den såkalte Hot Line?
+Answer: Cuba-krisen
+
+Question: Hva har broccoli og blomkål utviklet seg fra?
+Answer: Kål
+
+Question: Hvor mange øvelser er det i turn for menn?
+Answer: seks
+
+Question: Hvilken by er også blitt kalt "Nordens Venezia"?
+Answer: Stockholm
+
+Question: Hvem handlet Pete Seegers "Who killed NOrma Jean" om?
+Answer: Marilyn Monroe
+
+Question: Hvilket land ligger under Aswandammen?
+Answer: Egypt
+
+Question: Hva lyder den største norske pengeseddelen på?
+Answer: 1000 kroner
+
+Question: I hvilken sport deltar mygger og miniputter?
+Answer: fotball
+
+Question: Hva heter hovedstaden i Bulgaria?
+Answer: Sofia
+
+Question: Hvem sang Hello Mary Lou?
+Answer: Ricky Nelson
+
+Question: Hvor er Hammilton hovedstad?
+Answer: Bermuda
+
+Question: Hvilket stoff som de fleste av oss får for lite av, får avføringen til å flyte?
+Answer: Fiber
+
+Question: Hvilket år foregikk vinter-OL i Squaw Valley?
+Answer: 1960
+
+Question: Hvor ligger det australsk-eide Keiser Wilhelms land?
+Answer: Antarktis
+
+Question: Hva er Loran C og Omega?
+Answer: Navigasjonssystemer
+
+Question: Hva er kendo?
+Answer: Japansk kampsport
+
+Question: Hvilket politisk parti forlot Wenche Lowsow?
+Answer: Høyre
+
+Question: Hva heter det portugisiske området på det kinesiske fastland?
+Answer: Macao
+
+Question: Hvem spilte i Øst for Eden, Rotløs ungdom og Giganten?
+Answer: James Dean
+
+Question: Hva heter tvillingene som ifølge legenden grunnla Roma?
+Answer: Remus og Romulus
+
+Question: Hvilken by har en mur man kan klage og gråte ved?
+Answer: Jerusalem
+
+Question: Hvem stilte Questionet Do ya think i'm sexy?
+Answer: Rod Stewart
+
+Question: Hvilken bok er en fortsettelse av Tom Sawyer?
+Answer: Huckleberry Finn
+
+Question: Hva er en postmatur nedkomst
+Answer: for sen nedkomst
+
+Question: Hva var det John L Sullivan som siste tungvektsbokser ikke brukte når han bokset?
+Answer: boksehansker
+
+Question: Hvilket hav omslutter Maldivene?
+Answer: Det Indiske hav
+
+Question: Hvilket lands nasjonaldikter het Petrarca?
+Answer: Italia
+
+Question: Hva heter det største kattedyret i Norge?
+Answer: Gaupe
+
+Question: Hvilken elv fosser nedover Victoriafallene?
+Answer: Zambezi
+
+Question: Hva er Stomperuds livrett?
+Answer: Pølse med lompe
+
+Question: Hvilken skandinavisk by skal være grunnlagt av Birger Jarl?
+Answer: Stockholm
+
+Question: Hva satte Thor Heyerdahl fyr på?
+Answer: Tigris
+
+Question: Hvem skrev "De elendige"?
+Answer: Victor Hugo
+
+Question: Hvilken lidelse plages Oddvar Brå, Ove Aunli og Anette Bøe av?
+Answer: Astma
+
+Question: I hvilket byggverk finner vi Olavshallen, Vågehals og Blåtårnet?
+Answer: Akershus festning
+
+Question: Hvilken engelsk gruppe holdt avskjedskonsert 12.oktober 1982 i New York?
+Answer: The Who
+
+Question: I hvilket slag var hesten Comanche den eneste overlevende på tapersiden?
+Answer: Little Big Horn
+
+Question: Hva måles i Bequerel?
+Answer: Radioaktivitet
+
+Question: Hvem står i bronse foran Maratonporten på Bislett?
+Answer: Grete Waitz
+
+Question:Hva heter de to byene midtveis mellom Moss og Halden?
+Answer: Fredrikstad og Sarpsborg
+
+Question: Hva ble funnet utenfor øya Runde i 1972?
+Answer: En myntskatt
+
+Question: Hvem ble irettesatt med ordene: "I ditt ansikts sved skal du ete ditt brød"?
+Answer: Adam
+
+Question: Hva kalles feltene mellom de to blå stripene på ishoceybanen?
+Answer: Nøytrale soner
+
+Question: Hva tar man avtrykk av hvis man skal ha et "fingeravtrykk" av en hund?
+Answer: Nesen
+
+Question: Hva ligger lengst mot nord, Svarlbard eller Bjørnøya?
+Answer: Svalbard
+
+Question: I hvilket stykke av Ibsen møter vi Ellida Wangel?
+Answer: Fruen fra havet
+
+Question: Hva kaller man dryppsteiner som henger ned fra taket i dryppsteingrotter?
+Answer: Stalakitter
+
+Question: I hvilket skandinavisk land ligger Louisiana?
+Answer: Danmark
+
+Question: Hvilken gruppe spilte i "Rock around the clock"?
+Answer: Bill Haley and the Comets
+
+Question: Hvor mange tenner har en mygg?
+Answer: 47
+
+Question: Hva het forløperen til ishockey?
+Answer: Landhockey
+
+Question: På hvilken kyststrekning ligger Torghatten?
+Answer: Helgelandskysten
+
+Question: På hvilken øy ligger fjellkjeden "De syv søstre"?
+Answer: Alstenøya
+
+Question: Hvilke produkter kommer fra en bøkkers hånd?
+Answer: Tønner
+
+Question: Hvilket land ga fra seg Florida til USA i 1819?
+Answer: Spania
+
+Question: Hvor mange oppgaver måtte Hercules utføre før han ble fri?
+Answer: 12
+
+Question: Hvilken norsk by kalles også Nordens Paris?
+Answer: Tromsø
+
+Question: Hva het gjennomgangsmelodien i den Oscar-belønnete "Breakfast at Tiffany's"?
+Answer: Moon river
+
+Question: Hva står de fem olympiske ringene for?
+Answer: verdensdelene
+
+Question: Hvilken komponist er kjent for "Den ufullendte symfoni"?
+Answer: Franz Schubert
+
+Question: Hvilken by i Frankrike har den travleste havnen?
+Answer: Marseille
+
+Question: Hvilket språk ble Det gamle testamentet skrevet på?
+Answer: Hebraisk
+
+Question: Hvilken tysk-amerikansk viteskapsmann kunne ikke fordra å gå med sokker i skoene?
+Answer: Albert Einstein
+
+Question: I hvilket land ligger Java og Sumatra?
+Answer: Indonesia
+
+Question: Hva heter myntenheten i Portugal?
+Answer: Escudos
+
+Question: Hva er det som kan måles i omfar?
+Answer: Maskevidde
+
+Question: Hva står forkortelsen EBU for?
+Answer: European Broadcasting Union
+
+Question: Hvor mange mosebøker fins det?
+Answer: fem
+
+Question: I hvilken sykdomsbehandling brukes det gull og sølvnåler?
+Answer: Akupunktur
+
+Question: Hvem skapte Ola-Ola?
+Answer: Torbjørn Egner
+
+Question: Hva het tyskernes største slagskip under den 2.verdenskrig?
+Answer: Bismarck
+
+Question: Hvilken gass oppdaget Joseph Priestley i 1774?
+Answer: Oksygen
+
+Question: Hvilken by het Viktoriahavn fra 1887 til 1902?
+Answer: Narvik
+
+Question: Hvem fikk Nobels Fredspris i 1979?
+Answer: Mor Theresa
+
+Question: Hvor gammel var Van Gogh da han begynte å tegne?
+Answer: 27
+
+Question: Hvilken by het Lutetia i riktig gamle dager?
+Answer: Paris
+
+Question: Hvor var det at Gulliver møtte det lille folket?
+Answer: Lilliput
+
+Question: Hvilket lands landslag er blitt trenet av Sepp Piontek?
+Answer: Danmark
+
+Question: Hvilken by var det Hitler drømte om å omdøpe til "Germania"?
+Answer: Berlin
+
+Question: Hvem spilte trompet på LP'en "Miles Smiles"?
+Answer: Miles Davis
+
+Question: Når døde Agatha Christie?
+Answer: 1976
+Author: BriZen
+
+Question: Hva heter den bærømte Krim-forfatteren som døde i 1976?
+Answer: Dame Agatha Christie
+Author: BriZen
+
+Question: Si de 5 store verdensreligionene i stigende rekkefølge.
+Answer: Buddhismen, Hinduismen, Islam, Jødedommen og Kristendommen
+Author: BriZen
+
+Question: Hva måles kraft i?
+Answer: Newton
+Author: BriZen
+
+Question: Hvor mange mosebøker finnes det?
+Answer: 5
+Author: BriZen
+
+Question: Hvor mange prosent fett er det i Tine skummet melk?
+Answer: 0,1
+Author: BriZen
+
+Question: Hvor mange newton er 63 582 kg?
+Answer: 635820
+Author: BriZen
+
+Question: Hvilken Vitamin gir bedre nattesyn?
+Answer: A-Vitamin
+Author: BriZen
+
+Question: Hvor mange kromosoner finnes det i en celle?
+Answer: 46
+Author: BriZen
+
+Question: Hvem skrev "en hanske"?
+Answer: Bjørnstjerne Bjørnson
+Author: BriZen
+
+Question: Hvem etablerte det første norske teateret?
+Answer: Ole Bull
+Author: BriZen
+
+Question: Når var nasjonalteateret ferdig bygget?
+Answer: 1899
+Author: BriZen
+
+Question: Hvem lagde Titten Tei André von Drei?
+Answer: Birgit Strøm
+Author: BriZen
+
+Question: Når var Henrik Ibsens "vildanden" ferdig?
+Answer: 1884
+Author: BriZen
+
+Question: Når døde Henrik Ibsen?
+Answer: 1906
+Author: BriZen
+
+Question: Hvem spilte "The Duke" i filmen "The Duke"?
+Answer: John Wayne
+Author: BriZen
+
+Question: Tom Leppard er verdens mest tatoverte mann. Hvor mange prosent av kroppen hans er dekket?
+Answer: 99,2
+Author: BriZen
+
+Question: Hva heter Canadas hovedstad?
+Answer: Ottawa
+Author: BriZen
+
+Question: Hva er man når ikke tror på noen gud?
+Answer: en Atetist
+Author: BriZen
+
+Question: Hva betyr Mytologi?
+Answer: Muntlig fortelling
+Author: BriZen
+
+Question: Hva er Tanach?
+Answer: Jødenes bibel
+Author: BriZen
+
+Question: Når oppstod Jødedommen?
+Answer: 1000 år før Kristus
+Author: BriZen
+
+Question: Når ble William Shakespeare født?
+Answer: 1564
+Author: BriZen
+
+Question: Når og hvor ble verdens første nakenbryllup utført?
+Answer: 1934 i California
+Author: BriZen
+
+Question: Når "mistet" Anne Boleyn hodet?
+Answer: 1536
+Author: BriZen
+
+Question: Hvem var mannen til Anne Boylen?
+Answer: Henry VIII
+Author: BriZen
+
+Question: Hvem fant Tut-ankh-Amon sin grav?
+Answer: Howard Carter
+Author: BriZen
+
+Question: Hvem fikk Nobels fredspris i 1977?
+Answer: Mairead Corrigan og Betty Williams
+Author: BriZen
+
+Question: Ved hvilken elv kjempet William III mot James II i 1690?
+Answer: elven Boyne
+Author: BriZen
+
+Question: Hvor mange koner hadde kong Henry VIII?
+Answer: 7
+Author: BriZen
+
+Question: Hvilken storby grunnla Gustav Vasa?
+Answer: Helsinki
+Author: BriZen
+
+Question: I hvilket skandinavisk land drikker man mest?
+Answer: Finland
+Author: BriZen
+
+Question: Hvilken verdensdel er den nest minste?
+Answer: Europa
+
+Question: Hvilken stat i India har gitt opphav til navnet både på en tiger og en bukt?
+Answer: Bengal
+
+Question: I hvilken by i USA finner vi verdens bratteste gater?
+Answer: San Francisco
+
+Question: Hvem skrev "Åpenbaringen", bibelens siste bok?
+Answer: Johannes
+
+Question: Hva heter gutten som eier tennene som Karius og Baktus bodde i?
+Answer: Jens
+
+Question: Kan du et annet navn på smørblomst?
+Answer: Engsoleie
+
+Question: Hva heter ungen til hesten?
+Answer: føll
+
+Question: Hvilket nummer kan man sende sms til for å undersøke hvem som eier et spesifikt nummer?
+Answer: 1999
+
+Question: Hvem "satt og skrev på ei lita tavle"?
+Answer: mikkel rev
+
+Question: Hvor mange dager er det i et skuddår?
+Answer: 366
+
+Question: Hva het den populære dansen som ble en landeplage etter Travelling wilburys "The julekalender"?
+Answer: støveldans
+
+Question: Hvem vant VM i formel 1 i 2001?
+Answer: michael schumacher
+
+Question: Hvilken planet kalles "den røde planet"?
+Answer: Mars
+
+Question: Hvem spilte hovedrollen i filmen "Miss undercover"?
+Answer: sandra bullock
+
+Question: Hva heter vokalisten i Vikingarna?
+Answer: Christer Sjøgren
+
+Question: I hvilken by ligger Nidarosdomen?
+Answer: Trondheim
+
+Question: Hva er endestasjonen for Nordlandsbanen i nord?
+Answer: Bodø
+
+Question: Hvilken fjord er Norges lengste?
+Answer: Sognefjorden
+
+Question: Ble Columbus noensinne selv klar over at han hadde oppdaget en ny verdensdel?
+Answer: Nei
+
+Question: Hva heter hovedstaden i Nord-Irland?
+Answer: Belfast
+
+Question: Hva forkortes Light Amplification by Stimulated Emission of Radiation til?
+Answer: laser
+
+Question: Hvilken sport fikk sitt regelverk i 1863?
+Answer: fotball
+
+Question: Hvilket land produserer mest kaffe?
+Answer: Brasil
+
+Question: Mellom hvilke to byer går Ofotbanen?
+Answer: Kiruna og Narvik
+
+Question: Hvem har skrevet diktet "Du ska itte trø i graset"?
+Answer: Einar Skjæraasen
+
+Question: Hva heter ungen til kua?
+Answer: kalv
+
+Question: hva heter flyplassen ved Trondheim?
+Answer: Værnes
+
+Question: Hva heter hovedstaden på Færøyene?
+Answer: Thorshavn
+
+Question: Hvem spiller den kvinnelige hovedrollen i filmen "Miss Undercover"?
+Answer: Sandra Bullock
+
+Question: Hva heter Norges samferdselsminister?
+Answer: Torild Skogsholm
+
+Question: Hvem eide tennene som Karius og Baktus bodde i?
+Answer: Jens
+
+Question: Hvilken by har en flyplass som heter Kjevik?
+Answer: Kristiansand
+
+Question: Hva heter Norges største innsjø?
+Answer: Mjøsa
+
+Question: Hva heter Spanias konge?
+Answer: Juan Carlos
+
+Question: Hva heter dronningen av Danmark?
+Answer: Margrete
+
+Question: Hva heter ungen til hesten?
+Answer: Føll
+
+Question: Hvilket fotballag ble cupmestre i 2001?
+Answer: Viking
+
+Question: Hva heter hovedstaden i Liechtenstein?
+Answer: Vaduz
+
+Question: Hva heter vennene til Pippi Langstrømpe?
+Answer: Tommy og Annika
+
+Question: Hva heter hunden i serien "Vi på saltkråkan"?
+Answer: Båtsmann
+
+Question: Hvilken by ligger i to verdensdeler?
+Answer: Istanbul
+
+Question: Hva er hovedstaden i Nepal?
+Answer: Kathmandu
+
+Question: Hva heter hovedstaden i Nederland?
+Answer: Amsterdam
+
+Question: Hva heter hovedstaden på Færøyene?
+Answer: torshavn
+
+Question: Hvem er det en statue av på torget i Trondheim?
+Answer: Olav Trygvasson
+
+Question: I hvilken idrett vant Kong Olav OL-gull?
+Answer: Seiling
+
+Question: Hva er et kranium?
+Answer: hodeskalle
+
+Question: Hva står Rema 1000 for?
+Answer: Reitan mat
+
+Question: I hvilken by kommer Dagbladet ut?
+Answer: Oslo
+
+Question: Hvem har skrevet boka "Fakta om Finland"?
+Answer: Erlend Loe
+
+Question: Hva er hovedkort på engelsk?
+Answer: motherboard
+
+Question: Hva er safran?
+Answer: krydder
+
+Question: Hva er det offesielle språket i Brasil?
+Answer: portugisisk
+
+Question: Hva heter hovedstaden i Belgia?
+Answer: brussel
+
+Question: Hvilken tone lager en stemmegaffel?
+Answer: a
+
+Question: Hva er gateadressen til Norges slott?
+Answer: Drammensveien 1
+
+Question: Hva får du om du krysser en eselhingst og en heste hoppe?
+Answer: muldyr
+
+Question: Hvem laget opprinnelig Autobahn?
+Answer: adolf hitler
+
+Question: Hvor mange hestekrefter kan en båt ha hvis føreren er under 16 år?
+Answer: 10
+
+Question: Hva heter boybandet Robbie Williams var med i?
+Answer: take that
+
+Question: Hvor ligger Munkholmen?
+Answer: trondheimsfjorden
+
+Question: Hva er gruppa "The Quarry" Men bedre kjent som?
+Answer: The Beatles
+
+Question: Hvilket britisk band hadde kjempehiten "My generation"?
+Answer: The who
+
+Question: Hvilken sjakkbrikke står på H8?
+Answer: Tårnet
+
+Question: Hvor ligger Gullfoss?
+Answer: island
+
+Question: Hva heter den største innsjøen i Afrika?
+Answer: victoriasjøen
+
+Question: Hva heter hovedstaden i Tyskland?
+Answer: Berlin
+
+Question: Hva heter hovedstaden i Australia?
+Answer: canberra
+
+Question: Hva er forsvarets laveste rang?
+Answer: menig
+
+Question: Hvilket bilmerke har modellen RX-7?
+Answer: mazda
+
+Question: Hva heter mannen bak Microsoft?
+Answer: bill gates
+
+Question: Hvor stor er den største Nilkrokodillen som er funnet?
+Answer: 5,94 meter
+
+Question: Hva er det slangen lukter med?
+Answer: Tunga
+
+Question: Hvor mange forskjellige kongekobraer finnes?
+Answer: Seks 
+
+Question: Hvor mange tannsett kan en alligator få i løpet av livet?
+Answer: 40-50 
+
+Question: Hvor mye kan en Havlærskilpadde veie?
+Answer: 916 kg 
+
+Question: Hvordan holder Gekkoene øyeeplene rene?
+Answer: Slikker dem
+
+Question: Hvorfor skifter Kameleonene farge?
+Answer: For å tilpasse seg varmen 
+
+Question: Hvem finner man på 20 kroningen?
+Answer: Harald V 
+
+Question: Hvilken mobil var den første i Norge uten antenne?
+Answer: Nokia 3210 
+
+Question: Hva betyr liter?
+Answer: 1000 
+
+Question: Hvor mange Oscar fikk filmen Platoon?
+Answer: fire
+
+Question: Hva står stjernene i U.S.A.'s flagg for?
+Answer: statene
+
+Question: Hvor ligger Scandinavias eneste smaragdgruve?
+Answer: Minnesund, Norge 
+
+Question: Hvor lang kunne tannen til en Tyrannosaurus rex bli?
+Answer: 18 cm 

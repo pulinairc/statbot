@@ -1,16 +1,15 @@
 # compat.tcl
-#   This script just quickly maps old Tcl functions to the new ones,
-#   use this is you are to lazy to get of your butt and update your scripts :D
-#   by the way it binds some old command to the new ones
+#   This script just quickly maps old Tcl commands to the new ones.
+#   Use this if you are too lazy to get off your butt and update your scripts :D
 #
-# Copyright (C) 2002 - 2008 Eggheads Development Team
+# Copyright (C) 2002 - 2018 Eggheads Development Team
 #
 # Wiktor    31Mar2000: added binds and chnick proc
 # Tothwolf  25May1999: cleanup
 # Tothwolf  06Oct1999: optimized
 # rtc       10Oct1999: added [set|get][dn|up]loads functions
-#
-# $Id: compat.tcl,v 1.15 2008-02-16 21:41:02 guppy Exp $
+# pseudo    04Oct2009: added putdccraw
+# Pixelz    08Apr2010: changed [time] to be compatible with Tcl [time]
 
 proc gethosts {hand} {
   getuser $hand HOSTS
@@ -79,8 +78,20 @@ proc getchanlaston {hand} {
   lindex [getuser $hand LASTON] 1
 }
 
-proc time {} {
-  strftime "%H:%M"
+if {![llength [info commands {TCLTIME}]] && [llength [info commands {time}]]} {
+  rename time TCLTIME
+}
+
+proc time {args} {
+  if {([llength $args] != 0) && [llength [info commands {TCLTIME}]]} {
+    if {[llength [info commands {uplevel}]]} {
+      uplevel 1 TCLTIME $args
+    } else {
+      eval TCLTIME $args
+    }
+  } else {
+    strftime "%H:%M"
+  }
 }
 
 proc date {} {
@@ -101,6 +112,17 @@ proc setuploads {hand {c 0} {k 0}} {
 
 proc getuploads {hand} {
   getuser $hand FSTAT u
+}
+
+proc putdccraw {idx size text} {
+  if {!$idx} {
+    putloglev o * "Warning! putdccraw is deprecated. Use putnow instead!"
+    putnow $text
+    return -code ok
+  }
+  putloglev o * "Warning! putdccraw is deprecated. Use putdcc instead!"
+  if {![valididx $idx]} {return -code error "invalid idx"}
+  putdcc $idx $text -raw
 }
 
 # as you can see it takes a lot of effort to simulate all the old commands

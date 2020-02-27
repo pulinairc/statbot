@@ -1,0 +1,45 @@
+15 4 CMoreTennis 11:30 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415001 13
+15 4 CMoreExtreme 04:35 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130415001 13
+15 4 CMoreSportHD 04:00 {Allsvenskan: Gefle - Halmstad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415001 13
+15 4 CMoreSportHD 08:00 {Allsvenskan: Östers IF - Helsingborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415002 13
+15 4 CMoreSportHD 10:00 {La Liga: Barcelona - Mallorca} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415003 13
+15 4 CMoreSportHD 11:55 {La Liga: Real Madrid - Levante} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415004 13
+15 4 CMoreUrheilu 13:30 {UEFA Champions League viikkomakasiini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130415001 13
+15 4 CMoreUrheilu 14:00 {Elitserien Playoffs: Finaali 1 / Skellefteå - Luulaja} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130415002 13
+15 4 CMoreUrheilu 16:00 {Elitserien Playoffs: Finaali 2 / Luulaja - Skellefteå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130415003 13
+15 4 CMoreTennis 13:30 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415002 13
+15 4 CMoreTennis 15:30 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415003 13
+15 4 CMoreTennis 17:30 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415004 13
+15 4 CMoreAitio 14:10 {Valioliiga: Aston Villa - Fulham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130415001 13
+15 4 CMoreAitio 15:55 {Valioliiga: Newcastle - Sunderland} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130415002 13
+15 4 CMoreAitio 17:45 {Premier League Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130415003 13
+15 4 CMoreSportHD 13:50 {Allsvenskan: Malmö - Kalmar} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415005 13
+15 4 CMoreSportHD 15:50 {La Liga: Athletic Bilbao - Real Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415006 13
+15 4 CMoreSportHD 17:50 {Allsvenskan: Häcken - Djurgården} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415007 13
+15 4 CMoreUrheilu 18:00 {Valioliiga: Reading - Liverpool} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130415004 13
+15 4 CMoreUrheilu 19:50 {Valioliiga: Southampton - West Ham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130415005 13
+15 4 CMoreTennis 19:40 {Tennis: WTA Family Circle Cup Charleston} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415005 13
+15 4 CMoreAitio 18:40 {Serie A: Milan - Napoli} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130415004 13
+15 4 CMoreAitio 20:30 {Jääkiekon A-maaottelu: Norja - Suomi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130415005 13
+15 4 CMoreExtreme 20:00 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130415002 13
+15 4 CMoreExtreme 20:20 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130415003 13
+15 4 CMoreExtreme 20:45 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130415004 13
+15 4 CMoreSportHD 19:45 {Fotboll: Allsvenskan Studio Fotbollsmåndag} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415008 13
+15 4 CMoreSportHD 19:55 {Allsvenskan: Elfsborg - Göteborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415009 13
+15 4 CMoreUrheilu 21:40 {Serie A: Lazio - Juventus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130415006 13
+15 4 CMoreUrheilu 23:45 {La Liga: Athletic Bilbao - Real Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130415007 13
+16 04 CMoreUrheilu 01:35-02:30 {Premier League Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130415008 13
+15 4 CMoreTennis 21:15 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415006 13
+15 4 CMoreTennis 23:40 {Tennis: ABN AMRO WTT Rotterdam 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415007 13
+16 04 CMoreTennis 01:15 {Tennis: ABN AMRO WTT Rotterdam 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415008 13
+16 04 CMoreTennis 03:30-05:35 {Tennis: ABN AMRO WTT Rotterdam 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130415009 13
+15 4 CMoreAitio 22:30 {Valioliiga: Arsenal - Norwich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130415006 13
+16 04 CMoreAitio 00:20-02:05 Barca-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130415007 13
+15 4 CMoreExtreme 21:05 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130415005 13
+15 4 CMoreExtreme 21:30 {Motor: Speedway British Elite League: Belle Vue - Peterborough} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130415006 13
+15 4 CMoreExtreme 23:35 {TUF - The Ultimate Fighter} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130415007 13
+16 04 CMoreExtreme 02:30-03:50 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130415008 13
+15 4 CMoreSportHD 22:00 {Fotboll: Allsvenskan Studio Fotbollsmåndag} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415010 13
+15 4 CMoreSportHD 22:20 {Allsvenskan: Helsingborg - Mjällby} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415011 13
+16 04 CMoreSportHD 00:10 {La Liga: Málaga - Osasuna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415012 13
+16 04 CMoreSportHD 02:00-03:50 {Allsvenskan: Elfsborg - Göteborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130415013 13

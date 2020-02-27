@@ -1,0 +1,140 @@
+28 6 MTV3MAX 08:00 {Hot Rod Tv} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628001 13
+28 6 MTV3MAX 08:30 {Hot Rod Tv} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628002 13
+28 6 MTV3MAX 09:00 {Wayne Carinin autoklassikot} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628003 13
+28 6 MTV3MAX 09:25 {The Car Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628004 13
+28 6 MTV3MAX 09:50 {Kurjat Kuppilat USA} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628005 13
+28 6 MTV3MAX 10:35 {Top Gear USA} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628006 13
+28 6 MTV3MAX 11:20 {Inside Grand Prix: Britannia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628007 13
+28 6 MTV3MAX 11:55 {Formula 1: vapaat harjoitukset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628008 13
+28 6 SubLeffa 05:00 {Child's Play (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628001 13
+28 6 SubLeffa 10:00 {Beverly Hills kyttä (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628002 13
+28 6 SubLeffa 11:45 {Apua, olen muuttunut naiseksi (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628003 13
+28 6 MTV3Fakta 04:05 {Brittipoliist rikollisuuden eturintamassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130627035 13
+28 6 MTV3Fakta 08:00 {Hillerodin sairaalassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628001 13
+28 6 MTV3Fakta 08:25 {Hillerodin sairaalassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628002 13
+28 6 MTV3Fakta 08:50 Elämänlanka http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628003 13
+28 6 MTV3Fakta 09:40 {Erikoistumassa lääkäriksi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628004 13
+28 6 MTV3Fakta 10:30 Helikopterisankarit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628005 13
+28 6 MTV3Fakta 11:15 {Meduusojen invaasio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628006 13
+28 6 SubJuniori 06:00 Teletapit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628001 13
+28 6 SubJuniori 06:30 {Jummi Jammi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628002 13
+28 6 SubJuniori 07:00 {Hyvää huomenta!} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628003 13
+28 6 SubJuniori 07:01 {Keltaisen Kirahvin eläintarinoita} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628004 13
+28 6 SubJuniori 07:05 {Keksijäkylän Lotta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628005 13
+28 6 SubJuniori 07:15 {Tuomas Veturi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628006 13
+28 6 SubJuniori 07:30 {Maija Mehiläinen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628007 13
+28 6 SubJuniori 07:45 {Pikku ja Jätti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628008 13
+28 6 SubJuniori 08:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628009 13
+28 6 SubJuniori 08:05 {Pixi ja taikaseinä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628010 13
+28 6 SubJuniori 08:20 {Ava, Riko ja Teo} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628011 13
+28 6 SubJuniori 08:30 Juniorijumppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628012 13
+28 6 SubJuniori 08:31 {Kaislan komero} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628013 13
+28 6 SubJuniori 08:45 {Kaislan komero} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628014 13
+28 6 SubJuniori 09:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628015 13
+28 6 SubJuniori 09:05 {Masha ja karhu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628016 13
+28 6 SubJuniori 09:15 {Kaarlo ja Perttu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628017 13
+28 6 SubJuniori 09:30 Chuggington http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628018 13
+28 6 SubJuniori 09:45 {Professori Balthazar} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628019 13
+28 6 SubJuniori 09:50 {Sherlock - lasten salapoliisiseikkailu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628020 13
+28 6 SubJuniori 10:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628021 13
+28 6 SubJuniori 10:05 Koalaveljekset http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628022 13
+28 6 SubJuniori 10:20 {Unkarilainen satukirja} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628023 13
+28 6 SubJuniori 10:30 {Pellekaija Pum ja Varaventtiili} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628024 13
+28 6 SubJuniori 10:45 Puuha-Pete http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628025 13
+28 6 SubJuniori 11:00 Dibitassut http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628026 13
+28 6 SubJuniori 11:30 {Maija Mehiläinen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628027 13
+28 6 MTV3MAX 13:35 Motormania http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628009 13
+28 6 MTV3MAX 13:40 {Formula 1: vapaat harjoitukset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628010 13
+28 6 MTV3MAX 15:25 {Motor Forum: FINRAce} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628011 13
+28 6 MTV3MAX 15:55 {Formula 1: vapaat harjoitukset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628012 13
+28 6 MTV3MAX 17:40 Motormania http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628013 13
+28 6 MTV3MAX 17:50 {Formula 1: vapaat harjoitukset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628014 13
+28 6 MTV3Sarja 12:25 {Forsytein taru} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628001 13
+28 6 MTV3Sarja 13:20 Zorro http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628002 13
+28 6 MTV3Sarja 13:45 Zorro http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628003 13
+28 6 MTV3Sarja 14:10 Dallas http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628004 13
+28 6 MTV3Sarja 15:00 {Konnankoukkuja kahdelle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628005 13
+28 6 MTV3Sarja 15:50 Bergerac http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628006 13
+28 6 MTV3Sarja 16:45 {Forsytein taru} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628007 13
+28 6 MTV3Sarja 17:40 Zorro http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628008 13
+28 6 SubLeffa 13:30 {Tsingis-Kaani (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628004 13
+28 6 SubLeffa 15:35 {Huisi hai (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628005 13
+28 6 SubLeffa 16:50 {Transylvania 6-5000 (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628006 13
+28 6 MTV3Fakta 12:15 {Kirjailijat ja rikos} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628007 13
+28 6 MTV3Fakta 13:00 {Kloonasin lemmikkini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628008 13
+28 6 MTV3Fakta 13:50 {Hillerodin sairaalassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628009 13
+28 6 MTV3Fakta 14:15 {Hillerodin sairaalassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628010 13
+28 6 MTV3Fakta 14:40 {Lentokenttä Kööpenhamina - Kastrup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628011 13
+28 6 MTV3Fakta 15:05 Elämänlanka http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628012 13
+28 6 MTV3Fakta 15:55 {Kirjailijat ja rikos} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628013 13
+28 6 MTV3Fakta 16:40 {Merellä ja rannassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628014 13
+28 6 MTV3Fakta 17:05 {Eroon lepakoista!} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628015 13
+28 6 MTV3Fakta 17:30 {Kunnes kuolema erottaa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628016 13
+28 6 SubJuniori 12:00 Juniorijumppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628028 13
+28 6 SubJuniori 12:01 {Van Dogh} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628029 13
+28 6 SubJuniori 12:05 Taitokoulu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628030 13
+28 6 SubJuniori 12:15 {Pinkkupoppoo - Pelastetaan Maa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628031 13
+28 6 SubJuniori 12:30 {Unelmien pallokerho} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628032 13
+28 6 SubJuniori 13:00 Juniorijumppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628033 13
+28 6 SubJuniori 13:01 {Olipa kerran avaruus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628034 13
+28 6 SubJuniori 13:30 Smurffit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628035 13
+28 6 SubJuniori 14:00 Arttu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628036 13
+28 6 SubJuniori 14:30 Pokémon http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628037 13
+28 6 SubJuniori 15:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628038 13
+28 6 SubJuniori 15:05 Pokémon http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628039 13
+28 6 SubJuniori 15:30 {Bibi ja Tiina} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628040 13
+28 6 SubJuniori 16:00 Winx-klubi http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628041 13
+28 6 SubJuniori 16:30 {Dragon Hunters} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628042 13
+28 6 SubJuniori 17:00 Chaplin http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628043 13
+28 6 SubJuniori 17:10 Munamies http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628044 13
+28 6 SubJuniori 17:15 Samu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628045 13
+28 6 SubJuniori 17:30 Vampyyrikoulu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628046 13
+28 6 SubJuniori 17:45 Vampyyrikoulu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628047 13
+28 6 MTV3MAX 19:35 {Villi rannikko} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628015 13
+28 6 MTV3MAX 20:00 {MAX Voima: Strongman Champions League - Serbia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628016 13
+28 6 MTV3Sarja 18:05 Zorro http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628009 13
+28 6 MTV3Sarja 18:30 Hulk http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628010 13
+28 6 MTV3Sarja 19:20 {Hart To Hart} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628011 13
+28 6 MTV3Sarja 20:10 Dallas http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628012 13
+28 6 SubLeffa 18:25 {Over the top - terästäkin kovempi (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628007 13
+28 6 SubLeffa 20:00 {Eedenistä itään (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628008 13
+28 6 MTV3Fakta 18:20 {Kloonasin lemmikkini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628017 13
+28 6 MTV3Fakta 19:10 FBI-kansiot http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628018 13
+28 6 MTV3Fakta 20:05 Parkkisota http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628019 13
+28 6 MTV3Fakta 20:30 Parkkisota http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628020 13
+28 6 MTV3Fakta 20:55 Melupoliisit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628021 13
+28 6 SubJuniori 18:00 {Onnenpäivä: Päivän puuha} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628048 13
+28 6 SubJuniori 18:05 Daltonit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628049 13
+28 6 SubJuniori 18:30 {Paavo Pesusieni} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628050 13
+28 6 SubJuniori 19:00 {Oggi ja torakat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628051 13
+28 6 SubJuniori 19:30-20:00 {Lucky Luken uudet seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=JUN20130628052 13
+28 6 MTV3MAX 21:00 Grip http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628017 13
+28 6 MTV3MAX 21:45 Motormania http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628018 13
+28 6 MTV3MAX 22:00 {Cleveland Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628019 13
+28 6 MTV3MAX 22:30 {Maailman vaarallisimmat tiet} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628020 13
+28 6 MTV3MAX 23:30 {Late Show With David Letterman} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628021 13
+29 06 MTV3MAX 00:15 {Lain nimessä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628022 13
+29 06 MTV3MAX 00:45 {Lain nimessä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628023 13
+29 06 MTV3MAX 01:15-01:41 {World of Freesports} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTM20130628024 13
+28 6 MTV3Sarja 21:00 {Konnankoukkuja kahdelle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628013 13
+28 6 MTV3Sarja 21:50 Bergerac http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628014 13
+28 6 MTV3Sarja 22:45 Hulk http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628015 13
+28 6 MTV3Sarja 23:35 {Me tapaamme jälleen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628016 13
+29 06 MTV3Sarja 00:30-01:25 {Ulkoisen vaaran uhatessa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SAR20130628017 13
+28 6 SubLeffa 21:55 {Last Man Standing (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628009 13
+28 6 SubLeffa 23:35 {Kuukauden koheltajat (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628010 13
+29 06 SubLeffa 01:20 {Gloria (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628011 13
+29 06 SubLeffa 03:10-05:00 {Verinen sotilas (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTL20130628012 13
+28 6 MTV3Fakta 21:20 Melupoliisit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628022 13
+28 6 MTV3Fakta 21:45 Maantiepoliisit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628023 13
+28 6 MTV3Fakta 22:10 Maantiepoliisit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628024 13
+28 6 MTV3Fakta 22:40 {Osasto 6:n naisvangit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628025 13
+28 6 MTV3Fakta 23:30 {Oikeutta Cajunilaisittain} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628026 13
+28 6 MTV3Fakta 23:55 {Oikeutta Cajunilaisittain} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628027 13
+29 06 MTV3Fakta 00:20 {Santa Barbaran poliisipartio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628028 13
+29 06 MTV3Fakta 00:45 {Lentokenttä Kööpenhamina - Kastrup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628029 13
+29 06 MTV3Fakta 01:10 {Kunnes kuolema erottaa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628030 13
+29 06 MTV3Fakta 02:00 Jäljillä http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628031 13
+29 06 MTV3Fakta 02:25 Jäljillä http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628032 13
+29 06 MTV3Fakta 02:50 {Merellä ja rannassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628033 13
+29 06 MTV3Fakta 03:15-04:00 {Jättijalkainen nainen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTF20130628034 13

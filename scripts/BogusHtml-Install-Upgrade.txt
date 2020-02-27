@@ -1,0 +1,185 @@
+
+################################################## Date: 14Aug14 ##
+## BogusHTML 2.06.4 by SpiKe^^      :BogusTrivia Html Page Maker ##
+###################################################################
+
+-------------------------------------------------
+    BogusHTML 2.06.4 Installation Readme File
+-------------------------------------------------
+
+Please Read Carefully!!
+See Below For Important Windrop Information.
+
+!! WARNING !!
+BogusHTML 2.06.4 REQUIRES BogusTrivia 2.06.3+!!
+
+
+The installation instructions below are NECESSARY in their ENTIRETY. This release of BogusHTML requires
+ALL NEW FILES. As always, it is recommended you backup your existing bot configuration. Extensive testing
+has been done in regards to updating BogusTrivia, however mistakes happen, so BACKUP!!
+
+!! WARNING !!
+Uploaded Questions are added to a database and The Files Are Deleted by the Script!
+KEEP Backups of your Trivia Files!!
+
+Important BogusTrivia HTML Shell Setup Notes!!
+1. Be sure to setup your Web Space per your Shell Provider's instructions.
+   Most shell accounts include web space.  Make note of your url.
+   The common shell account web site is http://your.shellbox.net/~yourlogin/
+2. You need to set the following Permissions on your root & public_html directories:
+   a.  you have to chmod 755 on your public_html directory.
+   b.  you have to chmod 711 on your home directory (this directory could be called home or your login name).
+   c.  you have to chmod 700 on your eggdrop directory (or whatever you have named your bot directory.)
+3. Log into your shell. At the prompt use the commands below to create your html directory & set file permissions.
+   Examples:
+   1. Creating the Html Output Directory:
+     makdir public_html
+
+   2. Setting File Permissions:
+     chmod -R 755 public_html
+     chmod 711 home       (or your home directory name)
+     chmod 700 eggdrop    (or your bot's directory name)
+
+====================================================================================================================
+
+New Installation with NO previous version of BogusTrivia Installed: 
+   (Complete Eggdrop Install with BogusTrivia 2.06.4+ & BogusHTML 2.06.4)
+
+1. Add this line to your bot's conf file:   source scripts/t-2.tcl
+2. Download the Newest version of BogusTrivia from my web site at:  http://www.mytclscripts.com/bogustrivia
+   If there is also a newer version of BogusHTML (this is 2.06.4), download & install it instead of this script!
+3. Unzip the contents of the newest available BogusTrivia zip file to your computer.
+4. Open the t-2.settings.tcl and set your channel & game options.
+5. Unzip the contents of the BogusHTML 2.06.4.zip file to your computer.
+6. Open the t-2.html.tcl to change Output Page settings.  
+7. Upload the following files to your bot's /scripts directory:
+     
+     t-2.tcl              :Main BogusTrivia tcl game script
+     t-2.commands.tcl     :Extended BogusTrivia commands tcl
+     t-2.settings.tcl     :BogusTrivia Script Settings tcl (Set All Game Options Here!)
+     t-2.html.tcl         :BogusHTML settings & html page maker script (Set All HTML Options Here!)
+     bogus.ques.sample    :Sample questions  (or some other question files)
+     default.css          :Default style sheet for the default theme of your choice. 
+     index.html           :Template file for Active html index page with Smart Links
+     active.html          :Template file for today, this week, & this month pages
+     ever.html            :Template file for lifetime scores page
+     history.html         :Template file for history scores page(s) 
+     xhistory.html        :Template file for extended history scores page(s)
+
+8. Rehash or Restart your bot.
+
+9. Add Questions to Create the Database:
+
+     Using the /msg command, message your bot with one of the .add commands.
+     .add is sufficient if you're adding the included question file or files with *triv*
+     in the filename(s). Follow the message window as the script may ask for user input.
+     It may have you verify by sending you 3 examples from the file you're adding.
+     You will need to answer yes or no  {or: y or n}. 
+
+     Note: If you are adding multiple question files and You're Sure They're ALL
+           The Same Format, you may answer using "yes all"  {or:  y a}.
+           The script provides error correction and creates a file called t2.badqes,
+           these are broken Q&A and may later be edited or discarded as you wish.
+
+10. Mix the Question database using one of the mixing commands:
+
+     The default .mix will mix the question & kaos files 4 times.
+     Note: Extra large databases may not mix well and stall the bot. This is NOT a BogusTrivia issue.
+           The issue occurs when mixing large databases causes the bot to exceed your shell's process load limit.
+           Try using the mix only once commands:  .mix q 1   :and:  .mix k 1
+
+11. Starting the Game:
+
+     The commands to Start & Stop the Trivia are now script settings. The default on/off triggers are
+     both .t2 and may be changed to anything you like in the t-2.settings.tcl   These are public commands
+     used in the channel and you may set user access by flags in the t-2.settings.tcl to minimize abuse.
+
+12. Pages can later be viewed using the url supplied by your shell provider.
+     Note: A new installation will have no stats available until the first timed save (set in your t-2.settings.tcl)
+           Stats pages and Smart Links show up as the game stats become available to make them.
+
+====================================================================================================================
+
+Upgrade Installation with BogusTrivia 2.06.3+ Installed:
+
+This Upgrade Installation assumes you're already running BogusTrivia 2.06.3+ & have decided to add BogusHTML 2.06.4
+
+1. Backup your existing BogusTrivia installation!
+2. Unzip the contents of the BogusHTML 2.06.4.zip file to your computer.
+3. Open the t-2.html.tcl to change Output Page settings.  
+4. Upload the following files to your bot's /scripts directory:
+     
+     t-2.html.tcl         :BogusHTML settings & html page maker script (Set All HTML Options Here!)
+     default.css          :Default style sheet for the default theme of your choice
+     index.html           :Template file for Active html index page with Smart Links
+     active.html          :Template file for today, this week, & this month pages
+     ever.html            :Template file for lifetime scores page
+     history.html         :Template file for history scores page(s)
+     xhistory.html        :Template file for extended history scores page(s)
+
+5. Rehash or Restart your bot.
+
+6. Use the following /msg commands to make your new html output pages.
+   a.  /msg botnick .make     :Create the standard set of trivia stats pages
+   b.  /msg botnick .makex    :Create any required extended history pages
+       Note: .makex is only required if you have Extended Stats enabled & have an existing history file.
+             You may also want to do .make a second time to fix any possible Smart Links issues.
+
+7. Pages can now be viewed using the url supplied by your shell provider.
+
+====================================================================================================================
+
+Upgrade Installation with a version of BogusTrivia older than 2.06.3 Installed:
+
+This Upgrade Install assumes you're still running an old version of BogusTrivia & now want to add BogusHTML 2.06.4
+
+1. Backup your entire /scripts/t2/ directory!
+2. Download the Newest version of BogusTrivia from my web site at:  http://www.mytclscripts.com/bogustrivia
+   If there is also a newer version of BogusHTML (this is 2.06.4), download & install it instead of this script!
+3. Unzip the contents of the newest available BogusTrivia zip file to your computer.
+4. Open the t-2.settings.tcl and set your channel & game options.
+5. Unzip the contents of the BogusHTML 2.06.4.zip file to your computer.
+6. Open the t-2.html.tcl to change Output Page settings.  
+7. Upload the following files to your bot's /scripts directory:
+
+     t-2.tcl              :Main BogusTrivia tcl game script
+     t-2.commands.tcl     :Extended BogusTrivia commands tcl
+     t-2.settings.tcl     :BogusTrivia Script Settings tcl (Set All Game Options Here!)
+     t-2.html.tcl         :BogusHTML settings & html page maker script (Set All HTML Options Here!)
+     default.css          :Default style sheet for the default theme of your choice. 
+     index.html           :Template file for Active html index page with Smart Links
+     active.html          :Template file for today, this week, & this month pages
+     ever.html            :Template file for lifetime scores page
+     history.html         :Template file for history scores page(s) 
+     xhistory.html        :Template file for extended history scores page(s)
+
+8. Restart your bot.
+
+9. Use the following /msg commands to make your new html output pages.
+   a.  /msg botnick .make     :Create the standard set of trivia stats pages
+   b.  /msg botnick .makex    :Create any required extended history pages
+       Note: .makex is only required if you have Extended Stats enabled & have an existing history file.
+             You may also want to do .make a second time to fix any possible Smart Links issues.
+
+10. Pages can now be viewed using the url supplied by your shell provider.
+
+====================================================================================================================
+
+Important Windrop Information:
+
+IMPORTANT WINDOWS SETUP NOTES!!
+
+BogusTrivia was written to work with web hosting on your shell in mind, it will function perfectly
+in Windows with one exception.  Windrop cannot write to a folder called public_html.  This is a
+protected Windows file.  The work around is changing the route in the t-2.html.tcl file. 
+
+1. Below is the default setting in the t-2.html.tcl and is used by most shell providers.
+   This will NOT work in Windows.
+## set the directory where the updated html pages go!! ##
+set thtm(output) "../public_html"  ;# route from the eggdrop exe folder
+
+2. The below setting places the public_html folder inside the bots root directory.
+   This is recommended.
+## set the directory where the updated html pages go!! ##
+set thtm(output) "public_html"  ;# route from the eggdrop exe folder
+

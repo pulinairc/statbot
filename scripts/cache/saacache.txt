@@ -1,0 +1,288 @@
+{Tie 4 Mäntsälä, Levanto} 17:52 -11.3 -9.7 Pouta Kuiva
+{Tie 4 Hollola, Miekkiö} 17:50 -13.4 -11.2 Pouta Kuiva
+{Tie 4 Heinola, Vierumäki} 17:47 -14.3 -11.8 Pouta Kuiva
+{Tie 4 Sysmä, Onkiniemi} 17:47 -8.5 -7.3 Pouta {Mahdollisesti liukas}
+{Tie 4 Joutsa} 17:47 -8.9 -7.2 Pouta Kostea
+{Tie 12 Hollola, Toivola} 17:50 -14.5 -12.3 Pouta Kuiva
+{Tie 24 Asikkala, Iso-Äiniö} 17:50 -11.4 -12.8 Pouta {Mahdollisesti liukas}
+
+{Tie 5 Mäntyharju, Toivola} 17:46 -8.9 {} Pouta {}
+{Tie 5 Mikkeli} 17:54 -8.6 -7.5 Pouta {Mahdollisesti liukas}
+{Tie 5 Juva, Nuutilanmäki} 17:54 -8.9 -7.5 Pouta Kuiva
+{Tie 5 Joroinen, Puunkolo} 17:52 -9.7 -8.2 Pouta Kuiva
+{Tie 9 Laukaa, Lievestuore} 17:47 -8.6 -7.4 Pouta Kuiva
+{Tie 9 Hankasalmi} 17:47 -8.6 -7.3 Pouta {Mahdollisesti liukas}
+{Tie 13 Mikkeli, Läsäkoski} 17:52 -9.1 -7.1 Pouta Kuiva
+{Tie 14 Rantasalmi, Parkumä} 17:54 -11.1 -9.3 Pouta Kuiva
+{Tie 14 Punkaharju, Kulenno} 17:52 -11.6 -11.5 Pouta Kuiva
+{Tie 15 Mäntyharju, Tommola} 17:48 -9.1 -8.3 Pouta {Mahdollisesti liukas}
+{Tie 23 Pieksämäki, Siikamä} 17:52 -10.7 -9.8 Pouta Kuiva
+{Tie 23 Heinävesi, Suurmäki} 17:52 -15.3 -15.2 Pouta Kuiva
+{Tie 62 Puumala} 17:54 -9.5 -9.0 Pouta Luminen
+
+{Tie 1 Espoo, Nupuri} 17:48 -8.7 -6.9 Heikko Kuiva
+{Tie 110 Vihti, Myllylampi} 17:54 -10.4 -9.3 Pouta {Mahdollisesti liukas}
+{Tie 2 Nummi-Pusula, Salkol} 17:54 -12.1 -9.7 Pouta Kostea
+{Tie 3 Helsinki, Pirkkola} 17:53 -8.4 -7.7 Heikko Kuiva
+{Tie 3 Vantaa, Keimola 2} 17:54 -10.0 -8.3 Pouta Kuiva
+{Tie 3 Hyvinkää} 17:54 -11.1 -10.2 Pouta Kostea
+{Tie 3 Riihimäki} 17:50 -11.7 -10.3 Pouta Kuiva
+{Tie 4 Helsinki, Jakomäki} 17:54 -8.6 -7.5 Pouta Kuiva
+{Tie 4 Kerava, Kytömaa} 17:54 -10.4 -9.6 Pouta Kuiva
+{Tie 4 Mäntsälä, Levanto} 17:52 -11.3 -9.7 Pouta Kuiva
+{Tie 4 Mäntsälä, Ohkola} 17:50 -11.0 -9.9 Pouta {Mahdollisesti liukas}
+{Tie 25 Hanko} 17:48 -5.6 -4.2 Heikko Kuiva
+{Tie 25 Karjaa} 17:52 -7.9 -7.3 Pouta Kuiva
+{Tie 25 Lohja, Virkkala} 17:52 -8.9 -8.8 Pouta Kuiva
+{Tie 25 Vihti, Haimoo} 17:38 -11.7 -9.1 Pouta Kuiva
+{Tie 51 Helsinki, Lapinlaht} 17:52 -7.5 -6.1 Heikko Kuiva
+{Tie 51 Espoo, Kivenlahti} 17:46 -8.1 -7.2 Heikko Kuiva
+{Tie 51 Inkoo} 17:46 -8.3 -7.8 Pouta Kuiva
+
+{Tie 6 Elimäki} 17:51 -12.6 -11.0 Pouta {Mahdollisesti liukas}
+{Tie 7 Sipoo, Sipoonlahti} 17:52 -8.9 -9.2 Pouta Kuiva
+{Tie 7 Porvoo, Harabacka} 17:52 -10.4 -10.0 Pouta {Mahdollisesti liukas}
+{Tie 7 Pernaja, Koskenkylä} 17:46 -11.1 -7.9 Pouta Kuiva
+{Tie 55 Askola, Monninkylä} 17:54 -11.5 -11.2 Pouta {Mahdollisesti liukas}
+
+{Tie 2 Humppila} 17:50 -10.8 -10.6 Pouta {Mahdollisesti liukas}
+{Tie 2 Kokemäki, Seppälänah} 17:46 -9.5 -8.3 Pouta Kostea
+{Tie 2 Pori, Kähkönen} 17:46 -7.5 -8.0 Pouta {Mahdollisesti liukas}
+{Tie 8 Pyhäranta, Ihode} 17:46 -6.0 -5.2 Heikko {Mahdollisesti liukas}
+{Tie 8 Eurajoki} 17:52 -5.2 -4.4 Pouta {Mahdollisesti liukas}
+{Tie 8 Merikarvia, Kuvaskan} 17:52 -10.9 -11.7 Pouta Kostea
+{Tie 11 Kullaa, Sääkskoski} 17:54 -10.2 -10.2 Pouta {Mahdollisesti liukas}
+{Tie 12 Eura} 17:54 -6.9 -6.6 Pouta {Mahdollisesti liukas}
+{Tie 23 Kankaanpää, Hapua} 17:52 -12.1 -12.0 Pouta Kostea
+{Tie 41 Huittinen, Jokisivu} 17:52 -6.6 -5.6 Heikko Kostea
+
+{Tie 110 Salo, Tupuri} 17:54 -8.7 -8.3 Pouta {Mahdollisesti liukas}
+{Tie 2 Humppila} 17:50 -10.8 -10.6 Pouta {Mahdollisesti liukas}
+{Tie 8 Mynämäki, Motelli} 17:54 -5.3 -4.5 Pouta {Mahdollisesti liukas}
+{Tie 8 Pyhäranta, Ihode} 17:46 -6.0 -5.2 Heikko {Mahdollisesti liukas}
+{Tie 9 Mellilä} 17:52 -8.1 -6.6 Heikko Kuiva
+{Tie 10 Koski} 17:52 -10.8 -10.1 Pouta {Mahdollisesti liukas}
+{Tie 11 Kullaa, Sääkskoski} 17:54 -10.2 -10.2 Pouta {Mahdollisesti liukas}
+{Tie 40 Turku, Auranlaakso} 17:54 -6.1 -6.1 Pouta {Mahdollisesti liukas}
+{Tie 41 Huittinen, Jokisivu} 17:52 -6.6 -5.6 Heikko Kostea
+{Tie 52 Perniö} 17:52 -6.4 -6.6 Pouta Kuiva
+{Tie 180 Parainen} 17:54 -5.0 -4.0 Pouta Kuiva
+{Tie 183 Dragsfjärd} 17:54 -4.7 -3.6 Pouta Kuiva
+{Tie 192 Vehmaa, Vehmassalm} 17:52 -4.9 -4.5 Heikko Jäinen
+{Tie 1 Turku, Kupittaa} 17:54 -5.3 -5.0 Pouta Kuiva
+{Tie 1 Piikkiö} 17:54 -6.5 -7.3 Pouta Kostea
+{Tie 1 Paimio, Pitkäporras} 17:54 -7.8 -6.8 Pouta Kuiva
+{Tie 1 Salo, Haukkala} 17:54 -8.6 -7.6 Pouta Kuiva
+{Tie 110 Pertteli, Saha} 17:54 -8.9 -9.4 Pouta {Mahdollisesti liukas}
+
+{Tie 6 Luumäki, Taavetti} 17:51 -9.5 -8.8 Pouta {Mahdollisesti liukas}
+{Tie 6 Lappeenranta} 17:52 -10.4 -9.3 Pouta {Mahdollisesti liukas}
+{Tie 6 Imatra} 17:48 -9.7 -7.9 Pouta Kuiva
+{Tie 6 Parikkala} 17:55 -11.6 -12.2 Pouta Kostea
+{Tie 13 Savitaipale} 17:51 -10.1 -8.4 Pouta Kostea
+{Tie 13 Suomenniemi, Kauria} 17:45 -8.9 -7.8 Pouta Kostea
+{Tie 62 Puumala} 17:54 -9.5 -9.0 Pouta Luminen
+
+{Tie 6 Elimäki} 17:51 -12.6 -11.0 Pouta {Mahdollisesti liukas}
+{Tie 6 Utti} 17:55 -13.0 -10.8 Pouta {Mahdollisesti liukas}
+{Tie 6 Luumäki, Taavetti} 17:51 -9.5 -8.8 Pouta {Mahdollisesti liukas}
+{Tie 7 Kotka, Karhunkangas} 17:52 -10.6 -10.0 Pouta Kuiva
+{Tie 7 Virolahti, Virojoki} 17:51 -12.0 -10.2 Pouta Jäinen
+{Tie 12 Iitti, Mankala} 17:47 -12.4 -11.8 Pouta {Mahdollisesti liukas}
+{Tie 15 Juurikorpi} 17:53 -13.1 -11.1 Pouta Kuiva
+{Tie 15 Mäntyharju, Tommola} 17:48 -9.1 -8.3 Pouta {Mahdollisesti liukas}
+{Tie 26 Hamina, Pyhältö} 17:53 -13.0 -11.0 Pouta Kostea
+
+{Tie 2 Humppila} 17:50 -10.8 -10.6 Pouta {Mahdollisesti liukas}
+{Tie 3 Valkeakoski, Jutikka} 17:50 -7.8 -6.8 Heikko {Mahdollisesti liukas}
+{Tie 3 Lempäälä, Lippo} 17:50 -10.0 -8.1 Heikko {Mahdollisesti liukas}
+{Tie 3 Lempäälä, Kulju} 17:55 -11.0 -9.5 Pouta {Mahdollisesti liukas}
+{Tie 3 Ylöjärvi} 17:50 -10.6 -9.7 Pouta {Mahdollisesti liukas}
+{Tie 3 Ikaalinen, Teikangas} 17:52 -11.4 -10.3 Pouta Kostea
+{Tie 3 Parkano, Lamminkoski} 17:47 -16.2 -14.0 Pouta {Mahdollisesti liukas}
+{Tie 9 Kylmäkoski} 17:50 -11.3 -10.0 Heikko {Mahdollisesti liukas}
+{Tie 9 Orivesi, Kutema} 17:50 -10.2 -8.6 Pouta Kuiva
+{Tie 9 Jämsä} 17:47 -8.3 -7.8 Pouta Kuiva
+{Tie 11 Nokia} 17:50 -11.1 -10.7 Pouta {Mahdollisesti liukas}
+{Tie 12 Vammala, Kärppälä} 17:47 -9.9 -9.1 Pouta Jäinen
+{Tie 12 Tampere, Särkänniem} 17:50 -8.1 -7.5 Pouta {Mahdollisesti liukas}
+{Tie 12 Pälkäne} 17:50 -8.2 -7.0 Heikko Kostea
+{Tie 12 Hauho, Sotjala} 17:50 -9.0 -9.2 Pouta {Mahdollisesti liukas}
+{Tie 23 Virrat} 17:37 -16.5 -13.3 Pouta Kuiva
+{Tie 66 Ruovesi, Mustajärvi} 17:50 -14.6 -13.0 Pouta Kuiva
+
+{Tie 2 Nummi-Pusula, Salkol} 17:54 -12.1 -9.7 Pouta Kostea
+{Tie 2 Humppila} 17:50 -10.8 -10.6 Pouta {Mahdollisesti liukas}
+{Tie 3 Riihimäki} 17:50 -11.7 -10.3 Pouta Kuiva
+{Tie 3 Hämeenlinna, Hattelm} 17:50 -10.8 -9.5 Pouta Kuiva
+{Tie 10 Tammela} 17:50 -12.3 -10.5 Pouta {Mahdollisesti liukas}
+{Tie 12 Hauho, Sotjala} 17:50 -9.0 -9.2 Pouta {Mahdollisesti liukas}
+{Tie 54 Hausjärvi, Pursijär} 17:50 -11.2 -12.1 Pouta Kuiva
+{Tie 130 Valkeakoski, Sääks} 17:50 -7.8 -7.2 Heikko {Mahdollisesti liukas}
+
+{Tie 4 Joutsa} 17:47 -8.9 -7.2 Pouta Kostea
+{Tie 4 Toivakka} 17:47 -9.6 -7.9 Pouta Kostea
+{Tie 4 Laukaa, Vehniä} 17:47 -12.6 -10.5 Pouta Kuiva
+{Tie 4 Äänekoski, Konginkan} 17:47 -11.2 -9.3 Pouta Kuiva
+{Tie 4 Viitasaari, Löytänä} 17:49 -18.3 -14.3 Pouta Kuiva
+{Tie 4 Pyhäjärvi, Vaskikell} 17:47 -15.1 -14.0 Pouta Kuiva
+{Tie 9 Korpilahti} 17:45 -10.0 -10.9 Pouta Kostea
+{Tie 9 Jämsä} 17:47 -8.3 -7.8 Pouta Kuiva
+{Tie 9 Jyväskylä} 17:53 -8.6 -7.0 Pouta Kostea
+{Tie 9 Laukaa, Lievestuore} 17:47 -8.6 -7.4 Pouta Kuiva
+{Tie 9 Hankasalmi} 17:47 -8.6 -7.3 Pouta {Mahdollisesti liukas}
+{Tie 13 Kyyjärvi, Oikari} 17:51 -9.2 -8.3 Pouta Kuiva
+{Tie 13 Saarijärvi, Kalmari} 17:47 -9.4 -8.1 Pouta Kuiva
+{Tie 13 Äänekoski} 17:47 -12.8 -10.1 Heikko Kuiva
+{Tie 18 Petäjävesi, Kintaus} 17:47 -11.4 -9.5 Pouta Kuiva
+{Tie 23 Keuruu, Tiusala} 17:47 -12.9 -11.1 Pouta Kuiva
+{Tie 24 Kuhmoinen, Patavesi} 17:53 -8.0 -7.2 Pouta Kostea
+{Tie 4 Äänekoski, Petomäki} 17:39 -12.9 -10.8 Pouta Kostea
+{Tie 4 Jyväskylä, Puuppola} 17:47 -11.5 -9.2 Pouta Kuiva
+{Tie 9 Hankasalmen asema} 17:49 -9.8 -9.0 Heikko Jäinen
+
+{Tie 8 Kokkola, Rimmi} 17:47 -9.8 -9.2 Heikko Kostea
+{Tie 8 Himanka} 17:48 -10.2 -9.8 Pouta {Mahdollisesti liukas}
+{Tie 8 Kalajoki} 17:47 -13.3 -14.3 Pouta Kuiva
+{Tie 13 Kaustinen} 17:49 -16.9 -14.0 Pouta Kuiva
+{Tie 13 Veteli} 17:47 -11.2 -10.4 Pouta Kuiva
+{Tie 27 Ylivieska, Raudasky} 17:46 -15.8 -12.9 Pouta Kuiva
+{Tie 28 Kannus} 17:47 -13.3 -13.6 Pouta Kuiva
+
+{Tie 4 Pyhäjärvi, Vaskikell} 17:47 -15.1 -14.0 Pouta Kuiva
+{Tie 4 Kärsämäki} 17:47 -20.8 -16.4 Pouta Kuiva
+{Tie 4 Pulkkila} 17:46 -21.3 -17.2 Pouta Kostea
+{Tie 4 Oulu, Intiö} 17:46 -16.7 -15.0 Pouta Kuiva
+{Tie 4 Oulu, Kuivasjärvi} 17:46 -17.2 -16.8 Pouta Kuiva
+{Tie 4 Temmes} 17:46 -19.5 -17.6 Pouta Kuiva
+{Tie 4 Kempele, Ouluntulli} 17:48 -17.4 -16.7 Pouta {Mahdollisesti liukas}
+{Tie 4 Haukipudas} 17:54 -17.7 -16.9 Pouta Kuiva
+{Tie 4 Kuivaniemi} 17:46 -17.3 -16.5 Pouta {Mahdollisesti liukas}
+{Tie 4 Ii, Olhava} 17:46 -18.7 -17.9 Pouta Kuiva
+{Tie 5 Kuusamo, Kitka} 17:46 -33.3 -26.2 Pouta Kuiva
+{Tie 5 Kajaani, Hatulanmäki} 17:46 -14.4 -15.9 Pouta Kuiva
+{Tie 8 Kalajoki} 17:47 -13.3 -14.3 Pouta Kuiva
+{Tie 8 Parhalahti} 17:46 -15.1 -14.1 Pouta Kuiva
+{Tie 8 Pattijoki} 17:46 -13.3 -13.6 Pouta Kuiva
+{Tie 20 Ylikiiminki, Arkala} 17:46 -21.8 -19.6 Pouta Kuiva
+{Tie 20 Pudasjärvi, Pintamo} 17:46 -27.9 -24.1 Pouta Jäinen
+{Tie 20 Kuusamo, Kuolio} 17:46 -31.9 -26.8 Pouta Jäinen
+{Tie 22 Utajärvi, Sotka} 17:46 -22.3 -19.4 Pouta Kuiva
+{Tie 27 Ylivieska, Raudasky} 17:46 -15.8 -12.9 Pouta Kuiva
+{Tie 28 Kannus} 17:47 -13.3 -13.6 Pouta Kuiva
+{Tie 78 Pudasjärvi, Kokkoky} 17:46 -27.0 -21.9 Pouta Jäinen
+{Tie 86 Oulainen, Piipsjärv} 17:46 -18.3 -15.8 Pouta Kuiva
+{Tie 86 Ruukki, Paavola} 17:46 -18.4 -15.5 Pouta Kuiva
+{Tie 88 Pyhäntä, Ahokylä} 17:46 -13.6 -15.9 Pouta Luminen
+{Tie 816 Hailuoto} 17:46 -12.4 -14.2 Pouta Kuiva
+
+{Tie 3 Laihia, Ruto} 17:47 -17.1 -16.1 Pouta {Mahdollisesti liukas}
+{Tie 8 Kristiinankaupunki, Metsälä} 17:49 -10.5 -10.5 Pouta Kuiva
+{Tie 8 Kristiinankaupunki,} 17:47 -10.8 -11.3 Pouta Kuiva
+{Tie 8 Närpiö, Bäckliden} 17:49 -11.3 -11.8 Pouta {Mahdollisesti liukas}
+{Tie 8 Maalahti} 17:49 -12.5 -13.6 Pouta Kuiva
+{Tie 8 Mustasaari, Riimala} 17:47 -17.6 -15.7 Pouta Kuiva
+{Tie 8 Vöyri, Kaitsor} 17:47 -16.4 -15.4 Pouta {Mahdollisesti liukas}
+{Tie 8 Uusikaarlepyy} 17:49 -15.3 -14.5 Pouta Kuiva
+{Tie 8 Kruunupyy} 17:47 -16.0 -15.0 Pouta Kuiva
+{Tie 19 Ylihärmä, Mäyry} 17:52 -18.0 -16.4 Pouta Kuiva
+{Tie 68 Pedersöre, Kolppi} 17:49 -14.9 -13.5 Pouta Kuiva
+{Tie 724 Mustasaari, Raippa} 17:53 -10.4 -12.9 Pouta Luminen
+{Tie 749 Luoto, Eugmo} 17:51 -15.5 -13.3 Pouta {Mahdollisesti liukas}
+
+{Tie 6 Kesälahti, Poiksilta} 17:47 -13.8 -11.9 Pouta Kuiva
+{Tie 6 Tohmajärvi, Onkamo} 17:47 -15.4 -14.9 Pouta Kuiva
+{Tie 6 Pyhäselkä, Tikkala} 17:48 -18.8 -14.6 Pouta Kuiva
+{Tie 6 Joensuu} 17:54 -17.1 -15.1 Pouta Kuiva
+{Tie 6 Kontiolahti, Lehmo} 17:47 -18.6 -17.4 Pouta Kuiva
+{Tie 6 Juuka} 17:47 -23.9 -19.1 Pouta Kuiva
+{Tie 6 Valtimo} 17:47 -24.0 -18.8 Pouta Kuiva
+{Tie 9 Liperi, Ahonkylä} 17:47 -19.7 -15.1 Pouta Kuiva
+{Tie 9 Liperi, Käsämä} 17:47 -16.7 -15.3 Pouta Kuiva
+{Tie 9 Liperi, Ylämylly} 17:53 -15.2 -15.0 Pouta Kuiva
+{Tie 9 Värtsilä} 17:47 -15.6 -14.2 Pouta Kostea
+{Tie 73 Eno, Louhioja} 17:49 -20.3 -16.0 Pouta Kuiva
+{Tie 74 Ilomantsi, Marjovaa} 17:47 -16.0 -15.5 Pouta Luminen
+
+{Tie 5 Leppävirta, Poijinpe} 17:47 -14.8 -13.3 Pouta Kuiva
+{Tie 5 Kuopio E} 17:48 -16.2 -14.0 Pouta Kuiva
+{Tie 5 Kuopio, Siikalahti} 17:51 -12.8 -12.0 Pouta Kuiva
+{Tie 5 Siilinjärvi} 17:47 -17.3 -15.2 Pouta Kuiva
+{Tie 5 Lapinlahti, Mäntylah} 17:48 -17.4 -17.7 Pouta Kuiva
+{Tie 5 Iisalmi, Ryhälänmäki} 17:49 -12.8 -14.9 Pouta Jäinen
+{Tie 5 Kajaani, Hatulanmäki} 17:46 -14.4 -15.9 Pouta Kuiva
+{Tie 9 Suonenjoki} 17:49 -16.2 -15.5 Pouta {Mahdollisesti liukas}
+{Tie 9 Kuopio, Vehmasmäki} 17:47 -15.1 -15.3 Pouta Kostea
+{Tie 9 Kuopio, Jännevirta} 17:49 -17.2 -15.8 Pouta Kuiva
+{Tie 9 Kuopio, Vartiala} 17:47 -16.5 -14.9 Pouta Kuiva
+{Tie 9 Tuusniemi, Tuusjärvi} 17:48 -19.6 -15.9 Pouta Kuiva
+{Tie 27 Iisalmi, Kiuruvesi} 17:47 -15.0 -15.8 Pouta Kuiva
+{Tie 75 Nilsiä} 17:47 -16.4 -15.5 Pouta Kuiva
+{Tie 77 Pielavesi, Löytynjä} 17:47 -17.4 -15.2 Pouta Kuiva
+
+{Tie 3 Parkano, Lamminkoski} 17:47 -16.2 -14.0 Pouta {Mahdollisesti liukas}
+{Tie 3 Ilmajoki} 17:49 -12.9 -14.8 Pouta Kuiva
+{Tie 3 Jalasjärvi, Koskue} 17:47 -19.4 -16.3 Pouta Kuiva
+{Tie 16 Ylistaro} 17:47 -16.8 -14.6 Pouta Kuiva
+{Tie 16 Alajärvi} 17:47 -16.4 -14.6 Pouta Kuiva
+{Tie 18 Töysä} 17:47 -15.3 -13.6 Pouta Kuiva
+{Tie 19 Lapua} 17:49 -15.8 -12.8 Pouta Kuiva
+{Tie 19 Alahärmä, Voltti} 17:47 -18.0 -17.0 Pouta Kuiva
+{Tie 66 Alavus, Sapsalampi} 17:47 -16.4 -14.3 Pouta Kuiva
+{Tie 67 Kauhajoki} 17:47 -18.2 -16.1 Pouta Kuiva
+{Tie 67 Seinäjoki} 17:47 -17.8 -15.2 Heikko Kuiva
+{Tie 68 Evijärvi} 17:47 -16.7 -14.9 Pouta Luminen
+{Tie 44 Kauhajoki, Perä-Hy} 17:47 -18.0 -16.3 Pouta Luminen
+
+{Tie 4 Inari, Saariselkä} 17:49 -21.9 -22.3 Pouta Jäinen
+{Tie 4 Utsjoki, Petsikko} 17:47 -14.5 -14.9 Pouta Jäinen
+{Tie 21 Enontekiö, Saarikos} 17:49 -39.0 -31.7 Pouta Jäinen
+{Tie 970 Utsjoki, Nuorgam} 17:47 -19.4 {} Pouta {}
+
+{Tie 5 Kajaani, Hatulanmäki} 17:46 -14.4 -15.9 Pouta Kuiva
+{Tie 5 Ristijärvi, Roukajok} 17:46 -31.5 -23.7 Pouta Kuiva
+{Tie 6 Sotkamo, Korholanmäk} 17:46 -15.5 -17.1 Pouta Luminen
+{Tie 22 Vaala, Liminpuro} 17:46 -26.9 -21.3 Pouta Kuiva
+{Tie 78 Puolanka, Paasikosk} 17:46 -28.5 -21.6 Pouta Jäinen
+{Tie 76 Kuhmo, Tervasalmi} 17:46 -28.5 -20.5 Pouta Jäinen
+{Tie 5 Paltamo, Rytivaara} 17:46 -26.1 -20.1 Pouta Kuiva
+
+{Tie 4 Tervola, Paakkola} 17:52 -18.6 -17.2 Heikko Kuiva
+{Tie 4 Rovaniemi, Jaatila} 17:48 -22.9 -19.8 Heikko Kostea
+{Tie 5 Kuusamo, Kitka} 17:46 -33.3 -26.2 Pouta Kuiva
+{Tie 921 Tornio, Kaakamo} 17:53 -15.1 -16.4 Pouta Kuiva
+{Tie 21 Tornio, Kukkola} 17:47 -16.9 -16.7 Pouta Kuiva
+{Tie 21 Ylitornio, Kattilak} 17:49 -26.1 -23.3 Heikko Luminen
+{Tie 78 Ranua, Saukkokangas} 17:49 -14.9 -16.9 Heikko Jäinen
+
+{Tie 4 Tervola, Paakkola} 17:52 -18.6 -17.2 Heikko Kuiva
+{Tie 4 Rovaniemi, Jaatila} 17:48 -22.9 -19.8 Heikko Kostea
+{Tie 4 Rovaniemi, Napapiiri} 17:47 -22.0 -21.0 Heikko Jäinen
+{Tie 4 Sodankylä, Vuojärvi} 17:45 -31.2 -26.7 Pouta Jäinen
+{Tie 4 Sodankylä, Porttipah} 17:47 -32.6 -29.5 Pouta Kuiva
+{Tie 4 Inari, Saariselkä} 17:49 -21.9 -22.3 Pouta Jäinen
+{Tie 4 Utsjoki, Petsikko} 17:47 -14.5 -14.9 Pouta Jäinen
+{Tie 5 Kuusamo, Kitka} 17:46 -33.3 -26.2 Pouta Kuiva
+{Tie 5 Pelkosenniemi, Kaira} 17:47 -31.6 -26.5 Pouta Jäinen
+{Tie 921 Tornio, Kaakamo} 17:53 -15.1 -16.4 Pouta Kuiva
+{Tie 21 Tornio, Kukkola} 17:47 -16.9 -16.7 Pouta Kuiva
+{Tie 21 Ylitornio, Kattilak} 17:49 -26.1 -23.3 Heikko Luminen
+{Tie 21 Kolari, Sieppijärvi} 17:47 -32.5 -28.8 Pouta Kuiva
+{Tie 21 Muonio, Tapojärvi} 17:47 -30.6 -28.1 Pouta Luminen
+{Tie 21 Enontekiö, Saarikos} 17:49 -39.0 -31.7 Pouta Jäinen
+{Tie 78 Ranua, Saukkokangas} 17:49 -14.9 -16.9 Heikko Jäinen
+{Tie 79 Kittilä, Lohiniva} 17:47 -33.1 -28.5 Pouta Kuiva
+{Tie 82 Rovaniemi, Kalliosa} 17:48 -23.9 -23.1 Pouta Kuiva
+{Tie 83 Ylitornio, Raanujär} 17:47 -24.5 -23.2 Heikko Luminen
+{Tie 863 Posio, Sirniö} 17:37 -29.2 {} Pouta {}
+{Tie 970 Utsjoki, Nuorgam} 17:47 -19.4 {} Pouta {}
+
+{Tie 4 Rovaniemi, Napapiiri} 17:47 -22.0 -21.0 Heikko Jäinen
+{Tie 4 Sodankylä, Vuojärvi} 17:45 -31.2 -26.7 Pouta Jäinen
+{Tie 4 Sodankylä, Porttipah} 17:47 -32.6 -29.5 Pouta Kuiva
+{Tie 4 Inari, Saariselkä} 17:49 -21.9 -22.3 Pouta Jäinen
+{Tie 5 Pelkosenniemi, Kaira} 17:47 -31.6 -26.5 Pouta Jäinen
+{Tie 21 Kolari, Sieppijärvi} 17:47 -32.5 -28.8 Pouta Kuiva
+{Tie 21 Muonio, Tapojärvi} 17:47 -30.6 -28.1 Pouta Luminen
+{Tie 79 Kittilä, Lohiniva} 17:47 -33.1 -28.5 Pouta Kuiva
+

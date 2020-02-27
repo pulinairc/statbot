@@ -1,0 +1,190 @@
+22 3 YleFem 07:00 {Min Morgon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322001 13
+22 3 YleFem 08:30 {SVT: Gomorron Sverige} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322002 13
+22 3 YleFem 11:00 {SVT: Plus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322003 13
+22 3 Liv 05:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322001 13
+22 3 Liv 06:00 {LIVE: Tiedä ja Voita} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322002 13
+22 3 Liv 07:30 Ostosruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322003 13
+22 3 Liv 09:00 Koirakuiskaaja http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322004 13
+22 3 Liv 09:30 {Äidin stailauspäivä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322005 13
+22 3 Liv 10:25 {Liv & Learn: Tanjan koiranhoitovinkit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322006 13
+22 3 Liv 10:30 {Jaksa paremmin} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322007 13
+22 3 Liv 11:00 {Tahdon oman vaatemalliston} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322008 13
+22 3 Liv 11:55 {Hulluna häämekkoihin} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322009 13
+22 3 JIM 05:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322001 13
+22 3 JIM 08:30 {LIVE: Tiedä ja Voita} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322002 13
+22 3 JIM 09:30 Ostosruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322003 13
+22 3 JIM 10:30 Ostosruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322004 13
+22 3 JIM 11:30 {MasterChef Australia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322005 13
+22 3 FOX 06:34 {FOX Kids: Ni Hao Kai Lan (S)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322001 13
+22 3 FOX 06:56 {FOX Kids: Sketsiä! (S)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322002 13
+22 3 FOX 07:08 {FOX Kids: Lola & Virginia (S)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322003 13
+22 3 FOX 07:20 {FOX Kids: Monsuno} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322004 13
+22 3 FOX 07:42 {FOX Kids: Hot Wheels} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322005 13
+22 3 FOX 08:04 {FOX Kids: Transformers} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322006 13
+22 3 FOX 08:26 {FOX Kids: Prätkähiiret (S)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322007 13
+22 3 FOX 08:48 {FOX Kids: Avatar (7)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322008 13
+22 3 FOX 09:10 {24Kitchen: Nopeaa ja herkullista} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322009 13
+22 3 FOX 09:40 {24Kitchen: Portugalin makuja} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322010 13
+22 3 FOX 10:10 Ruutukauppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322011 13
+22 3 FOX 10:40 Ruutukauppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322012 13
+22 3 FOX 11:10 Ruutukauppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322013 13
+22 3 FOX 11:40 Ruutukauppa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322014 13
+22 3 Kutonen 06:00 {Me Rakastamme Musiikkia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322001 13
+22 3 Kutonen 07:00 {Me Rakastamme Musiikkia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322002 13
+22 3 Kutonen 08:00 {Me Rakastamme Musiikkia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322003 13
+22 3 Kutonen 09:00 TV-Shop http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322004 13
+22 3 Kutonen 10:00 {Best Direct} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322005 13
+22 3 Kutonen 10:30 {Best Direct} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322006 13
+22 3 Kutonen 11:00 {Best Direct} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322007 13
+22 3 Kutonen 11:30 {Best Direct} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322008 13
+22 3 TVViisi 10:35 {best direct} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322001 13
+22 3 TVViisi 11:35 {5D: Britannian eniten tuhlaavat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322002 13
+22 3 MTV3AVA 06:00 {Aamun AVAus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322001 13
+22 3 MTV3AVA 08:05 {Namaste jooga} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322002 13
+22 3 MTV3AVA 08:35 Ostoskanava http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322003 13
+22 3 MTV3AVA 09:35 {Rachael Ray Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322004 13
+22 3 MTV3AVA 10:25 {Koirakoulu ihmiselle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322005 13
+22 3 MTV3AVA 11:25 {50 parasta ravintolaa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322006 13
+22 3 MTV3AVA 11:35 {Huomenta Suomen parhaat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322007 13
+22 3 MTV3AVA 11:55 Makuja http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322008 13
+22 3 YleFem 12:00 {SVT: Kulturnyheterna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322004 13
+22 3 YleFem 12:15 {SVT: Dokument utifrån} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322005 13
+22 3 YleFem 13:15 {SVT: Go'kväll} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322006 13
+22 3 YleFem 14:00 {SVT: Vem vet mest?} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322007 13
+22 3 YleFem 14:30 {SVT: Antikrundan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322008 13
+22 3 YleFem 16:20 Hiukkasmysteeri http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322009 13
+22 3 YleFem 16:50 {Veljesten keittiössä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322010 13
+22 3 YleFem 17:20 {Obs debatt} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322011 13
+22 3 YleFem 17:55 {Yle Nyheter TV-nytt} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322012 13
+22 3 Liv 12:25 {Liv D Sarja: Syöpöt} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322010 13
+22 3 Liv 13:25 {Sikke - Ruokaa rakkaudella} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322011 13
+22 3 Liv 13:55 Himosiivoojat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322012 13
+22 3 Liv 14:55 {Ullan unelmakakku} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322013 13
+22 3 Liv 15:25 {Ilme nuoremmaksi - USA} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322014 13
+22 3 Liv 15:55 {Häät sulhasen tapaan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322015 13
+22 3 Liv 17:05 Häähullut http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322016 13
+22 3 JIM 12:25 {Leijonan luola Kanada} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322006 13
+22 3 JIM 13:20 {Apua avajaisiin} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322007 13
+22 3 JIM 14:15 {Kodin rakennusurakka} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322008 13
+22 3 JIM 15:10 {Gordon Ramsay - pannu kuumana} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322009 13
+22 3 JIM 16:05 {New Yorkin tatuointitarinat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322010 13
+22 3 JIM 17:00 {Leijonan luola Kanada} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322011 13
+22 3 FOX 12:10 {Jahtikuningatar Marjaana} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322015 13
+22 3 FOX 12:35 {Ally McBeal (S)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322016 13
+22 3 FOX 13:20 {Totta vai tarua: Chupacabra} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322017 13
+22 3 FOX 13:45 {Nolot vartalot} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322018 13
+22 3 FOX 14:40 {Hain saalistajat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322019 13
+22 3 FOX 15:35 {Alaskan poliisit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322020 13
+22 3 FOX 16:30 {Supertehtaat: Harley Davidson} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322021 13
+22 3 FOX 17:27 {STT Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322022 13
+22 3 FOX 17:30 {Hetki ennen tuhoa: Tuhoisa romahdus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322023 13
+22 3 Kutonen 12:00 {Me Rakastamme Musiikkia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322009 13
+22 3 Kutonen 13:00 {Me Rakastamme Musiikkia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322010 13
+22 3 Kutonen 14:00 {Parasta Suomesta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322011 13
+22 3 Kutonen 15:00 {Voicen uutuudet} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322012 13
+22 3 Kutonen 16:00 {Pop Hop} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322013 13
+22 3 Kutonen 17:00 Latauslista http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322014 13
+22 3 TVViisi 13:00 {Raftersien perheonnea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322003 13
+22 3 TVViisi 13:50 Matlock http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322004 13
+22 3 TVViisi 14:45 {5D: Lapseni on apina} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322005 13
+22 3 TVViisi 15:45 {Amerikan hauskimmat kotivideot} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322006 13
+22 3 TVViisi 16:15 {Amerikan hauskimmat kotivideot} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322007 13
+22 3 TVViisi 16:45 {Kaikki rakastavat Raymondia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322008 13
+22 3 TVViisi 17:15 {Kolmas kivi auringosta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322009 13
+22 3 TVViisi 17:40 {70's show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322010 13
+22 3 MTV3AVA 12:20 {Esittelyssä: Kotia kohti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322009 13
+22 3 MTV3AVA 12:25 {Suurin pudottaja} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322010 13
+22 3 MTV3AVA 13:20 {Muodin huipulle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322011 13
+22 3 MTV3AVA 14:10 Emmerdale http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322012 13
+22 3 MTV3AVA 14:40 Emmerdale http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322013 13
+22 3 MTV3AVA 15:10 {Rachael Ray Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322014 13
+22 3 MTV3AVA 16:00 Makuja http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322015 13
+22 3 MTV3AVA 16:20 {Esittelyssä: Kotia kohti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322016 13
+22 3 MTV3AVA 16:30 {Jamie Oliverin kotona} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322017 13
+22 3 MTV3AVA 17:00 {Salatut elämät} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322018 13
+22 3 MTV3AVA 17:30 Eastenders http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322019 13
+22 3 YleFem 18:00 BUU-perjantai http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322013 13
+22 3 YleFem 18:30 Maalaiselämää http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322014 13
+22 3 YleFem 19:00 {Aamusta iltaan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322015 13
+22 3 YleFem 19:30 {Yle Nyheter TV-nytt} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322016 13
+22 3 YleFem 20:00 Kirjakausi http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322017 13
+22 3 YleFem 20:30 Pixel http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322018 13
+22 3 Liv 18:00 {Tyyliä vai ei} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322017 13
+22 3 Liv 19:00 {Leila leipoo} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322018 13
+22 3 Liv 19:30 {Yllätyskokki Niki} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322019 13
+22 3 Liv 20:00 {Sisustusarkkitehti Marko Paananen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322020 13
+22 3 Liv 20:57 Keno http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322021 13
+22 3 JIM 18:00 {Gordon Ramsay - pannu kuumana} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322012 13
+22 3 JIM 19:00 Panttilainaamo http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322013 13
+22 3 JIM 19:30 Panttilainaamo http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322014 13
+22 3 JIM 20:00 Panttilainaamo http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322015 13
+22 3 JIM 20:30 Panttilainaamo http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322016 13
+22 3 FOX 18:00 Lentoturmatutkinta http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322024 13
+22 3 FOX 19:00 {Alaskan poliisit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322025 13
+22 3 FOX 20:00 Navajo-poliisit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322026 13
+22 3 Kutonen 18:00 {Star Trek: The Next Generation} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322015 13
+22 3 Kutonen 19:00 {Ihmemies MacGyver} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322016 13
+22 3 Kutonen 20:00 {Tuholaistorjuja Billy} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322017 13
+22 3 Kutonen 20:30 {Dog, palkkionmetsästäjä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322018 13
+22 3 TVViisi 18:10 {70's show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322011 13
+22 3 TVViisi 18:45 {Elokuva: Grimmin veljekset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322012 13
+22 3 MTV3AVA 18:05 {Suurin pudottaja} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322020 13
+22 3 MTV3AVA 19:00 {Top Chef: Jälkiruokamestari} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322021 13
+22 3 MTV3AVA 20:00 {Todistettavasti syyllinen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322022 13
+22 3 YleFem 21:00 {SVT: Hela Sveriges fredag!} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322019 13
+22 3 YleFem 22:00 {SVT: Skavlan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322020 13
+22 3 YleFem 23:00 {SVT: Sportnytt} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322021 13
+22 3 YleFem 23:15 {SVT: Antikmagasinet} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322022 13
+22 3 YleFem 23:45 {SVT: Seriestart: Spisa med Price} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322023 13
+23 03 YleFem 00:15 {SVT: Aktuellt} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322024 13
+23 03 YleFem 00:55 {SVT: Kulturnyheter} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322025 13
+23 03 YleFem 01:00 {SVT: Östnytt} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322026 13
+23 03 YleFem 01:10 {SVT: Nyhetssammanfattning} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322027 13
+23 03 YleFem 01:15 {SVT: Kulturnyheterna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322028 13
+23 03 YleFem 01:30 {SVT: Masha och björnen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322029 13
+23 03 YleFem 01:40 {SVT: Seriestart: Felix och Fenix} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322030 13
+23 03 YleFem 01:55 {SVT: Som en dröm} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322031 13
+23 03 YleFem 02:10 {SVT: Fredagkväll med Malin} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322032 13
+23 03 YleFem 02:25 {SVT: Larva} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322033 13
+23 03 YleFem 02:30 {SVT: Vem vet mest?} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322034 13
+23 03 YleFem 03:00-04:00 {SVT: Hela Sveriges fredag!} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=FSD20130322035 13
+22 3 Liv 21:00 {Unelmien poikamies} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322022 13
+22 3 Liv 22:00 Sinkkulaiva http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322023 13
+22 3 Liv 22:30 {Tosielämän L-koodi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322024 13
+22 3 Liv 23:40 {Häät sulhasen tapaan Suomi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322025 13
+23 03 Liv 00:10 {Kauneusklinikka Rand Rusher} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322026 13
+23 03 Liv 00:40 Sinkkulaiva http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322027 13
+23 03 Liv 01:10 {Tyyliä vai ei} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322028 13
+23 03 Liv 02:10 {Täydelliset naiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322029 13
+23 03 Liv 03:10-05:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=LIV20130322030 13
+22 3 JIM 21:00 {Jim Akatemia: Täydellisen tuopin metsästys} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322017 13
+22 3 JIM 21:05 {Suomen huutokauppakeisari} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322018 13
+22 3 JIM 22:05 Beast http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322019 13
+22 3 JIM 23:00 Beast http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322020 13
+22 3 JIM 23:55 {Nykäsen Matti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322021 13
+23 03 JIM 00:25 Tilt http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322022 13
+23 03 JIM 00:55 {Maistuvimmat liikeideat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322023 13
+23 03 JIM 01:50 {South Park} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322024 13
+23 03 JIM 02:20 {South Park} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322025 13
+23 03 JIM 02:50 {Alaston piilokamera} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322026 13
+23 03 JIM 03:20 {Alaston piilokamera} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322027 13
+23 03 JIM 03:50-05:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEP20130322028 13
+22 3 FOX 21:00 {Ilman johtolankaa (16)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322027 13
+22 3 FOX 21:55 {The Walking Dead} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322028 13
+22 3 FOX 22:50 {Amerikan kovimmat vankilat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322029 13
+22 3 FOX 23:45 {Tabu: Kummalliset tavat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322030 13
+23 03 FOX 00:40 {Elokuva: Fantastic Four: Hopeasurffari (12)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322031 13
+23 03 FOX 02:20-06:18 {Family Guy} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=SUT20130322032 13
+22 3 Kutonen 21:00 {Ranuan kummit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322019 13
+22 3 Kutonen 21:30 {Fredin ja Tommin läppäluukku} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322020 13
+22 3 Kutonen 22:00 {Elokuva: Empire Records - menoa ja musaa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322021 13
+22 3 Kutonen 23:50 {Star Trek: The Next Generation} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322022 13
+23 03 Kutonen 00:40 {Ihmemies MacGyver} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322023 13
+23 03 Kutonen 01:30-06:00 {Tuholaistorjuja Billy} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=VOI20130322024 13
+22 3 TVViisi 21:00 {Elokuva: Terminator 3: Koneiden kapina} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322013 13
+22 3 TVViisi 23:05-10:00 {Spartacus - gladiaattori} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV520130322014 13
+22 3 MTV3AVA 21:00 {AVA Elokuva: Bodyguard (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322023 13
+22 3 MTV3AVA 23:30 {Kolme miestä ja tyttö} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322024 13
+23 03 MTV3AVA 00:00 Tyhjätaskut http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322025 13
+23 03 MTV3AVA 00:30 {Aina vaarassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322026 13
+23 03 MTV3AVA 01:20-05:20 {Yön AVA} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=AVA20130322027 13

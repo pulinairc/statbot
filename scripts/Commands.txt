@@ -1,0 +1,253 @@
+
+################################################## Date: 14Aug14 ##
+## BogusTrivia 2.06.4.7 by SpiKe^^    The Ultimate Trivia Script ##
+###################################################################
+
+BogusTrivia Commands Text.
+
+Below are all Commands available to BogusTrivia at this time.
+All Public Command Triggers can be Changed by Script Settings.
+Access to All Commands can be Limited by User Flags.
+
+-----------------------------------------------------------------------
+BogusTrivia Message Commands:             Trivia Game Operator Commands
+-----------------------------------------------------------------------
+
+1. Add Trivia Files:   Used to Add Questions and KAOS to the BogusTrivia Database.
+   Examples:
+      /msg botnick .add      (Add Questions And/Or Kaos To The Bogus Database)
+      /msg botnick .addk     (Add Kaos To The Bogus Database)
+
+   a)  .add      :Looks for new question files to load to the database.
+                  Search's the eggdrop root & /scripts folders for my question file or
+                  all files with "triv" in their file name (*triv*).
+                  Then adds those questions & kaos using the default formats below:
+                       Question:   <question>*<answer>  :or:  <question>*<answer>*<ansr2>*<etc>
+                       Scramble:   scramble*<answer>    (not case sensitive)
+                             or:   UWord*<answer>       (not case sensitive)
+                       Kaos:       kaos:<question>*<answer>*<answer2>*<answer3>*<etc>
+                         or:       KAOS: <question>*<answer>*<ansr2>*<ansr3>*<etc>
+
+   b)  .add <format>   :Adds questions from files with other formats.
+                        All formats are acceptable. The default format is q*a (question*answer)
+        Examples:   .add a*q
+                    .add q:a
+                    .add a%q
+
+   c)  .add <format> <filename>     :Adds files not matching default filename mask:  *triv*
+        Examples:   .add a|q ques*     (adds all filenames starting with ques)
+                    .add - *music*     (uses the default .add format:  q*a )
+
+   d)  .addk <any above add option>    :Add command for NonStandard KAOS files.
+        NOTE: Only used to add files that are All Kaos &
+              every line does not start with "KAOS:"  (not case sensitive).
+        Examples:   .addk a|q
+                    .addk a%q *kaos*
+        IMPORTANT: The .addk Command assumes you are adding KAOS files. If there are
+                   regular questions in the file(s) they won't be added & are shown as errors.
+
+2. Mix the Trivia Files:   Used to Mix the Questions and KAOS in the BogusTrivia Database.
+   Example:
+   /msg botnick .mix     (Mix The Questions And/Or Kaos In The Database)
+
+   a)  .mix              :mix all in the database four times.
+   b)  .mix <number>     :mix the questions & kaos this many times.  (1 - 9)
+   c)  .mix q            :mix just the questions in the database four times.
+   d)  .mix q <1-9>      :mix just the questions this many times.
+   e)  .mix k            :mix just the KAOS questions in the database four times.
+   f)  .mix k <1-9>      :mix the KAOS questions this many times.
+
+   Examples:   .mix        (mix the questions & KAOS 4 times)
+               .mix 8      (mix ALL in database 8 times)
+               .mix k      (mix the KAOS files only, 4 times)
+               .mix q 6    (mix the question files only, 6 times)
+
+   NOTE: The default mix for BogusTrivia mixes 4 times.
+
+-----------------------------------------------------------------------
+BogusTrivia Public Commands:                 General Game Play Commands
+-----------------------------------------------------------------------
+
+1. Starting & Stopping The Game:  (default flag to use this command is +o)
+   Command(s) used in the channel the script is running in.
+
+   .t2   :Starts or Stops the Trivia Game.
+
+2. User Requested Hint & Qusetion Commands:  (default flags are - (everyone)
+   Commands used in the channel the script is running in.
+
+   ~    :shows a hint  (hint shown publicly & only once between each timed hint).
+   q    :will repeat the question  (shown publicly & only once for each question).
+
+-----------------------------------------------------------------------
+NEW BogusTrivia Public Commands:      General Game Information Commands
+-----------------------------------------------------------------------
+
+1. Individual Player Stats:
+   a)  .mystats        :Say Your Current Game Stats to the Channel.  (also:  .me)
+   b)  .stats <nick>   :Say the Current Game Stats of <nick>  (no reply for unknown player).
+
+2. General Game Information:
+   a)  .info          :Say Information about the current BogusTriva Game.
+   b)  .webstats      :Say the Trivia Statistics Web Page Address.
+   c)  .version       :Say the Script Version and Credits Information.  (also:  .owner)
+
+-----------------------------------------------------------------------
+NEW BogusTrivia Public Commands:        See Top Trivia Players Commands
+-----------------------------------------------------------------------
+
+1. Top Trivia Players for Today Commands:
+   a)  .topday          :See Top 10 Trivia Players for Today.  (also:  .today)
+   b)  .topday20        :See Top Trivia Players 11 to 20 for Today.
+   c)  .topday<number>  :See Top Trivia Players Ranked Higher than 20.
+                         NOTE:  Maximum players shown limited by script setting:  t2(p-tmax-d)
+                         NOTE:  <number>  should be a number ending in zero.
+                         NOTE:  Command does not reply to requests for nonexistant stats.
+		         Examples:   .topday50      see top players 41 - 50
+                                     .topday30      see top players 21 - 30
+
+2. Top Trivia Players for This Week, This Month & Total Ever:
+   a)  .topweek           :See Top 10 Trivia Players for This Week.
+   b)  .topweek20         :See Top Trivia Players 11 to 20 for This Week.
+   c)  .topweek<number>   :See Top Trivia Players Above 20 for This Week.
+   d)  .topmonth          :See Top 10 Trivia Players for This Month.
+   e)  .topmonth20        :See Top Trivia Players 11 to 20 for This Month.
+   f)  .topmonth<number>  :See Top Trivia Players Above 20 for This Month.
+   g)  .topever           :See Top 10 Trivia Players Ever.
+   h)  .topever20         :See Top Trivia Players Ever 11 to 20.
+   i)  .topever<number>   :See Top Trivia Players Ever Above 20.
+
+-----------------------------------------------------------------------
+NEW Sample BogusTrivia User Defined Public Triggers:
+-----------------------------------------------------------------------
+
+1. Some Example User Defined Public Triggers:
+   a)  .commands      :List the available Public Triggers.
+   b)  .rules         :Say the BogusTriva Game Rules.  (Please edit these rules:)
+   c)  .time          :Say the Current BogusTrivia Game/Server Time.
+
+-----------------------------------------------------------------------
+NEW BogusTrivia User Defined Public Triggers and Replies Explanation:
+-----------------------------------------------------------------------
+
+You can add as many Triggers and Replies as you want. (in: t-2.settings.tcl)
+Public Triggers added this way use the General Game Commands Flags.
+The basic Format for each is as follows:
+
+:TRIGS: .trigger .alt-trigger           (each word is added as a trigger)
+
+First line of the .trigger reply.
+Second line of the reply...
+
+Skip a line, Type :TRIGS: and the Trigger(s) for the Next Public Command,
+Skip a line and Type the Desired Reply, As Many Commands As Needed.
+
+You can also make your own Custom Private Message Triggers & Replies.
+This will make Private Message Triggers with Private Message Replies.
+Message Triggers added this way use the Flags For /msg Commands:  set t2(mflag).
+The basic Format for each is as follows:
+
+:TRIGS: .msg-trigger .alt-msg-trig :PRVMSG:
+
+You can also Change the Access Flags used for Each Public or Message Command.
+The basic Format for each is as follows:
+
+:TRIGS: .trigger .alt-trigger :FLAGS: o|o         (for a public trigger) or
+:TRIGS: .msg-trigger :FLAGS: o|o :PRVMSG:         (for a message trigger)
+
+
+User Defined Public Reply Information:
+
+Variable Substitution Codes:   %c=channel   %n=nick   %b=botnick
+            %1=themecolor1     %2=themecolor2         %3=themecolor3
+            %s=script name     %v=script version      %a=script author
+            %o=script release date                    %w=webstats address
+            %l=current local game/server time         %i=game/server date
+            %m=the command used to trigger this reply
+            %u=date the userfile was created (when game/stats began)
+            %t=total number of players in the userfile
+            %q=number of regular questions in the database
+            %k=number of kaos questions in the database
+            %z=total number of questions (regular + kaos)
+
+Variable Substitution Codes & Setting for "Active Players"
+            %g=active players  (the number of nicks that played in last 'x' days)
+            %d=number of days  (replaced by the value of 'x' above)
+        Example:   We've had %g active players in the last %d days.
+        set t2(p-activ)  :to the Number of Days to Monitor for "Active Players". (t-2.settings.tcl)
+
+Codes: %o %i %u  :Use "Locale’s Appropriate Date" by Default.  (Ex. 06/08/12 )
+Codes: %l        :Use "Locale’s Appropriate Time" by Default.  (Ex. 14:50:45 )
+All Dates & Times can be Formatted Any Other Way. Use the Format Date/Time Codes below.
+
+Variable Substitution Codes for "Format Date/Time"
+            %f=begin Format date/time code  (the Format ends on any date/time Code: Ex. %o)
+            %a=abbreviated weekday name according to the current locale  (Ex. Mon )
+            %A=full weekday name according to the current locale         (Ex. Monday )
+            %b=abbreviated month name according to the current locale    (Ex. Jan )
+            %B=full month name according to the current locale           (Ex. January )
+            %e=day of the month as a number, no leading 0  (1-31)
+            %d=day of the month as a two digit number      (01-31)
+            %m=the month as a two digit number             (01-12)
+            %y=the year as a two digit number              (00-99)
+            %Y=the full year as a four digit number
+            %H=hour as a number using a 24-hour clock      (00-23)
+            %I=hour as a number using a 12-hour clock      (01-12)
+            %M=the minute as a two digit number            (00-59)
+            %S=the second as a two digit number            (00-59)
+            %p=am or pm according to the current locale
+            %Z=the timezone or name or abbreviation
+            %x=default: "Locale’s Appropriate Date"      (Ex. 06/08/12 )
+            %D=a formatted date: same as:  %m/%d/%y      (Ex. 06/08/12 )
+            %X=default: "Locale’s Appropriate Time"      (Ex. 14:55:15 )
+            %T=time in 24-hour notation (%H:%M:%S)       (Ex. 14:55:15 )
+            %R=time in 24-hour notation (%H:%M)          (Ex. 14:55 )
+            %r=time in a.m./p.m. notation (%I:%M:%S %p)  (Ex. 12:12:05 AM )
+            %c=date & time for the current locale        (Ex. Wed Jul 18 00:12:05 2012 )
+        Example:   User File Created on: %f%d/%m/%y%u    (Say. User File Created on: 18/07/12 )
+        Example:   BogusTrivia Game Time: %f%I:%M %p%l   (Say. BogusTrivia Game Time: 12:12 AM )
+
+
+Example -  Make a public trigger to see the public commands index (.commands):
+
+:TRIGS: .commands .boguscommands
+
+Public Commands: .topday .topday20 .topweek .topweek20 .topmonth .topmonth20 .topever .topever20 .version .info .commands .webstats .mystats & .stats <nick>
+
+
+Example -  Make a public trivia rules command (.rules) for all users:
+
+:TRIGS: .rules .bogusrules :FLAGS: -
+
+Welcome to %c please follow the channel rules and enjoy the game.
+Be courteous of other players.
+Refrain from vulgar language when possible.
+If you have issues please message a channel op.
+
+
+Example -  Make a public trigger to see the game/server time (.time) with color code:
+
+:TRIGS: .time .bogustime
+
+%1 Current BogusTrivia Game/Server Time: %f%c%i. 
+
+
+
+#############################################################################
+# Copyright (c) 2006-2014, Richard Fischer (SpiKe^^) spike@mytclscripts.com #
+#                                                                           #
+# Permission to use, copy, modify, and/or distribute this software for any  #
+# purpose with or without fee is hereby granted, provided that the above    #
+# copyright notice and this permission notice appear in all copies.         #
+#                                                                           #
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES  #
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF          #
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR   #
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES    #
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN     #
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF   #
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.            #
+#                                                                           #
+# v1.1 by SpiKe^^  spike@mytclscripts.com,  August 14, 2014                 #
+#############################################################################
+

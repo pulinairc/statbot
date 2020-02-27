@@ -1,0 +1,53 @@
+29 3 CMoreTennis 11:00 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329001 13
+29 3 CMoreSportHD 04:00 {Kings of football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329001 13
+29 3 CMoreSportHD 08:15 {World Cup qualification} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329002 13
+29 3 CMoreSportHD 10:30 {Serie A: Inter - AS Roma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329003 13
+29 3 CMoreUrheilu 13:30 {ATP Tennis: Miami / puolivälierä 4} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329001 13
+29 3 CMoreUrheilu 15:30 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329002 13
+29 3 CMoreUrheilu 16:00 {Elitserien Playoffs: Skellefteå - Linköping} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329003 13
+29 3 CMoreTennis 12:35 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329002 13
+29 3 CMoreTennis 15:35 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329003 13
+29 3 CMoreTennis 17:00 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329004 13
+29 3 CMoreAitio 14:10 {La Liga Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329001 13
+29 3 CMoreAitio 15:10 {Valioliiga: Southampton - Liverpool} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329002 13
+29 3 CMoreAitio 17:00 {ATP Tennis: Miami / puolivälierä 3} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329003 13
+29 3 CMoreSportHD 12:20 {Serie A: Milan - Siena} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329004 13
+29 3 CMoreSportHD 14:10 {La Liga: Real Madrid - Sevilla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329005 13
+29 3 CMoreSportHD 15:55 {La Liga: Barcelona - Valencia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329006 13
+29 3 CMoreSportHD 17:50 {World Cup qualification} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329007 13
+29 3 CMoreUrheilu 18:00 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329004 13
+29 3 CMoreUrheilu 18:30 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329005 13
+29 3 CMoreUrheilu 19:00 {ATP Tennis: Miami / puolivälierä 4} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329006 13
+29 3 CMoreTennis 18:55 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329005 13
+29 3 CMoreAitio 19:15 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329004 13
+29 3 CMoreAitio 19:45 {Elitserien Studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329005 13
+29 3 CMoreAitio 20:00 {Elitserien Playoffs: Färjestad - Luleå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329006 13
+29 3 CMoreExtreme 20:00 {Elitserien i speedway: Hammarby - Elit Vetlanda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130329001 13
+29 3 CMoreSportHD 19:45 {Ishockey: SM-slutspel Studio 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329008 13
+29 3 CMoreSportHD 20:00 {SM-slutspelet: Färjestad - Luleå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329009 13
+29 3 CMoreUrheilu 21:00 {ATP Tennis: Miami / välierä 1} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329007 13
+29 3 CMoreUrheilu 23:30 {Premier League Preview} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329008 13
+30 03 CMoreUrheilu 00:00 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329009 13
+30 03 CMoreUrheilu 00:30 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329010 13
+30 03 CMoreUrheilu 01:00-03:30 {ATP Tennis: Miami / välierä 2} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130329011 13
+29 3 CMoreTennis 21:00 {Tennis: Sony Ericsson Open Miami 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329006 13
+29 3 CMoreTennis 23:00 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329007 13
+29 3 CMoreTennis 23:55 {Tennis: ATP 500 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329008 13
+30 03 CMoreTennis 01:00 {Tennis: Sony Ericsson Open Miami 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329009 13
+30 03 CMoreTennis 03:10-04:02 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130329010 13
+29 3 CMoreAitio 22:30 {Elitserien Studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329007 13
+29 3 CMoreAitio 23:00 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329008 13
+29 3 CMoreAitio 23:30 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329009 13
+30 03 CMoreAitio 00:00 {Real Madrid News} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329010 13
+30 03 CMoreAitio 00:55-02:45 {Valioliiga: Stoke - West Bromwich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130329011 13
+29 3 CMoreExtreme 23:00 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130329002 13
+30 03 CMoreExtreme 02:15 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130329003 13
+30 03 CMoreExtreme 03:00 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130329004 13
+30 03 CMoreExtreme 03:25 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130329005 13
+30 03 CMoreExtreme 03:45-04:08 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130329006 13
+29 3 CMoreSportHD 22:30 {Ishockey: SM-slutspel Studio 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329010 13
+29 3 CMoreSportHD 23:00 {Fotboll: Allsvenskan inför säsongen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329011 13
+29 3 CMoreSportHD 23:30 {La Liga 12/13 Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329012 13
+30 03 CMoreSportHD 00:00 {Fotboll: La Liga World - Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329013 13
+30 03 CMoreSportHD 00:30 {SM-slutspelet: Färjestad - Luleå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329014 13
+30 03 CMoreSportHD 02:40-04:26 {Serie A: Milan - Fiorentina} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130329015 13

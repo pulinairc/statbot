@@ -1,0 +1,10 @@
+bind pub - * annavoicet
+proc annavoicet {nick chan} {
+pushmode #pulina +v $nick
+}
+bind time - "* */5 * * *" vievoicet
+proc vievoicet {nick chan} {
+pushmode #pulina -v $nick
+}
+putlog "ROLLEN VOICETTAJA LADATTU"
+

@@ -1,0 +1,46 @@
+18 2 CMoreTennis 11:00 {Tennis: ATP 500 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218001 13
+18 2 CMoreExtreme 04:10 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130218001 13
+18 2 CMoreSportHD 04:10 {UEFA: Archive Films} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218001 13
+18 2 CMoreSportHD 04:40 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218002 13
+18 2 CMoreSportHD 08:20 {La Liga: Zaragoza - Real Sociedad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218003 13
+18 2 CMoreSportHD 10:20 {La Liga: Rayo Vallecano - Atlético Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218004 13
+18 2 CMoreUrheilu 13:40 {Elitserien: HV71 - Skellefteå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130218001 13
+18 2 CMoreUrheilu 15:40 {Serie A: Fiorentina - Inter} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130218002 13
+18 2 CMoreUrheilu 17:30 {La Liga: Málaga - Athletic Bilbao} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130218003 13
+18 2 CMoreTennis 12:00 {Tennis: WTA Dubai Duty Free Tennis Championship} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218002 13
+18 2 CMoreTennis 13:30 {Tennis: WTA Dubai Duty Free Tennis Championship} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218003 13
+18 2 CMoreTennis 15:20 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218004 13
+18 2 CMoreTennis 17:00 {Tennis: WTA Dubai Duty Free Tennis Championship} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218005 13
+18 2 CMoreAitio 14:10 {La Liga: Athletic Bilbao - Espanyol} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130218001 13
+18 2 CMoreAitio 16:00 {Valioliiga: Sunderland - Arsenal} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130218002 13
+18 2 CMoreAitio 17:50 {La Liga: Real Madrid - Rayo Vallecano} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130218003 13
+18 2 CMoreSportHD 12:15 {Ishockey: Elitserien 12/13: MODO - HV71} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218005 13
+18 2 CMoreSportHD 14:30 {La Liga: Valladolid - Atlético Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218006 13
+18 2 CMoreSportHD 16:30 {La Liga: Osasuna - Zaragoza} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218007 13
+18 2 CMoreUrheilu 19:20 {Serie A: Roma - Juventus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130218004 13
+18 2 CMoreTennis 18:30 {Tennis: WTA Dubai Duty Free Tennis Championship} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218006 13
+18 2 CMoreTennis 20:15 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218007 13
+18 2 CMoreAitio 19:40 {Valioliiga: Liverpool - Swansea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130218004 13
+18 2 CMoreExtreme 20:00 {Speedway: Elitserien 2012: Västervik - Piraterna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130218002 13
+18 2 CMoreSportHD 18:30 {La Liga: Valladolid - Atlético Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218008 13
+18 2 CMoreSportHD 20:30 {La Liga: Granada - Barcelona} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218009 13
+18 2 CMoreUrheilu 21:10 {Valioliiga: Manchester United - Everton} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130218005 13
+18 2 CMoreUrheilu 23:00 {Premier League Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130218006 13
+18 2 CMoreUrheilu 23:55 {UEFA Champions League viikkomakasiini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130218007 13
+19 02 CMoreUrheilu 00:25-02:15 {Valioliiga: Chelsea - Wigan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130218008 13
+18 2 CMoreTennis 21:40 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218008 13
+18 2 CMoreTennis 22:50 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218009 13
+18 2 CMoreTennis 23:55 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218010 13
+19 02 CMoreTennis 01:15 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218011 13
+19 02 CMoreTennis 03:00 {Tennis: ATP 500 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218012 13
+19 02 CMoreTennis 03:55-04:47 {Tennis: ATP 500 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130218013 13
+18 2 CMoreAitio 21:30 {La Liga: Valladolid - Atlético Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130218005 13
+18 2 CMoreAitio 23:20 {La Liga Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130218006 13
+19 02 CMoreAitio 00:20-02:05 Barca-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130218007 13
+18 2 CMoreExtreme 22:30 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130218003 13
+18 2 CMoreExtreme 23:55 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130218004 13
+19 02 CMoreExtreme 01:30 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130218005 13
+19 02 CMoreExtreme 02:15-04:52 {TUF - The Ultimate Fighter} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130218006 13
+18 2 CMoreSportHD 22:30 {La Liga: Real Madrid - Rayo Vallecano} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218010 13
+19 02 CMoreSportHD 00:30 {La Liga: Real Sociedad - Levante} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218011 13
+19 02 CMoreSportHD 02:30-04:13 {La Liga: Sevilla - Deportivo La Coruña} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130218012 13

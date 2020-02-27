@@ -1,0 +1,42 @@
+4 10 CMoreTennis 04:50 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004001 13
+4 10 CMoreTennis 07:30 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004002 13
+4 10 CMoreTennis 09:30 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004003 13
+4 10 CMoreTennis 10:00 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004004 13
+4 10 CMoreSportHD 05:00 {Tennis: Rakuten Japan Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004001 13
+4 10 CMoreSportHD 07:00 {Tennis: Rakuten Japan Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004002 13
+4 10 CMoreSportHD 09:00 {Tennis: Rakuten Japan Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004003 13
+4 10 CMoreSportHD 11:00 {Tennis: Rakuten Japan Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004004 13
+4 10 CMoreUrheilu 16:00 {UEFA Champions League: Manchester City - Bayern München} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004001 13
+4 10 CMoreUrheilu 17:50 {Premier League Match Pack} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004002 13
+4 10 CMoreTennis 12:00 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004005 13
+4 10 CMoreTennis 14:00 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004006 13
+4 10 CMoreTennis 16:10 {Tennis: Rakuten Japan Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004007 13
+4 10 CMoreSportHD 13:20 {Allsvenskan: AIK - Östers IF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004005 13
+4 10 CMoreUrheilu 18:20 {UEFA Champions League: Celtic - Barcelona} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004003 13
+4 10 CMoreUrheilu 20:10 {UEFA Champions League: Arsenal - Napoli} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004004 13
+4 10 CMoreTennis 18:15 {Tennis: Rakuten Japan Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004008 13
+4 10 CMoreTennis 20:20 {Tennis: Rakuten Japan Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004009 13
+4 10 CMoreAitio 18:00 {Timanttiliiga Highlights: Tukholma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131004001 13
+4 10 CMoreAitio 19:00 {Timanttiliiga Highlights: Zürich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131004002 13
+4 10 CMoreAitio 20:00 {Timanttiliiga Highlights: Bryssel} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131004003 13
+4 10 CMoreExtreme 19:05 {Motor: Speedway British Elite League: Poole - Swindon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131004001 13
+4 10 CMoreSportHD 19:20 {Allsvenskan: topplistan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004006 13
+4 10 CMoreSportHD 19:55 {Allsvenskan: Mjällby - AIK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004007 13
+4 10 CMoreUrheilu 22:00 {Premier League Sunday Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004005 13
+4 10 CMoreUrheilu 23:00 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004006 13
+4 10 CMoreUrheilu 23:30 {Premier League Preview} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004007 13
+05 10 CMoreUrheilu 00:00 {UEFA Champions League: TsSKA Moskova - Viktoria Plzen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004008 13
+05 10 CMoreUrheilu 01:50-02:20 {Premier League Preview} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131004009 13
+4 10 CMoreTennis 22:30 {Tennis: Rakuten Japan Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004010 13
+05 10 CMoreTennis 00:40 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004011 13
+05 10 CMoreTennis 02:45-04:45 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131004012 13
+4 10 CMoreAitio 21:00 {Valioliiga: Swansea - Arsenal} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131004004 13
+4 10 CMoreAitio 22:50-00:40 {Valioliiga: Stoke - Norwich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131004005 13
+4 10 CMoreExtreme 22:00 {Kampsport: UFC Fighter Profiles} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131004002 13
+4 10 CMoreExtreme 22:50 {Kampsport: UFC Main Event} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131004003 13
+4 10 CMoreExtreme 23:40 {Kampsport: UFC Main Event} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131004004 13
+05 10 CMoreExtreme 00:30 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131004005 13
+05 10 CMoreExtreme 03:30-04:14 {Kampsport: UFC Main Event} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131004006 13
+4 10 CMoreSportHD 21:55 {UEFA: Archive Films} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004008 13
+05 10 CMoreSportHD 03:05 {UEFA: Archive Films} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004009 13
+05 10 CMoreSportHD 03:35-05:34 {Major League Soccer: Houston Dynamo - Montreal Impact} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131004010 13

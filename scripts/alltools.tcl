@@ -5,7 +5,7 @@
 # moretools was originally authored by David Sesno <walker@shell.pcrealm.net>
 # modified for 1.3.0 bots by TG
 #
-# Copyright (C) 1999, 2003 - 2008 Eggheads Development Team
+# Copyright (C) 1999, 2003 - 2010 Eggheads Development Team
 #
 # Tothwolf  02May1999: rewritten and updated
 # guppy     02May1999: updated even more
@@ -23,8 +23,6 @@
 # Souperman 05Nov2002: added ordnumber
 # Tothwolf  27Dec2003: added matchbotattrany, optimized ordnumber,
 #                      more minor changes
-#
-# $Id: alltools.tcl,v 1.21 2008-02-16 21:41:02 guppy Exp $
 #
 ########################################
 #
@@ -241,9 +239,18 @@ proc inchain {bot} {
 }
 
 proc randstring {length {chars abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789}} {
-  set count [string length $chars]
-  for {set index 0} {$index < $length} {incr index} {
-    append result [string index $chars [rand $count]]
+  if {([string compare "" $length]) && \
+      (![regexp \[^0-9\] $length])} then {
+    set count [string length $chars]
+    if {$count} then {
+      for {set index 0} {$index < $length} {incr index} {
+        append result [string index $chars [rand $count]]
+      }
+    } else {
+      error "empty character string"
+    }
+  } else {
+    error "invalid random string length"
   }
   return $result
 }

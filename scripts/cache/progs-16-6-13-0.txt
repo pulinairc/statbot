@@ -1,0 +1,172 @@
+16 6 TV1 04:00 Uutisikkuna http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616001 13
+16 6 TV1 08:00 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616002 13
+16 6 TV1 08:05 {Avara luonto: Itä-Afrikan hautavajoama} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616003 13
+16 6 TV1 09:00 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616004 13
+16 6 TV1 09:05 Aamusydämellä http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616005 13
+16 6 TV1 09:45 {Toinen minä: Maarit Tastula} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616006 13
+16 6 TV1 09:55 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616007 13
+16 6 TV1 10:00 {Brita Kekkonen o.s. Fagerholm} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616008 13
+16 6 TV1 10:50 {Nykyajan ihmeet} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616009 13
+16 6 TV1 11:00 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616010 13
+16 6 TV1 11:05 {Puutarhurin maailma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616011 13
+16 6 TV2 04:00 {Suunnistuksen Jukolan viesti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616001 13
+16 6 TV2 07:00 Uutisikkuna http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616002 13
+16 6 TV2 07:45 {Pikku Kakkonen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616003 13
+16 6 TV2 07:46 {Nimipäiväonnittelu: 16.6.} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616004 13
+16 6 TV2 07:48 Vekarat! http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616005 13
+16 6 TV2 08:12 {Kikattava Kakkiainen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616006 13
+16 6 TV2 08:19 {Puu Fu Tom} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616007 13
+16 6 TV2 08:41 {Apina opena} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616008 13
+16 6 TV2 09:00 Galaxi http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616009 13
+16 6 TV2 09:01 Hevostähdet http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616010 13
+16 6 TV2 09:10 {Pok ja Mok} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616011 13
+16 6 TV2 09:21 Pihaleikit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616012 13
+16 6 TV2 09:29 Ötökät http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616013 13
+16 6 TV2 09:33 {Hillitön hotelli: Putkipulmia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616014 13
+16 6 TV2 10:00 {Vili Vilperi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616015 13
+16 6 TV2 10:25 Elefanttiprinsessa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616016 13
+16 6 TV2 10:50 Elefanttiprinsessa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616017 13
+16 6 TV2 11:15 Elefanttiprinsessa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616018 13
+16 6 TV2 11:40 Elefanttiprinsessa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616019 13
+16 6 MTV3 06:00 {MTV3 Deitti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616001 13
+16 6 MTV3 07:00 Ostoskanava http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616002 13
+16 6 MTV3 08:00 {Ystävien kylä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616003 13
+16 6 MTV3 08:15 {Looney Tunes Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616004 13
+16 6 MTV3 08:40 {Katti kaiken tietää!} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616005 13
+16 6 MTV3 09:10 {Gumballin mieletön maailma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616006 13
+16 6 MTV3 09:40 {Angry Birds Toons} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616007 13
+16 6 MTV3 09:45 {Beyblade: Metal Fury} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616008 13
+16 6 MTV3 10:10 {Pientä pintaremonttia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616009 13
+16 6 MTV3 11:10 {Kaappaus keittiössä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616010 13
+16 6 Nelonen 04:05 {Dr. Phil} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130615035 13
+16 6 Nelonen 05:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616001 13
+16 6 Nelonen 06:15 Ostosruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616002 13
+16 6 Nelonen 07:45 {LIVE: Tiedä ja Voita} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616003 13
+16 6 Nelonen 08:25 {Jaksa paremmin} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616004 13
+16 6 Nelonen 08:55 Eden http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616005 13
+16 6 Nelonen 09:25 {Huvila & Huussi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616006 13
+16 6 Nelonen 10:25 Elixir http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616007 13
+16 6 Nelonen 10:55 Matkaoppaat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616008 13
+16 6 Nelonen 11:25 Matkaoppaat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616009 13
+16 6 Nelonen 11:55 Matkaoppaat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616010 13
+16 6 Sub 06:00 SubChat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616001 13
+16 6 Sub 07:05 {Madagascarin pingviinit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616002 13
+16 6 Sub 07:30 {Unelmien pallokerho} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616003 13
+16 6 Sub 07:59 Ostos-tv http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616004 13
+16 6 Sub 11:00 Simpsonit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616005 13
+16 6 Sub 11:30 Simpsonit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616006 13
+16 6 YleTeema 04:00 Teematieto http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616002 13
+16 6 TV1 12:05 {Kuka oikein olet?: Steve Buscemi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616012 13
+16 6 TV1 12:45 {Prisma: Kasvimaailman mahti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616013 13
+16 6 TV1 13:35 {Kukkaron herraksi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616014 13
+16 6 TV1 14:05 {Historiaa: Kapina orjalaivalla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616015 13
+16 6 TV1 15:00 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616016 13
+16 6 TV1 15:05 {Yle News} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616017 13
+16 6 TV1 15:10 {Kahdeksan vuodenaikaa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616018 13
+16 6 TV1 15:50 {Viinakeisarin salaisuus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616019 13
+16 6 TV1 16:40 {Villit eläinystävämme} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616020 13
+16 6 TV1 16:50 {Novosti Yle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616021 13
+16 6 TV1 16:55 {Yle Uutiset viittomakielellä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616022 13
+16 6 TV1 17:00 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616023 13
+16 6 TV1 17:10 {Avara luonto: Suuri kiertokulku} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616024 13
+16 6 TV2 12:05 Elefanttiprinsessa http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616020 13
+16 6 TV2 12:40 {Laivakokin apulaisen uudet seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616021 13
+16 6 TV2 13:40 {Voimistelun Sun Lahti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616022 13
+16 6 TV2 14:35 {Hartain toive: lapsi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616023 13
+16 6 TV2 15:30 {Suomen vahvin} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616024 13
+16 6 TV2 16:30 {Yleisurheilun Paavo Nurmen kisat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616025 13
+16 6 MTV3 12:05 {MTV3.doc: Elisabet II: äiti, vaimo, kuningatar} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616011 13
+16 6 MTV3 13:10 KIDSing http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616012 13
+16 6 MTV3 14:10 Selviytyjät http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616013 13
+16 6 MTV3 15:10 {Herrat pitävät vaaleaveriköistä (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616014 13
+16 6 MTV3 17:00 {Salatut elämät} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616015 13
+16 6 MTV3 17:30 {Salatut elämät} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616016 13
+16 6 Nelonen 12:25 Matkaoppaat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616011 13
+16 6 Nelonen 12:55 {Eläinten ABC} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616012 13
+16 6 Nelonen 13:25 {Koiralle koti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616013 13
+16 6 Nelonen 14:30 {Radio Aallon Helsinki-päivän konsertti} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616014 13
+16 6 Nelonen 16:30 {Huippumalli haussa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616015 13
+16 6 Nelonen 17:30 {Kuninkaalliset häät} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616016 13
+16 6 Sub 12:00 Simpsonit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616007 13
+16 6 Sub 12:30 Simpsonit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616008 13
+16 6 Sub 13:00 Simpsonit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616009 13
+16 6 Sub 13:30 Iholla http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616010 13
+16 6 Sub 14:00 Iholla http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616011 13
+16 6 Sub 14:30 Iholla http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616012 13
+16 6 Sub 15:00 Iholla http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616013 13
+16 6 Sub 15:30 Middle http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616014 13
+16 6 Sub 16:00 Merlin http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616015 13
+16 6 Sub 17:00 {Carrien päiväkirjat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616016 13
+16 6 Sub 17:55 {Kauden Kiinnostavin Uutuus} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616017 13
+16 6 YleTeema 17:00 {Tiededokumentti: Mielen syövereissä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616003 13
+16 6 YleTeema 17:50 {Kansallismaisemat: Sund} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616004 13
+16 6 TV1 18:00 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616025 13
+16 6 TV1 18:10 Urheiluruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616026 13
+16 6 TV1 18:15 {Foylen sota} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616027 13
+16 6 TV1 20:00 {10 kirjaa rikoksesta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616028 13
+16 6 TV1 20:30 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616029 13
+16 6 TV1 20:45 Lotto http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616030 13
+16 6 TV1 20:51 Urheiluruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616031 13
+16 6 TV2 19:00 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616026 13
+16 6 TV2 19:10 Urheiluruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616027 13
+16 6 TV2 19:20 {Yle Uutiset sää} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616028 13
+16 6 TV2 19:30 Sissipuutarhurit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616029 13
+16 6 TV2 20:00 Kettu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616030 13
+16 6 MTV3 18:00 {Mike & Molly} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616017 13
+16 6 MTV3 18:30 {Mike & Molly} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616018 13
+16 6 MTV3 19:00 {Seitsemän Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616019 13
+16 6 MTV3 19:10 Tulosruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616020 13
+16 6 MTV3 19:30 {Uuno Turhapuro armeijan leivissä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616021 13
+16 6 MTV3 20:00 {Amazing Race} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616022 13
+16 6 Nelonen 18:30 {Nelosen uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616017 13
+16 6 Nelonen 18:50 {Nelosen sää} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616018 13
+16 6 Nelonen 19:00 {Hauskat eläinvideot} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616019 13
+16 6 Nelonen 19:30 {Vain elämää} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616020 13
+16 6 Nelonen 20:57 Keno http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616021 13
+16 6 Sub 18:00 {Gossip Girl} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616018 13
+16 6 Sub 18:55 {Neljänsuora: Ilman sinua} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616019 13
+16 6 Sub 19:00 Ajoneuvos http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616020 13
+16 6 Sub 19:30 Virittäjät http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616021 13
+16 6 Sub 20:00 {Mad Cook & Madventures} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616022 13
+16 6 YleTeema 18:00 {Kino Klassikko: Päivien kimallus (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616005 13
+16 6 YleTeema 19:40 {Kootut askeleet: Arja Raatikainen} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616006 13
+16 6 YleTeema 20:00 {Silkkitie 30 päivässä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616007 13
+16 6 YleTeema 20:45 {70-luku: Hypnoosi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616008 13
+16 6 TV1 21:05 {Kotikatsomo: Jungle of Dreams} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616032 13
+16 6 TV1 21:50 {Jalkapallon Confederations Cup : Meksiko - Italia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616033 13
+16 6 TV1 23:55-04:00 Uutisikkuna http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV120130616034 13
+16 6 TV2 21:00 {Borgiat, maan ja taivaan valtiaat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616031 13
+16 6 TV2 21:56 {Yle Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616032 13
+16 6 TV2 21:59 {Märät säpikkäät} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616033 13
+16 6 TV2 22:20 {Angry Boys} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616034 13
+16 6 TV2 22:50 {The Wire} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616035 13
+16 6 TV2 23:48 {Theroux ja uusnatsit} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616036 13
+17 06 TV2 00:50 {Jalkapallon Confederations Cup : Espanja - Uruguay} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616037 13
+17 06 TV2 02:53-04:00 Uutisikkuna http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TV220130616038 13
+16 6 MTV3 21:00 Kosto http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616023 13
+16 6 MTV3 22:00 {Kymmenen Uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616024 13
+16 6 MTV3 22:15 {Viikon sää} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616025 13
+16 6 MTV3 22:20 Tulosruutu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616026 13
+16 6 MTV3 22:35 {Lotto ja Jokeri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616027 13
+16 6 MTV3 22:40 C.S.I. http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616028 13
+16 6 MTV3 23:40 Southland http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616029 13
+17 06 MTV3 00:40 Jokakoti.fi http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616030 13
+17 06 MTV3 01:10-06:00 {MTV3 Chat} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=MTV20130616031 13
+16 6 Nelonen 21:00 {Elokuva: The Double - Pimeän puolella (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616022 13
+16 6 Nelonen 23:05 {Nelosen uutiset} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616023 13
+16 6 Nelonen 23:15 {Nelosen sää} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616024 13
+16 6 Nelonen 23:20 {Mad Men} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616025 13
+17 06 Nelonen 00:25 Lost http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616026 13
+17 06 Nelonen 01:25 {Perhe on pahin} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616027 13
+17 06 Nelonen 02:00 {Dr. Phil} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616028 13
+17 06 Nelonen 02:55 {Dr. Phil} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616029 13
+17 06 Nelonen 03:55-05:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEL20130616030 13
+16 6 Sub 21:00 {Rakkauden keitos (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616023 13
+16 6 Sub 23:00 Kohde http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616024 13
+17 06 Sub 00:00 {Pahan jäljillä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616025 13
+17 06 Sub 01:00 {Lain varjossa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616026 13
+17 06 Sub 01:59-06:00 SubChat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=TVT20130616027 13
+16 6 YleTeema 21:00 {Sounds of the Seventies} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616009 13
+16 6 YleTeema 21:30 {Yle Live: The Cure} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616010 13
+16 6 YleTeema 22:25 {Seksiä auringon alla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616011 13
+16 6 YleTeema 23:10-23:58 {Paluu Sodankylään} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=YTE20130616012 13

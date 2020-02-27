@@ -1,0 +1,46 @@
+16 6 CMoreUrheilu 09:00 {ATP Tennis: Monte Carlo / välierä 1} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616001 13
+16 6 CMoreUrheilu 11:00 {ATP Tennis: Monte Carlo / välierä 2} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616002 13
+16 6 CMoreTennis 05:10 {Tennis: WTA Brussels Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616001 13
+16 6 CMoreTennis 11:00 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616002 13
+16 6 CMoreTennis 11:30 {Tennis: Wimbledon Final} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616003 13
+16 6 CMoreAitio 09:00 {Valioliiga: Review of the Season} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616001 13
+16 6 CMoreAitio 10:00 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616002 13
+16 6 CMoreAitio 10:30 {Jääkiekon MM-kisat: Latvia - Suomi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616003 13
+16 6 CMoreSportHD 05:00 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616001 13
+16 6 CMoreSportHD 08:10 {La Liga: Valencia - Sevilla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616002 13
+16 6 CMoreSportHD 10:00 {Allsvenskan: Malmö - Östers IF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616003 13
+16 6 CMoreUrheilu 12:10 {ATP Tennis: Monte Carlo / loppuottelu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616003 13
+16 6 CMoreUrheilu 14:40 {ATP Tennis: Madrid / puolivälierä 1} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616004 13
+16 6 CMoreUrheilu 16:40 {ATP Tennis: Madrid / puolivälierä 2} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616005 13
+16 6 CMoreTennis 15:00 {Tennis: Gerry Weber Open Halle 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616004 13
+16 6 CMoreTennis 17:10 {Tennis: WTA Brussels Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616005 13
+16 6 CMoreAitio 12:30 {Jääkiekon MM-kisat: Tanska - Ruotsi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616004 13
+16 6 CMoreAitio 14:30 {Jääkiekon MM-kisat: Puolivälierä / Venäjä - USA} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616005 13
+16 6 CMoreAitio 16:30 {Jääkiekon MM-kisat: Puolivälierä / Sveitsi - Tshekki} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616006 13
+16 6 CMoreSportHD 12:00 {La Liga: Atlético Madrid - Real Sociedad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616004 13
+16 6 CMoreSportHD 14:00 {Allsvenskan: Helsingborg - Gefle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616005 13
+16 6 CMoreSportHD 16:00 {La Liga: Athletic Bilbao - Real Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616006 13
+16 6 CMoreUrheilu 18:40 {Wimbledon: Decade of Wimbledon / The 80 's} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616006 13
+16 6 CMoreUrheilu 19:35 {Timanttiliiga: Oslo} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616007 13
+16 6 CMoreTennis 19:00 {Tennis: Mutua Madrilena Madrid Open 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616006 13
+16 6 CMoreTennis 20:50 {Tennis: Wimbledon - Legends of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616007 13
+16 6 CMoreAitio 18:30 {Jääkiekon MM-kisat: Puolivälierä / Suomi - Slovakia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616007 13
+16 6 CMoreAitio 20:30 {Jääkiekon MM-kisat: Puolivälierä / Kanada - Ruotsi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616008 13
+16 6 CMoreExtreme 20:00 IndyCar http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130616001 13
+16 6 CMoreSportHD 18:00 {La Liga: FC Barcelona - Real Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616007 13
+16 6 CMoreSportHD 19:55 {La Liga: Real Madrid - Celta Vigo} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616008 13
+16 6 CMoreUrheilu 21:45 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616008 13
+16 6 CMoreUrheilu 22:15 {ATP Tennis: Madrid / puolivälierä 3} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616009 13
+17 06 CMoreUrheilu 00:15-02:15 {ATP Tennis: Madrid / puolivälierä 4} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130616010 13
+16 6 CMoreTennis 21:45 {Tennis: WTA Brussels Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616008 13
+17 06 CMoreTennis 00:50 {Tennis: WTA Brussels Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616009 13
+17 06 CMoreTennis 03:30-06:12 {Tennis: WTA Brussels Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130616010 13
+16 6 CMoreAitio 22:30 {Valioliiga: Chelsea - Tottenham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616009 13
+17 06 CMoreAitio 00:20-02:10 {Valioliiga: Wigan - Swansea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130616010 13
+16 6 CMoreExtreme 23:00 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130616002 13
+17 06 CMoreExtreme 02:00 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130616003 13
+17 06 CMoreExtreme 03:30-05:16 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130616004 13
+16 6 CMoreSportHD 21:45 {Tennis: Wimbledon - Great Wimbledon Rivalries} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616009 13
+16 6 CMoreSportHD 22:45 {Tennis: Wimbledon Record Breakers} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616010 13
+16 6 CMoreSportHD 23:45 {Allsvenskan: Elfsborg - Djurgården} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616011 13
+17 06 CMoreSportHD 01:40-03:27 {Fotboll: Major League Soccer 2013: Columbus Crew - Montreal Impact} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130616012 13

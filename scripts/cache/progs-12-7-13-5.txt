@@ -1,0 +1,33 @@
+12 7 CMoreTennis 08:30 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130712001 13
+12 7 CMoreExtreme 04:20 {TUF - The Ultimate Fighter} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130712001 13
+12 7 CMoreSportHD 08:00 {Allsvenskan: Helsingborg - Göteborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712001 13
+12 7 CMoreSportHD 10:00 {Fotboll: Major League Soccer 2013: Colorado Rapids - New York Red Bulls} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712002 13
+12 7 CMoreTennis 15:00 {Tennis: Mercedes Cup Stuttgart 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130712002 13
+12 7 CMoreTennis 17:00 {Tennis: Mercedes Cup Stuttgart 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130712003 13
+12 7 CMoreSportHD 12:00 {Elitserien i speedway: Vargarna Norrköping - Hammarby} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712003 13
+12 7 CMoreSportHD 14:40 {Allsvenskan: Elfsborg - Åtvidabergs FF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712004 13
+12 7 CMoreSportHD 16:40 {Allsvenskan: AIK - Häcken} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712005 13
+12 7 CMoreUrheilu 18:00 {UEFA Champions League: Manchester City - Real Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130712001 13
+12 7 CMoreUrheilu 19:45 {UEFA Champions League: Real Madrid - Ajax} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130712002 13
+12 7 CMoreTennis 19:00 {Tennis: Mercedes Cup Stuttgart 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130712004 13
+12 7 CMoreAitio 18:00 Wimbledon http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130712001 13
+12 7 CMoreExtreme 20:00 {Elitserien i speedway: Vargarna Norrköping - Hammarby} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130712002 13
+12 7 CMoreSportHD 18:30 {30 for 30 Classics} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712006 13
+12 7 CMoreSportHD 19:25 {Fotboll: La Liga Magasin} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712007 13
+12 7 CMoreSportHD 20:30 {Allsvenskan: topplistan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712008 13
+12 7 CMoreUrheilu 21:30 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130712003 13
+12 7 CMoreUrheilu 22:00 {UEFA Champions League: Chelsea - Nordsjälland} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130712004 13
+12 7 CMoreUrheilu 23:45 {UEFA Champions League: A Short History} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130712005 13
+13 07 CMoreUrheilu 00:15-02:00 {UEFA Champions League: Real Madrid - Manchester United} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130712006 13
+12 7 CMoreTennis 21:00 {Tennis: Mercedes Cup Stuttgart 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130712005 13
+12 7 CMoreTennis 23:15 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130712006 13
+13 07 CMoreTennis 03:30-04:22 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130712007 13
+13 07 CMoreAitio 00:00-02:00 {Valioliiga: Manchester United - Swansea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130712002 13
+12 7 CMoreExtreme 22:40 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130712003 13
+12 7 CMoreExtreme 23:20 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130712004 13
+13 07 CMoreExtreme 00:00 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130712005 13
+13 07 CMoreExtreme 03:00-05:50 {TUF - The Ultimate Fighter} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130712006 13
+12 7 CMoreSportHD 21:00 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712009 13
+13 07 CMoreSportHD 00:45 {30 for 30 Classics} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712010 13
+13 07 CMoreSportHD 01:30 {Allsvenskan: Syrianska - Halmstad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712011 13
+13 07 CMoreSportHD 03:30-05:13 {Fotboll: Major League Soccer 2013: Sporting Kansas City - Vancouver Whitecaps} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130712012 13

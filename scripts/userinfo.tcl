@@ -1,8 +1,6 @@
 # userinfo.tcl v1.06 for Eggdrop 1.4.3 and higher
 #           Scott G. Taylor -- ButchBub!staylor@mrynet.com
 #
-# $Id: userinfo.tcl,v 1.5 2001-11-15 06:28:35 guppy Exp $
-#
 # v1.00      ButchBub     14 July      1997 -Original release.  Based on
 #                                            whois.tcl "URL" commands.
 # v1.01      Beldin       11 November  1997 -1.3 only version
@@ -255,7 +253,7 @@ bind dcc m showfields showfields
 proc showfields {hand idx arg} {
  global userinfo-fields
  if { ${userinfo-fields} == "" } {
-  putdcc $idx "Their is no user info fields set."
+  putdcc $idx "There are no user info fields set."
   return 0
  }  
  putdcc $idx "Currently: [string toupper ${userinfo-fields}]"
@@ -281,4 +279,5 @@ set userinfo_loaded 1
 
 # Announce that we've loaded the script.
 
-putlog "Script loaded: \002$userinfover (${userinfo-fields}). use '.help userinfo' for commands.\002"
+putlog "$userinfover loaded (${userinfo-fields})."
+putlog "use '.help userinfo' for commands."

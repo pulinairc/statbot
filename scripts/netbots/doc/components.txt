@@ -1,0 +1,565 @@
+---------------------------------
+      NETBOTS DOCUMENTATION
+---------------------------------
+        netbots.tcl v4.10
+    botnet script for eggdrop
+---------------------------------
+Visit http://www.egghelp.org/ for
+    contact info and support.
+---------------------------------
+
+Please read netbots.txt before reading this file. This file contains information on netbots.tcl's components and settings.
+
+
+CONTENTS
+ Note
+ netbots.tcl (core)
+ aidle.tcl
+ botnetop.tcl
+ chanlimit.tcl
+ extras.tcl
+ logfile.tcl
+ mainserver.tcl
+ mass.tcl
+ repeat.tcl
+ sentinel.tcl
+ superbitch.tcl
+
+
+NOTE
+
+Each group of settings in netset.tcl, except for the netbots.tcl core settings, starts with an nb_component setting (described in netbots.txt). If the nb_component is set to 0, the component is not loaded and all settings for that component are unused - so you can safely ignore or delete any settings for components that aren't loaded. You can even delete the whole section, including the nb_component line, if you like.
+
+Also note that many of netbots.tcl's component scripts require the bot to be running the netbots.tcl core. They may not work as standalone scripts.
+
+
+NETBOTS.TCL (CORE)
+
+Commands: nethelp, components, netbots, netcontrol, netinfo, netshell, netserv, netpass, netsave, nethash, netsay, netact, netnotice, netdump, netnick, netjump, netjoin, netpart, netchanset, nettcl, netupdate
+
+Use '.nethelp [command]' in DCC for more detailed information. The nethelp command covers all available DCC commands, including those for loaded components. netbots.tcl core commands are only usable by global owners (+n).
+
+nb_flag  (default: "N")
+  The netbot flag. There are three ways you can set this:
+  1) Set a custom netbot flag such as "N". This must be an upper-case alphabet letter. You can easily add/remove netbots using the .netbots command. netbot commands will only be sent to and accepted from other netbots. This is the most secure setting, and is the best setting if your botnet is linked to other peoples' botnets.
+  2) Set the flag to "b" - eggdrop's bot flag. Commands will be sent to and accepted from bots recognised as +b on your bot's userfile.
+  3) Set it to "all". Commands will be sent to and accepted from all bots on the botnet. Because it utilises the 'putallbots' Tcl command, this is the most efficient setting for using netbots.tcl to control a large number of bots, making it a good option for large but private botnets.
+  Valid settings: as described above.
+
+nb_key  (default: "changethis")
+  The encryption key - netbot commands will only be accepted from bots with matching keys.
+  Valid settings: a short text string, preferably a random combination of upper and lower case letters and numbers, such as "e9gn4bMu".
+
+nb_group  (default: <examples provided in script>)
+  The .netcontrol command allows you to control specific bots when using netbot commands. Using nb_group, you can create preset 'groups' of bots for use with .netcontrol (see '.nethelp netcontrol' for more info). Advanced users can also combine nb_group with nb_set in netset.tcl for enhanced configuration (see 'Configuration & Components' in netbots.txt).
+  Valid settings: a group name in parenthesis followed by a list of bots separated by commas - e.g. set nb_group(groupname) "bot1,bot2,etc".
+
+nb_defctrl  (default: "*")
+  By default, you are set to control all netbots whenever you login to the bot. This setting lets you specify a group or list of bots to control by default, instead of controlling all bots.
+  Valid settings: "*" for all bots, a group name variable like "$nb_group(groupname)" to control a group of bots, or a list of bots like "bot1,bot2,etc".
+
+nb_owner  (default: 0)
+  Only allow 'permanent' owners (as defined in the config file) to use netbot commands?
+  Valid settings: 1 to enable, 0 to disable.
+
+nb_ctrlbots  (default: "")
+  Make the bot only accept netbot commands from these bots? (all netbot commands must be issued via the bots specified here). This setting should be the same on all netbots.
+  Valid settings: one bot like "BigBoy", a list of bots (separated by commas) like "BigBoy,Mallard,Scotsman", or "" to disable the feature.
+
+nb_max  (default: 3)
+  Maximum number of simultaneous file transfers for netupdate. Setting this too high may cause the hub bot to use up a lot of CPU during transfers and may also make transfer less reliable.
+  Valid settings: 1 or higher.
+
+nb_timeout  (default: 180)
+  File transfer timeout for netupdate (in seconds).
+  Valid settings: 1 or higher.
+
+nb_netupdate  (default: 2)
+  There are three modes for netupdate. Setting it to 0 will disable it completely (in case you're worried about possible security risks with netupdate). 1 will enable netupdate but disable the smart update feature. 2 enables the smart update feature, which uses md5 checking to prevent bots downloading files from the hub (or other distribution bot) that are the same as the ones they already have. The smart update feature requires eggdrop 1.6 (if you have it set to 2 and an older eggdrop version is detected, the script will automatically set it to 1).
+  Valid settings: 0 to disable netupdate, 1 to enable, 2 to enable with smart update.
+
+nb_nettcl  (default: 0)
+  Enable the nettcl command? This command is recommended for advanced users only, and should be disabled if you're worried about potential security risks involving nettcl.
+  Valid settings: 1 to enable the nettcl command, 0 to disable.
+
+nb_update  (default: "YourNick")
+  List of users to send a note to whenever a new version of netbots.tcl becomes available, or when there's an important message about the script (e.g. bug alerts, etc.). The bot will visit a special page on www.egghelp.org once a week to check for these updates. It is recommended you only enable this feature on one bot, otherwise you could get flooded with notes when there's an update. This feature will only work on a bot using Tcl 8.0 or later (type '.netinfo -more' to see what tcl versions your bots are using) with the http package available.
+  Valid settings: one user like "Tom", a list of users like "Tom Dick Harry", or "" to disable the feature.
+
+nb_chon  (default: 1)
+  Displays various information when someone logs in to the bot, including a list of users on the bot and party line, and bots/netbots linked (displayed to global +m/n/t users only). If nb_broadcast is active, it also broadcasts user logins/logouts, so you can see when someone logs in/out on a remote bot even if you or they aren't on the party line.
+  Valid settings: 1 to enable, 0 to disable.
+
+nb_broadcast  (default: "")
+  This feature allows you to monitor CTCPs and MSGs sent to your bots, as well as bot user logins/logouts (if nb_chon is enabled), DCC commands (if nb_cmdcast is enabled), server connects/klines, botnetop checkop notices, and sighup/sigterm (eggdrop 1.3.28+ only). Whenever a bot receives any of these, it will be broadcast to other netbots. The broadcast will only be seen by users with the global flags set here. Note that you'll only get CTCP and MSG broadcasts from bots with the sentinel.tcl component loaded (these broadcasts are sent via sentinel to prevent flooding). Also note that CTCP and MSG's from valid users are not broadcast.
+  Valid settings: one flag like "n", a list of flags like "nt" (means 'n OR t'), or "" to disable the broadcast.
+
+nb_cmdcast  (default: 0)
+  Broadcast DCC commands used on the bot? This allows you to remotely monitor commands used on netbots.
+  Valid settings: 1 to enable, 0 to disable.
+
+nb_castfilter  (default: "addhost ident .chpass .newpass .note")
+  To prevent user passwords from being broadcast by nb_broadcast, MSGs and DCC commands containing the commands listed in nb_castfilter will be filtered so that only the first word of the command is displayed. Commands containing your password that you may use while you're not seen as a valid user on the bot (e.g. ident command) and commands that may contain private information (e.g. notes commands) should be listed in this setting. All DCC commands to be filtered must begin with a period as shown in the examples. This setting will not affect your binds in any way.
+  Valid settings: a list of MSG and/or DCC commands like "addhost ident .chpass .newpass .note", or "" to disable any filtering.
+
+nb_servers  (default: <example provided in script>)
+  This allows you to define the server list for all netbots in the netbots.tcl script, instead of having to edit the server list in each bot's config file. Use this feature if you'd like the convenience of having centralised server lists, but find mainserver.tcl too tedious. With servers defined in nb_servers, the server lists defined in the bot configs will become redundant, so you may delete them if you wish (if you leave them there they'll simply be overwritten by nb_servers). Whenever the bot starts or rehashes, it will randomise the nb_servers list, so each bot on your botnet will automatically cycle through the server list in a different order. Using the nb_set feature, you can also create custom server lists for particular bots.
+  Port ranges/lists are supported in the nb_servers server list (e.g. irc.chatty.net:6660-6667 or irc.chatty.net:6666,6668 or irc.chatty.net:6660-6667,7000). The bot will choose a random port from the ranges/lists whenever it starts or is rehashed.
+  Valid settings: a list of servers in the same format as the default server list in the config file. To disable nb_servers, comment out the nb_servers section or set it to "".
+
+
+AIDLE.TCL
+
+Basic anti-idle script, sends random MSGs to the a random channel or a random bot at random time intervals.
+
+ai_msgbots  (default: 0)
+  Send MSGs to other bots instead of sending to the channel? If you enable this, the bot will check for bots on the channel(s) set in ai_chan, and pick a random one to send the anti-idle msg to.
+  Valid settings: 1 to enable, 0 to disable.
+
+ai_chans  (default: "")
+  Channels to send anti-idle messages to, or channels to check for bots if ai_msgbots is enabled. If multiple channels are specified, the script will choose one random channel from the list each time an anti-idle msg is to be sent.
+  Valid settings: one channel like "#donkeys" or a list of channels like "#donkeys #cows #pigs", or "" for all channels the bot is on.
+
+ai_time  (default: 60)
+  Maximum time interval between messages (in minutes).
+  Valid settings: 1 or higher.
+
+ai_uidle  (default: 0)
+  Enables a special utimer version of aidle that makes the bot send frequent messages. This generally makes the bot ping out less often, but it increases IRC traffic and can be very annoying unless you have the bots send the messages to a disused channel. The setting ignores ai_time.
+  Valid settings: 1 to enable, 0 to disable.
+
+ai_msgs  (default: <example provided in script>)
+  Messages to send.
+  Valid settings: list of message strings, as shown in the example in the netbots.tcl file. You can make the bot do an action by specifying the msg in the following format: "\001ACTION laughs uncontrollably\001".
+
+
+BOTNETOP.TCL
+
+This script was written mainly as an alternative to GetOps. It allows linked bots to securely give ops to one another on their channels. It also automatically invites linked bots to channels which are invite-only, shares keys with linked bots for channels which are keyed, raises a channel's limit if a bot can't get in because the channel is full, unbans a bot if it can't get in because it matches a ban, and automatically adds new hostmasks when a bot's user@host info has changed. There is a delayed op mechanism to prevent mode +o flooding whenever a bot joins a channel, and op/invite checking routines are significantly more secure than those in GetOps. The script is also compatible with bots running older versions of botnetop.tcl (v1.00 and up).
+
+Note that botnetop.tcl regularly clears and/or overwrites the need settings (need-op, need-invite, etc.) at intervals to prevent errors when upgrading or switching to botnetop.tcl from another script. If you require need settings for another purpose you should use need 'binds' (eggdrop 1.6 only) instead.
+
+About the bop_delay and bop_maxreq settings: botnetop.tcl uses two methods to reduce/eliminate mode +o flooding - bop_delay is used by the bot giving ops, while bop_maxreq is used by the bot asking for ops. You can use both features, one or the other, or disable both. Below is an explanation of some possible combinations.
+
+bop_delay 20; bop_maxreq 0: all bots will ask a non-opped bot if it needs ops after a delay of between 0-20 seconds (different bots will delay for different amounts of time). The bot that needs ops will respond to all offers.
+
+bop_delay 0; bop_maxreq 2: all bots will ask a non-opped bot if it needs ops without any delay. The bot that needs ops will respond to a maximum of 2 offers.
+
+bop_delay 20; bop_maxreq 3: all bots will ask a non-opped bot if it needs ops after a delay of between 0-20 seconds. The bot that needs ops will respond to a maximum of 3 offers.
+
+bop_delay 0; bop_maxreq 0: all bots will ask a non-opped bot if it needs ops without any delay. The bot that needs ops will respond to all offers.
+
+bop_delay  (default: 20)
+  Maximum number of seconds to delay before asking a non-opped bot if it needs ops. This is used by the bot giving ops. Higher settings help reduce +o flooding when a bot joins. Note that the delay is automatically skipped if there are fewer than 3 bots opped on the channel.
+  Valid settings: 0 to disable delayed op, otherwise 1 or higher.
+
+bop_maxreq  (default: 3)
+  Maximum number of bots to request ops from at a time. This is used by the bot requesting ops. This feature can completely eliminate +o flooding when a bot joins, but the bot will request ops from fewer bots.
+  Valid settings: 0 to disable, otherwise 1 or higher.
+
+bop_modeop  (default: 0)
+  Make the bot send an op request when it sees a bot become opped on a channel? This will make your bot get ops sooner when another bot is given ops.
+  Valid settings: 1 to enable, 0 to disable.
+
+bop_linkop  (default: 1)
+  Make the bot send an op request when a bot links? This will make your bot get ops sooner if linking is delayed, and provides a better chance of the bots opping one another if there are linking problems.
+  Valid settings: 1 to enable, 0 to disable.
+
+bop_icheck  (default: 0)
+  Check a bot's user@host before inviting it to a channel? Normally, the bot can sometimes invite the wrong user to +i channel if there are splits occurring. Enabling this check can prevent that.
+  Valid settings: 1 to enable, 0 to disable.
+
+bop_hcheck  (default: 1)
+  This option performs a hostmask check over the botnet and should normally be enabled. If botnetop.tcl isn't working properly on a network with obscured hostnames (e.g. +x user mode), try disabling this option.
+  Valid settings: 1 to enable, 0 to disable.
+
+bop_osync  (default: 0)
+  Give ops to a bot even if it looks like it's already opped on the channel? Normally, the script will ignore a request for ops from a bot if that bot is already opped. But in some desync situations, a bot may appear to be opped even when it isn't, so you might want to enable this if you often have desync problems. Note that enabling this can result in +o flooding.
+  Valid settings: 1 to enable, 0 to disable.
+
+bop_addhost  (default: 0)
+  Let the script automatically add new hostmasks for bots? (e.g. if you change a bot's vhost). This feature doesn't work all the time due to complications with protect-telnet, strict-host, bot host sharing flaws, security concerns, etc., but it's convenient when it works.
+  Valid settings: 1 to enable, 0 to disable.
+
+bop_log  (default: 2)
+  By default, botnetop.tcl logs all ops, op requests, invite/key/limit/unban requests/responses, and host additions. This setting lets you reduce the amount of logging.
+  Valid settings: 2 to enable all logging, 1 to disable logging of ops/op requests, 0 to disable all logging except host additions.
+
+
+CHANLIMIT.TCL
+
+This script maintains a user limit (+l mode) in channels your bot is in. It is used primarily to help discourage and reduce the effects of large flood attacks.
+
+DCC commands (channel/global +m users)
+.dolimit to run limit checking on demand
+.stoplimit to temporarily stop limiting
+.startlimit to restart limiting
+
+cl_chans  (default: "")
+  List of channels in which to activate limiting.
+  Valid settings: one channel like "#donkeys", a list of channels like "#donkeys #cows #pigs", or "" to activate on all channels (except those listed in cl_echans).
+
+cl_echans  (default: "")
+  List of channels in which to skip limiting.
+  Valid settings: one channel like "#donkeys", a list of channels like "#donkeys #cows #pigs", or "" to switch this off.
+
+cl_limit  (default: 10)
+  The limit to set. It will equal the number of users on the channel + this number - e.g. if there are 15 users on the channel and cl_limit is 10, the limit will be set to 25.
+  Valid settings: 1 or higher.
+
+cl_grace  (default: 2)
+  If the limit doesn't need to be changed by more than this number, don't bother setting a new limit. This reduces annoying, unnecessary limit changes.
+  Valid settings: 0 to disable, otherwise 1 or higher.
+
+cl_timer  (default: 10)
+  Frequency of checking whether a new limit needs to be set (in minutes). Setting this too low (e.g. less than 3 mins) isn't recommended, as it defeats the purpose if limiting. The more bots you have running chanlimit, the higher you should set this.
+  Valid settings: 1 or higher.
+
+cl_server  (default: 0)
+  Servers will sometimes set an undesirable channel limit after returning from a split. If you enable this feature, chanlimit check the channel limit if it is changed by a server and reset it if necessary.
+  Valid settings: 1 to enable, 0 to disable.
+
+cl_log  (default: 1)
+  Log limit changes?
+  Valid settings: 1 to enable, 0 to disable.
+
+cl_priority  (default: "")
+  By setting an order of priority, only the bot with the highest priority (out of bots that are present and opped on the channel) will set the limit at any particular time. This means you can have a lot of bots running chanlimit.tcl (so that there is always one available to adjust the limit) or reduce the limiting interval, but they won't flood the channel by setting +l at the same time.
+  Valid settings: "" to disable, or a list of netbots (their handles / botnet-nicks, not IRC nicks) like "FirstBot SecondBot ThirdBot" that specifies the order of priority. In that example, if FirstBot is not opped on the channel, SecondBot will set the limit. If neither FirstBot nor SecondBot are present and opped, ThirdBot will set it.
+
+
+EXTRAS.TCL
+
+This component contains small, handy features.
+
+ex_cleanup  (default: 0)
+  This feature checks your bot's directory once a day for redundant .share, .nfs, and core files. If the file hasn't been accessed sometime in the previous 30 minutes, it will be deleted. Note that 'core' files may sometimes be important when reporting eggdrop crashes, so if you need to preserve core files make sure you disable this feature.
+  Valid settings: 1 to enable, 0 to disable.
+
+ex_clearbans  (default: 0)
+  Adds the .clearbans and .clearignores DCC commands. These commands let you mass clear bans/ignores set on the bot. The commands are accessible by global +n users.
+  Valid settings: 1 to enable, 0 to disable.
+
+ex_newuser  (default: "YourNick")
+  Enables new user reporting. Set a list of users to send a note to whenever a user is added with the +bot, +user, or adduser command.
+  Valid settings: one user like "Tom", a list of users like "Tom Dick Harry", or "" to disable.
+
+ex_opall  (default: 0)
+  Adds the .opall and .inviteall DCC commands for global/channel +o users. The opall command lets you op yourself in all channels with one command (it doesn't let people op other users - just themselves), while inviteall lets you invite yourself or another user to all invite-only channels.
+  Valid settings: 1 to enable, 0 to disable.
+
+ex_telnethost  (default: "")
+  Automates the addition of "telnet hostmasks" (e.g. -telnet!*@the.admins.hostname), which are necessary if you use protect-telnet. Once a day, this will scan for users with the specified flags and add a matching telnet hostmask for each hostmask in their user record. You can also trigger this using the .telnethosts DCC command, which is useful after adding new users to save you having to add telnet hosts manually with .+host.
+  Valid settings: set in globalflags|chanflags format (e.g. "m|m" means global OR channel master, "m|-" means global masters only), or set to "" to disable this feature. A suggested setting for most users is "bn|-", which will add telnet hosts for bots and global owners.
+
+
+LOGFILE.TCL
+
+This component adds features that allow you to easily retrieve and view bot logs. DCC commands .logs, .sendlog, and .maillog (for global +n users) let you list log files and send a log file via DCC or e-mail. An additional feature makes the bot automatically e-mail you yesterday's log files after the daily log file switch.
+
+Note that logfile.tcl is currently not designed to work with the keep-all-logs feature, and will not be completely functional with keep-all-logs enabled.
+
+lg_email  (default: "user@domain.com")
+  E-mail address to send log files to. This is used by lg_maillog, and is also the default e-mail address to send to when using the .maillog command.
+  Valid settings: a valid e-mail address.
+
+lg_maillog  (default: "")
+  E-mail these logs (to the address specified in lg_email) once a day, shortly after the daily logfile switch.
+  Valid settings: one logfile like "bot.log.yesterday", a list of logfiles like "bot.log.yesterday #channel.log.yesterday", or "" to disable.
+
+lg_maxsize  (default: 1024)
+  Maximum size (in kilobytes) of log files to e-mail - logs greater in size will be skipped. This is only applicable to logs sent automatically by lg_maillog, not logs sent using the .maillog DCC command.
+  Valid settings: 1 or higher.
+
+
+MAINSERVER.TCL
+
+This script allows you to customise server lists and specify 'main servers' for each bot. The bot will try to keep itself on its main servers. If it becomes disconnected from a main server, it will use a server from the randomised server list, and later make several attempts to jump back to a main server. Note that using this script for botnet server management can be very tedious - you may find a 'jump' script better. This script was mainly intended for keeping a bot on a particular server for whatever reason.
+
+DCC commands (global +n users)
+.mserver to display server/timer details for the bot.
+.mservers to display server details for all linked bots.
+.msreset to restart the server checking timer.
+
+ms_mservers  (default: <example provided in script>)
+  The bot's 'main servers'.
+  Valid settings: a list of servers in the same format as the default server list in the config file, or the example provided in the netset.tcl file. Note that server passwords are not currently supported.
+
+ms_servers  (default: <example provided in script>)
+  The backup server list. The order of this list will be randomised by each bot (so that they don't cycle through servers in the same order), with the specified main server(s) being placed at the top. This list overwrites any server list you set in the bot's config file.
+  Valid settings: a list of servers in the same format as the default server list in the config file, or the example provided in the netset.tcl file. Note that server passwords are not currently supported.
+
+Port ranges/lists are supported in the ms_mservers and ms_servers server lists (e.g. irc.chatty.net:6660-6667 or irc.chatty.net:6666,6668 or irc.chatty.net:6660-6667,7000). The bot will choose a random port from the ranges/lists whenever it starts or is rehashed.
+
+ms_chktime  (default: 120)
+  How frequently the bot should check to see if it's on a main server (in minutes), and jump if it isn't.
+  Valid settings: 1 or higher.
+
+ms_tryagn  (default: 300)
+  If the bot fails to reconnect to a main server on the first attempt, wait this many minutes before trying again.
+  Valid settings: 1 or higher.
+
+ms_autoreset  (default: 0)
+  If the bot fails to reconnect to its main server on the second attempt, automatically reset the server checking timer after how many hours? Usually, a failure on the second attempt indicates all main servers are down for an extended period so, if you enable this feature, it's recommended you set it to 12 hours or more to allow time for a main server to return.
+  Valid settings: 0 to disable (use '.msreset' command instead), otherwise 1 or higher.
+
+ms_note  (default: "YourNick")
+  If the bot fails to reconnect to a main server on the second attempt, send a note to the specified users.
+  Valid settings: one user like "Tom", a list of users like "Tom Dick Harry", or "" to specify that no notes are sent.
+
+ms_chans  (default: "")
+  To ensure the bot can get ops after jumping, the script will only make the bot jump if there are other opped bots on its channels that are also linked. Specify the channels to check.
+  Valid settings: one channel like "#donkeys" or a list of channels like "#donkeys #cows #pigs", or "" to check all channels.
+
+ms_needbot  (default: 1)
+  Specify the number of opped (on the channels specified in ms_chans) and linked bots the bot needs before it will jump.
+  Valid settings: 1 or higher.
+
+
+MASS.TCL
+
+Adds the .mass and .netmass commands (for global +n users) to make the bot or netbots perform a variety of mass functions, including mass kick, op, deop, voice, and devoice. Type '.nethelp mass' for more info.
+
+ma_reason  (default: "closing temporarily")
+  Default reason for mass kick.
+
+
+REPEAT.TCL
+
+This script detects people who repeat the same line of text on a channel multiple times, and kicks and/or bans them. It detects messages, actions, and notices.
+
+There are three repeat detectors in this script - one for small repeat floods, one for large repeat floods, and one for 'spam' type repeats (e.g. people who ask the same question multiple times in a channel). An additional mechanism detects whether multiple repeat floods are coming from a particular host.
+
+rp_chans  (default: "")
+  List of channels in which to activate repeat kick/ban.
+  Valid settings: one channel like "#donkeys", a list of channels like "#donkeys #cows #pigs", or "" to activate on all channels (except those listed in rp_echans).
+
+rp_echans  (default: "")
+  List of channels in which to skip repeat kick/ban.
+  Valid settings: one channel like "#donkeys", a list of channels like "#donkeys #cows #pigs", or "" to switch this off.
+
+rp_efficient  (default: 1)
+  There are now two types of detection repeat.tcl can use. Efficient mode uses the original detection system and is the default. It uses three universal cycling utimers to cover all repeat detection. However, its detection is not perfect, so you may wish to disable efficient mode to run the script in accurate mode instead. This starts a utimer for every message sent to a channel, which allows for the best detection, but could be resource-demanding on very busy channels.
+  Valid settings: 1 to enable efficient mode, 0 to enable accurate mode.
+
+rp_exempt  (default: "f|f")
+  Users with these flags will be allowed to repeat flood without any reaction from repeat.tcl.
+  Valid settings: set in globalflags|chanflags format (e.g. "o|o" means global OR channel op, "o|-" means global ops only), or set to "" to specify that no users are exempt from repeat flood protection.
+
+rp_warning  (default: 0)
+  If this is enabled, small repeat flood and spam repeat flood kicks are replaced with warning messages sent to the channel, directed at the person who did the repeat flood. The warning message that appears will be their nickname followed by the text you set in rp_kreason or rp_sreason (depending on the flood type).
+  Valid settings: 1 to enable, 0 to disable.
+
+rp_kflood  (default: 3:60)
+  Small repeat flood, kick on repeats:seconds.
+  Valid settings: can be set to 0:0 to disable detection (requires restart).
+
+rp_kreason  (default: "stop repeating")
+  Small repeat flood kick reason, or warning message if rp_warning is enabled. For rp_warning, this message will be preceeded immediately by the flooder's nick, so you'll need to add your own space, or you can use something like ": stop repeating".
+
+rp_bflood  (default: 5:60)
+  Large repeat flood, kick-ban on repeats:seconds.
+  Valid settings: can be set to 0:0 to disable detection (requires restart).
+
+rp_breason  (default: "repeat flood")
+  Large repeat flood kick-ban reason.
+
+rp_sflood  (default: 3:240)
+  Spam repeat flood, kick on repeats:seconds.
+  Valid settings: can be set to 0:0 to disable detection (requires restart).
+
+rp_sreason  (default: "stop repeating")
+  Spam repeat flood kick reason, or warning message if rp_warning is enabled. For rp_warning, this message will be preceeded immediately by the flooder's nick, so you'll need to add your own space, or you can use something like ": stop repeating".
+
+rp_slength  (default: 40)
+  The string length for spam-type text (lines of text shorter than this will not be counted by the 'spam' type repeat detector).
+  Valid settings: 1 or higher.
+
+rp_mtime  (default: 240)
+  Repeat offences, ban on two repeat floods from a particular host within this many seconds.
+  Valid settings: 1 or higher.
+
+rp_mreason  (default: "multiple repeat floods")
+  Repeat offences ban reason.
+
+rp_btime  (default: 60)
+  Length of time in minutes to ban large repeat flooders and repeat offenders.
+  Valid settings: 1 or higher.
+
+
+SENTINEL.TCL
+
+Flood protection system for eggdrop, with integrated BitchX CTCP simulation. This script is designed to provide strong protection for your bot and channels against large floodnets and proxy floods.
+
+sentinel.tcl is centered around its channel lock mechanism. It sets the channel +mi (moderated and invite-only) whenever a substantial flood on the channel is detected. This ensures channel stability when flooded, allowing the bots to deal with the flood as smoothly as possible. sentinel.tcl detects CTCP, text, notice, join-part, and nick floods.
+
+sentinel also has additional protection features for the bot and channel:
+
+* Full ban list detection. During a serious flood, the ban list may become full. If this happens, the bots may start kick flooding since they cannot ban. If the ban list is full, the channel will be set +i.
+* Bogus username detection. Users with annoying bogus characters in their ident are banned. A channel lock is applied if multiple join in a short period.
+* Automatic bans and ignores. During a flood, sentinel will compile a list of the flooders, then kick-ban them after the channel has been locked.
+* Bot CTCP and MSG flood protection. Protects the bot if it flooded with CTCPs, MSGs or MSG commands.
+* BitchX simulation. This has been built-in mainly because you cannot use a third-party BitchX simulator with sentinel (only one script at a time can have control of CTCPs). sentinel provides accurate simulation of BitchX 75p1+ and 75p3+ CTCP replies and AWAY mode.
+* Public commands (lc and uc) and DCC commands (.lock and .unlock) for locking/unlocking channels.
+* DCC command .sentinel displays current settings.
+
+DETECTION SETTINGS
+
+The following detection settings are in number:seconds format, 0:0 to disable. Don't fiddle too much with the seconds field in the flood settings, as it can reduce the effectiveness of the script. The seconds field should be set in the 20-60 seconds range.
+
+sl_bcflood  (default: 5:30)
+  Bot CTCP flood. When the bot is directly flooded with CTCPs in an attempt to cause an 'Excess Flood'.
+
+sl_bmflood  (default: 6:20)
+  Bot MSG flood. While sentinel.tcl will place MSG flooders in the bot's ignore list, this type of flood may result in an unavoidable 'SendQ Exceeded' disconnection.
+
+sl_ccflood  (default: 5:20)
+  Channel CTCP flood. This is the most common type of flood, and will often make users quit from the channel with 'Excess Flood'. A quick channel lock can often prevent this.
+
+sl_txflood  (default: 8:30)
+  Channel text flood. This combined detector that keeps count of the following types of messages sent to the channel: NOTICEs, PRIVMSGs longer than $sl_txlength characters, all messages containing more than $sl_tsunami "control" characters (colour, bold, etc.), and all messages that Eggdrop considers to be part of an "avalanche". Descriptions of related settings sl_txlength, sl_nclength and sl_tsunami can be found below.
+
+sl_boflood  (default: 4:20)
+  Channel bogus username join flood. Several users with bogus usernames joining the channel in a short period is usually a precursor to a flood.
+
+sl_jflood  (default: 6:20)
+  Channel join-part flood. A common type of channel flood in which many floodbots cycle the channel.
+
+sl_nkflood  (default: 6:20)
+  Channel nick flood. This is when flooders repeatedly change nicks. Nick floods are unique in that they can occur even after a channel is locked. sentinel has special mechanisms to deal with this as effectively as possible. If you enable nick flood detection, it's strongly recommended that it be enabled on all bots that have sentinel.tcl loaded. This is required for effective nick flood handling.
+
+sl_txlength  (default: 200)
+  The length a line sent to the channel must be in order for it to be considered part of a possible text flood. The practicability of this relies on the fact that most chat on IRC consists of relatively short lines, while flooders will often use long lines to maximise scrolling. It's recommended that you change this default to a random number within a range of +/-20 (i.e. between 180 and 220), just to keep the flooders guessing, though it should be set the same on all bots running sentinel. Be warned that setting this too low may increase the number of "innocent" users banned for being part of the flood. If set to 0, PRIVMSGs won't be counted as part of a text flood except those that are part of an avalanche/tsunami.
+  Over time, flooders will probably stop using long lines in order to avoid detection, so the intention of this detector is to reduce the amount of scrolling they can cause, rather than eliminate text floods altogether (which would be extremely difficult to do).
+  Valid settings: 0 to disable, otherwise 1 or higher.
+
+sl_nclength  (default: 1)
+  The length a notice must be in order for it to be considered part of a possible text flood. If set to 1, _all_ notices will be counted. This is the default, because notices are relatively infrequent on most channels. If set to 0, NOTICEs won't be counted as part of a text flood except those that are part of an avalanche/tsunami.
+  Valid settings: 0 to disable, otherwise 1 or higher.
+
+sl_tsunami  (default: 10)
+  Specifies the number of control characters that must be in a line before it's counted a part of a tsunami flood. Setting this to 0 will disable both avalanche and tsunami detection.
+  Valid settings: 0 to disable, otherwise 1 or higher.
+
+sl_linecap  (default: 80:30)
+  Although it isn't possible to detect and kick/ban on text floods that use short lines indistinguishable from ordinary conversation on the channel, there can still be a limit on the total number of PRIVMSGs and NOTICEs sent to the channel within a given timeframe. This cap is important for the stability of the bot and channel. When it is triggered, the flood will be detected as a LINE flood and the channel will be locked, but usually there won't be any kicks/bans.
+  Valid settings: number:seconds format or 0:0 to disable.
+
+OTHER SETTINGS
+
+sl_locktimes (default: {i:120 m:60})
+  A list of modes to lock the channel with after a flood and the amount of time (in seconds) after which each mode should be removed. Examples:
+    {mi:60 R:120} would set mode +miR when the channel is flooded. Sets -mi after 60 seconds, and -R after 120 seconds.
+    {i:100 m:50 c:200} would set mode +imc. Sets -m after 50 seconds, -i after 100 seconds, and -c after 200 seconds.
+    {im:90} would set mode +im. Sets -im after 90 seconds.
+    {m:60 i:0} would set mode +im. Sets -m after 60 seconds, doesn't set -i (useful if you prefer to keep the channel closed until a human op can assess the situation).
+  Note that if sl_shortlock is enabled and the flood results in two or less users being kicked/banned, the channel may be unlocked shortly after bans have been set instead of waiting for the locktimes to expire. This prevents unnecessary extended locks on small floods.
+  Valid settings: a space-separated list in modes:seconds format, as shown in the examples. The minimum locktime for any mode is 30 seconds, and modes +i and +m must be included. If seconds is set to 0, the mode is not removed automatically.
+
+sl_shortlock  (default: 0)
+  On small floods, remove the +mi shortly after bans have been set instead of waiting for the locktimes to expire? This prevents unnecessary extended locks after small floods. This setting is only used by bots with sl_ban enabled.
+  Valid settings: 0 to disable, 1 to enable.
+
+sl_ban  (default: 1440)
+  Length of time in minutes to ban channel flooders. This makes the bot perform kicks and bans on flooders after the channel lock. For the most effective protection, you should disable this on at least one bot.
+  Valid settings: 0 to disable, otherwise 1 or higher.
+
+sl_boban  (default: 1440)
+  Length of time in minutes of on-join bans for bogus usernames. For the most effective protection, you should disable this on at least one bot.
+  Valid settings: 0 to disable, otherwise 1 or higher.
+
+sl_globalban  (default: 0)
+  Set global bans on channel flooders and bogus usernames?
+  Valid settings: 1 for global bans, 0 for channel-specific bans.
+
+sl_wideban  (default: 1)
+  When processing a list of flooders, sentinel.tcl compares the hosts to see if multiple flooders are coming from a particular domain/IP or using the same ident (e.g. different vhosts on a single user account). If multiple flooders come from the same domain/IP, or if multiple flooders have the same ident, then the whole domain/IP (i.e. *!*@*.domain.com or *!*@555.555.555.*) or ident (i.e. *!*username@*) is banned. If you disable this option, all bans will be in *!*@machine.domain.com and *!*@555.555.555.555 format.
+  Valid settings: 1 to enable, 0 to disable.
+
+sl_banmax  (default: 100)
+  Maximum number of bans allowed in the bot's ban list before sentinel will stop adding new bans. This prevents the bot from adding hundreds of bans on really large floods. Note that this has nothing to do with the channel ban list.
+  Valid settings: 1 or higher.
+
+sl_igtime  (default: 240)
+  Length of time in minutes to ignore bot flooders. On bots with sl_ban active, channel flooders are also added to the ignore list.
+  Valid settings: 1 or higher.
+
+sl_masktype  (default: 0)
+  Selects the type of hostmask to use when banning and/or ignoring flooders. There are three to choose from:
+    0 - *!*@machine.domain.com / *!*@555.555.555.555
+    1 - *!*ident@machine.domain.com / *!*ident@555.555.555.555
+    2 - *!*ident@*.domain.com / *!*ident@555.555.555.*
+  The default option, 0, is strongly recommended for most situations, and provides the best level of protection. The other two options are provided mainly for special cases.
+  Valid settings: 0, 1, or 2, depending on the hostmask type you wish to use.
+
+sl_bfmaxbans  (default: 19)
+  Number of bans to allow in the channel ban list before setting the channel +i. If enabled, this should preferably be set to just below the maximum number of bans allowed.
+  Valid settings: 0 to disable +i on full ban list, otherwise 1 or higher.
+
+sl_note  (default: "YourNick")
+  List of users to send a note to when channel is flooded, bot is flooded, or ban list becomes full.
+  Valid settings: one user like "Tom", a list of users like "Tom Dick Harry", or "" to specify that no notes are sent.
+
+sl_cfnotice  (default: "Channel locked temporarily due to flood, sorry for any inconvenience this may cause :-)")
+  Notice to send to channel when locked due to flood. You should enable this on one bot only unless you want to see another flood :-)
+  Valid settings: a text string, or set it to "" to disable.
+
+sl_bfnotice  (default: "Channel locked temporarily due to full ban list, sorry for any inconvenience this may cause :-)")
+  Notice to send to channel when locked due to full ban list. You should enable this on one bot only unless you want to see another flood :-)
+  Valid settings: a text string, or set it to "" to disable.
+
+sl_lockcmds  (default: 2)
+  Enable 'lc' and 'uc' public commands for locking/unlocking channel?
+  Valid settings: 0 to disable, 1 to enable, 2 to require user to be opped on the channel to use the command.
+
+sl_lockflags  (default: "o")
+  Users with these flags are allowed to use lc/uc public commands, and .lock/.unlock DCC commands.
+  Valid settings: one flag like "n", or a list of flags like "fo" (means 'f OR o').
+
+sl_bxsimul  (default: 0)
+  Enable BitchX CTCP and AWAY simulation?
+  Valid settings: 1 to enable, 0 to disable.
+
+IMPORTANT NOTES
+- Make sure no bots are enforcing channel mode -i and/or -m.
+- Bans are added to the bot's internal ban list, and expire after 24 hours by default. If you have +dynamicbans set, the bans may be removed from the channel much sooner than this, but the ban will remain in the bot's internal ban list until it expires.
+- For greater protection against large channel floods, I recommend you also use the chanlimit.tcl component.
+- There is a trade-off between convenience and security. The sl_ban feature is the best example of this. It's very convenient to have sentinel automatically compile a list of flooders and kickban them, but it puts more stress on the bot during a flood and makes it send more stuff to the server.
+- It's a good idea to have one or two bots that aren't running sentinel.tcl. Since sentinel.tcl is a complex script with many automated and convenience features, there is a potential for vulnerabilities.
+- While sentinel.tcl can add a level of protection and convenience, it does not replace proper monitoring of the channel by human ops.  Also note that, although locktimes of 30 seconds can minimise disruption, longer locktimes will generally enhance security by allowing time for bots to clear out their queues and providing a greater opportunity for human ops to assess the situation before a repeat attack is allowed to occur. Short locktimes can actually increase disruption by allowing more repeat attacks. Consider enabling sl_shortlock rather than setting very short locktimes.
+- sentinel.tcl may alter the following config file settings for optimal functionality: trigger-on-ignore, kick-bogus, ban-bogus, kick-fun, ban-fun, and ctcp-mode.
+
+
+SUPERBITCH.TCL
+
+This script provides an enhanced bitch mode. It deops both the user who was opped and the user who performed the disallowed op. It is very useful for protecting the channel from gullible ops who accidentally op someone they shouldn't, or from ops who use exploitable clients/scripts and may unintentionally op someone via an exploit (e.g. CTCPREPLY backdoor). The script doesn't completely replace eggdrop's +bitch channel mode - you may still wish to use that in conjunction with superbitch.tcl.
+
+Note: superbitch.tcl may not function correctly on eggdrop 1.4.0-1.4.1 due to a pushmode bug in those versions of eggdrop. The problem is fixed in 1.4.2 and later. Note that 1.3 and 1.6 bots are not affected by this problem.
+
+sb_chans  (default: "")
+  List of channels to activate superbitch on.
+  Valid settings: one channel like "#donkeys", a list of channels like "#donkeys #cows #pigs", or "" to activate on all channels.
+
+sb_canop  (default: "m|m")
+  The flags for users who are allowed to give op to users with the flags specified in sb_canopflags.
+  Valid settings: set in globalflags|chanflags format (e.g. "m|m" means global OR channel master, "m|-" means global masters only), or set to "" to specify that no users are allowed to op.
+
+sb_canopflags  (default: "o|o")
+  The flags for users who are allowed to be opped by users with an sb_canop flag.
+  Valid settings: set in globalflags|chanflags format (e.g. "m|m" means global OR channel master, "m|-" means global masters only), or set to "" to specify that no users are allowed to be opped.
+
+sb_canopany  (default: "b|-")
+  The flags for users who are allowed to give op to anyone. This setting ignores sb_canop and sb_canopflags (e.g. you can set sb_canop to "" but users with flags specified in sb_canopany will still be allowed to op anyone).
+  Valid settings: set in globalflags|chanflags format (e.g. "m|m" means global OR channel master, "m|-" means global masters only), or set to "" to specify that no users have the 'can op anyone' privilege.
+
+sb_remove  (default: 0)
+ If a user ops someone they shouldn't, remove their global & channel +o status and give them the +d flag? (note that +m/n is not removed).
+ Valid settings: 1 to enable, 0 to disable.
+
+sb_note  (default: "YourNick")
+  List of users to send a note to if a user's +o status is removed by superbitch.tcl.
+  Valid settings: one user like "Tom", a list of users like "Tom Dick Harry", or "" to specify that no notes are sent.
+
+sb_checkop  (default: 0)
+  Make the bot double-check who it opped after opping a nick, reversing the op if the opped user doesn't match +o? This was mainly designed to help prevent 'op cheating', but I haven't tested it for that so I'm not sure if it's actually effective.
+  Valid settings: 1 to enable, 0 to disable.

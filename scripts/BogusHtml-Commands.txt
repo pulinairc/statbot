@@ -1,0 +1,27 @@
+
+################################################## Date: 14Aug14 ##
+## BogusHTML 2.06.4 by SpiKe^^      :BogusTrivia Html Page Maker ##
+###################################################################
+
+-----------------------------------------------------------------------
+ BogusHTML Message Commands: All Commands can be Limited by User Flags
+-----------------------------------------------------------------------
+
+The Commands below assume you already have player statistics. Not Needed for a New Installation.
+
+1. MAKE: Used to force the bot to create new html pages on demand.
+   
+   Example:
+   /msg botnick .make
+
+   Note: Use this command to create new html pages when changing themes, templates or upgrading BogusTrivia.
+         Windrop Users: Use prior to uploading new pages to your personal web space.
+
+2. MAKEX: Used to force the bot to create Extended History Stat Pages per the t-2.html.tcl settings.
+
+   Example:
+   /msg botnick .makex
+  
+   NOTE: This command MUST be used if you've chosen to display Extended History stats after upgrade.
+         Windrop Users: Use prior to uploading new pages to your personal web space.
+

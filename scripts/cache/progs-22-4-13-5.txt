@@ -1,0 +1,46 @@
+22 4 CMoreTennis 11:00 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422001 13
+22 4 CMoreSportHD 06:05 {Fotboll: Major League Soccer 2013: San Jose Earthquakes - Portland} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422001 13
+22 4 CMoreSportHD 08:10 {Allsvenskan: AIK - Malmö} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422002 13
+22 4 CMoreSportHD 10:10 {La Liga: Athletic Bilbao - Real Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422003 13
+22 4 CMoreUrheilu 13:20 {La Liga Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422001 13
+22 4 CMoreUrheilu 14:20 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422002 13
+22 4 CMoreUrheilu 14:50 {Valioliiga: Swansea - Southampton} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422003 13
+22 4 CMoreUrheilu 16:40 {ATP Tennis: Monte Carlo / loppuottelu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422004 13
+22 4 CMoreTennis 13:05 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422002 13
+22 4 CMoreTennis 15:30 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422003 13
+22 4 CMoreTennis 16:25 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422004 13
+22 4 CMoreTennis 17:25 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422005 13
+22 4 CMoreAitio 14:00 {UEFA Champions League viikkomakasiini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422001 13
+22 4 CMoreAitio 14:30 {La Liga: Sevilla - Atlético Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422002 13
+22 4 CMoreAitio 16:20 {Valioliiga: Liverpool - Chelsea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422003 13
+22 4 CMoreSportHD 12:00 {Allsvenskan: Norrköping - Helsingborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422004 13
+22 4 CMoreSportHD 14:00 {La Liga: Valencia - Málaga} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422005 13
+22 4 CMoreSportHD 15:55 {La Liga: Barcelona - Levante} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422006 13
+22 4 CMoreSportHD 17:50 {Allsvenskan: Åtvidabergs FF - Göteborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422007 13
+22 4 CMoreUrheilu 19:10 {Serie A: Juventus - Milan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422005 13
+22 4 CMoreTennis 19:55 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422006 13
+22 4 CMoreAitio 18:10 {Valioliiga: Tottenham - Manchester City} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422004 13
+22 4 CMoreAitio 20:00 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422005 13
+22 4 CMoreAitio 20:25 {Jääkiekon A-maaottelu: Suomi - Sveitsi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422006 13
+22 4 CMoreExtreme 20:00 {Motor: IndyCar 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130422001 13
+22 4 CMoreSportHD 19:45 {Fotboll: Allsvenskan Studio Fotbollsmåndag} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422008 13
+22 4 CMoreSportHD 20:00 {Allsvenskan: Elfsborg - Djurgården} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422009 13
+22 4 CMoreUrheilu 21:00 {Premier League Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422006 13
+22 4 CMoreUrheilu 21:55 {Valioliiga: Manchester United - Aston Villa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422007 13
+23 04 CMoreUrheilu 00:00 {Valioliiga: West Ham - Wigan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422008 13
+23 04 CMoreUrheilu 01:50-02:15 {UEFA Champions League viikkomakasiini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130422009 13
+22 4 CMoreTennis 21:45 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422007 13
+22 4 CMoreTennis 23:45 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422008 13
+23 04 CMoreTennis 01:40-03:57 {Tennis: Monte Carlo Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130422009 13
+22 4 CMoreAitio 22:25 {Serie A Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422007 13
+22 4 CMoreAitio 22:55 {La Liga: Celta Vigo - Zaragoza} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422008 13
+23 04 CMoreAitio 01:00-02:45 Barca-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130422009 13
+22 4 CMoreExtreme 23:05 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130422002 13
+23 04 CMoreExtreme 02:00 {Kampsport: UFC Primetime} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130422003 13
+23 04 CMoreExtreme 02:30 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130422004 13
+23 04 CMoreExtreme 03:15-03:55 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130422005 13
+22 4 CMoreSportHD 21:55 {Fotboll: Allsvenskan Studio Fotbollsmåndag} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422010 13
+22 4 CMoreSportHD 22:15 {UEFA: Archive Films} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422011 13
+22 4 CMoreSportHD 22:55 {La Liga: Celta Vigo - Zaragoza} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422012 13
+23 04 CMoreSportHD 01:05 {Allsvenskan: Gefle - AIK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422013 13
+23 04 CMoreSportHD 02:55-04:41 {Allsvenskan: Elfsborg - Djurgården} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130422014 13

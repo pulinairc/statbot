@@ -1,0 +1,35 @@
+Programming guidelines for plugins:
+
+  * Creating a namespace for your plugin happens automatically. No need for
+    namespace eval.
+
+  * You should document which eggdrop events and hooks your plugin uses or
+    exports. Your subject/object names (which only serve to identify the event)
+    should be urlmagic::plugin::<name>. If you define any, you should also
+    document how many and what kind of parameters they take.
+
+  * Do not execute code with side effects directly in the namespace. Instead,
+    make two functions init_plugin and deinit_plugin in the
+
+      urlmagic::plugin::<name>
+
+    namespace so that plugins can be cleanly unloaded again. In these
+    functions, any calls to hook::bind or eggdrop's bind and calls to
+    hook::forget/eggdrop's "unbind" should take place, as well as
+    opening/closing of e.g. database files or ports.
+
+  * Separate settings from code so users know where they can stop reading
+    Put the settings in a file <pluginname>.conf and the plugin itself goes
+    into <pluginname>.tcl
+
+  * set variable no_settings to 1 if you have no user settings.
+
+  * Use the warn function to make the user aware of plugin issues like missing
+    libraries
+
+  * Take a look at sqlite for a relatively well documented example plugin.
+
+  * If your plugin has more files than just a script and optionally a settings
+    file, put all files of your script into its own directory. urlmagic will
+    try to load plugins/<name>.tcl first, and if that fails,
+    plugins/<name>/<name>.tcl will be tried next.

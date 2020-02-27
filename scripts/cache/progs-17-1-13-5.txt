@@ -1,0 +1,48 @@
+17 1 CMoreTennis 10:30 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117001 13
+17 1 CMoreExtreme 04:00 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130117001 13
+17 1 CMoreSportHD 08:00 {Serie A (C More Nordic 12/13): Lazio - Atalanta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117001 13
+17 1 CMoreSportHD 10:00 {La Liga: Málaga - Barcelona} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117002 13
+17 1 CMoreUrheilu 13:50 {Serie A Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117001 13
+17 1 CMoreUrheilu 14:25 {Valioliiga: Arsenal - Manchester City} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117002 13
+17 1 CMoreUrheilu 16:15 {Elitserien: Frölunda - Timrå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117003 13
+17 1 CMoreTennis 12:05 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117002 13
+17 1 CMoreTennis 15:05 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117003 13
+17 1 CMoreTennis 16:30 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117004 13
+17 1 CMoreAitio 14:10 {Valioliiga: Norwich - Newcastle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130117001 13
+17 1 CMoreAitio 16:00 {Valioliiga: Sunderland - West Ham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130117002 13
+17 1 CMoreAitio 17:50 {Valioliiga: Aston Villa - Southampton} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130117003 13
+17 1 CMoreSportHD 12:00 {Ishockey: Elitserien 12/13: Frölunda Indians - Timrå IK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117003 13
+17 1 CMoreSportHD 14:15 {Ishockey: Elitserien 12/13: Rögle BK - Brynäs IF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117004 13
+17 1 CMoreSportHD 16:30 {Ishockey: Elitserien 12/13: Linköpings HC - Färjestads BK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117005 13
+17 1 CMoreUrheilu 18:15 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117004 13
+17 1 CMoreUrheilu 18:45 {Premier League Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117005 13
+17 1 CMoreUrheilu 19:45 {Elitserien studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117006 13
+17 1 CMoreUrheilu 19:55 {Elitserien: Växjö - Skellefteå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117007 13
+17 1 CMoreTennis 18:25 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117005 13
+17 1 CMoreTennis 20:20 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117006 13
+17 1 CMoreAitio 19:40 {Valioliiga: Chelsea - Southampton} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130117004 13
+17 1 CMoreExtreme 20:00 {30 for 30 Classics} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130117002 13
+17 1 CMoreSportHD 18:40 {Fotboll: La Liga 12/13 World - Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117006 13
+17 1 CMoreSportHD 19:40 {Elitserien studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117007 13
+17 1 CMoreSportHD 19:50 {Ishockey: Elitserien 12/13: Växjö Lakers HC - Skellefteå AIK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117008 13
+17 1 CMoreUrheilu 22:25 {Elitserien studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117008 13
+17 1 CMoreUrheilu 22:45 {Valioliiga: Stoke - Chelsea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117009 13
+18 01 CMoreUrheilu 00:35-02:25 {Valioliiga: QPR - Tottenham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130117010 13
+17 1 CMoreTennis 21:50 {Tennis: Valencia Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117007 13
+18 01 CMoreTennis 00:45 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117008 13
+18 01 CMoreTennis 01:45 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117009 13
+18 01 CMoreTennis 02:40 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117010 13
+18 01 CMoreTennis 03:35-04:27 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130117011 13
+17 1 CMoreAitio 21:30 {Valioliiga: Reading - West Bromwich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130117005 13
+17 1 CMoreAitio 23:20 {Serie A Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130117006 13
+17 1 CMoreAitio 23:50-02:05 {Real Madrid - TV} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130117007 13
+17 1 CMoreExtreme 21:00 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130117003 13
+17 1 CMoreExtreme 21:20 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130117004 13
+17 1 CMoreExtreme 21:45 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130117005 13
+18 01 CMoreExtreme 00:05 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130117006 13
+18 01 CMoreExtreme 03:00-04:20 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130117007 13
+17 1 CMoreSportHD 22:20 {Elitserien studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117009 13
+17 1 CMoreSportHD 22:45 {Elitserien: Bakom Kulisserna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117010 13
+17 1 CMoreSportHD 23:00 {Ishockey: Elitserien 12/13: AIK - Luleå HF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117011 13
+18 01 CMoreSportHD 01:15 {Ishockey: Elitserien 12/13: HV 71 - MODO Hockey} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117012 13
+18 01 CMoreSportHD 03:30-05:35 {Ishockey: Elitserien 12/13: Frölunda Indians - Timrå IK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130117013 13

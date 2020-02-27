@@ -1,0 +1,163 @@
+# This is an accompanying TCL script to go with the MegaHAL eggdrop module
+# It is optional but strongly recommended
+# Suomentanut rolle
+
+# Opi kaikki (en ole varma toimivuudesta)
+set learnall on
+
+# Pitäisikö botin oppia mitä sille sanotaan vai päinvastoin? (ei tietoa kumpi on kumpi, on/off)
+set learnmode on
+
+# Aivotiedoston (.brn) maksimikoko?
+# Max nodet (ei RAM)
+set maxsize 9000000000
+
+# Floodisuoja: kuinka monta riviä per kuinka monta sekuntia botti saa vastata?
+set floodmega 4:20
+
+# Mille kanaville EI vastata kun botin nimi mainitaan (erota spacella)
+set respondexcludechans ""
+
+# Millä avainsanoilla (muilla kuin botin nimimerkki) botti vastaa (erota avainsanat spacella)
+# Esimerkiksi nimimerkin taivutusmuodot, ihmisten nimet, sanat kuten moi, musiikki, jne.
+set responsekeywords "kummituksen kummitus kummituksella kummituksessa"
+
+# Kuinka usein botti puhuu itsekseen?
+# Rivimäärä tai 0 = pois päältä
+set talkfreq 0
+set talkfrequency 0
+
+# Millä kanavilla botti EI saa puhua koskaan (spacella erotettuna)
+set talkexcludechans ""
+
+# Kuinka usein botin pitäisi oppia lauseita joita kanavalla sanotaan?
+# 0 pois päältä, 2 oletus, rivimääräväli muuten
+set learnfreq 2
+
+# Opeta botille uusia asioita tiedostosta (voi lagaa jos tiedosto on iso):
+set learnfile megahal.pulinalogi.learnfile
+
+# Seuraavat asetukset muuttavat tekoälyn 'psykoottista' tasoa luonteessa
+
+# Toimivat arvot ovat 1-5
+# 2 on erittäin suositeltu, 3 on vähän tylsempi, mutta tuottaa myös vähän järkevämpiä lauseita
+# 1 laittaa botin höpöttämään ihan älytöntä paskaa koko ajan, ja 4-5 muuttaa botin papukaijaksi älykkään tekoälyn sijasta
+set maxcontext 2
+
+# Yllätys-mode päälle tai pois (0/1)
+# Enemmän YLLÄTTÄVIÄ vastauksia!
+# Tämä muuttaa sitä miten se muodostaa lauseita
+# Jos päällä, se yrittää löytää sopivia sanayhdistelmiä, mikä tarkoittaa sitä että kaikilla on paljon kivempaa (paitsi lauseet ovat usein melko tyhmiä ja sekavia)
+# Jos pois päältä, lauseet ovat turvallisempia, mutta botti on vähän enemmän papukaijamainen. Tätä suositellaan vain jos botin aivot ovat jumalattoman isot
+set surprise 0
+
+# Sanoja vastauksissa
+# Tämä voi ehkäistä lauseiden järjettömyyttä, jotka jatkuvat loputtomiin ilman järjen häivääkään
+# Se rajoittaa tekoälyä niin että se luo lyhempiä lauseita
+# Suositeltu asetus on 25-40, jos laitat 0, lauseet ovat loputtomia ja pitkiä ja järjettömiä
+set maxreplywords 12
+
+#####################################################################
+
+set learningmode $learnmode
+
+# bind the botnick
+# monesti kommentoitu pois komennot koska vastaa tuplana, mutta laita päälle jos halluut
+#catch "unbind pub - hal: *pub:hal:"
+#bind pub - ${nick}: *pub:hal:
+#catch "unbind dcc - hal *dcc:hal"
+#bind dcc - $nick *dcc:hal
+
+# set megabotnick $nick
+
+# Save and trim the brain once every hour
+bind time - "35 * * * *" auto_brainsave
+proc auto_brainsave {min b c d e} { 
+  global maxsize
+  trimbrain $maxsize
+  savebrain
+}
+
+bind pub o|o "!savebrain" pub_savebrain
+proc pub_savebrain {nick uhost hand chan arg} {
+ savebrain
+ puthelp "PRIVMSG $chan :Aivot tallennettu"
+}
+bind pub o|o "!trimbrain" pub_trimbrain
+proc pub_trimbrain {nick uhost hand chan arg} {
+ global maxsize
+ set arg1 [lindex $arg 0]
+ if {$arg1 == "" || ![isnum $arg1]} {
+	set arg1 $maxsize
+ }
+ trimbrain $arg1
+ puthelp "PRIVMSG $chan :Aivot trimmattu"
+}
+
+bind pub o "!lobotomia" pub_lobotomy
+proc pub_lobotomy {nick uhost hand chan arg} {
+ savebrain
+ file delete megahal.old
+ file copy megahal.brn megahal.old
+ file delete megahal.brn
+ reloadbrain
+ savebrain
+ puthelp "PRIVMSG $chan :Lobotomia suoritettu! Luodaan uusia aivoja..." 
+}
+
+bind pub - "!braininfo" pub_braininfo
+proc pub_braininfo {nick uhost hand chan arg} {
+  global learnmode
+  global surprise
+  global maxreplywords
+  set for [treesize -1 0]
+  set back [treesize -1 1]
+  puthelp "PRIVMSG $chan :Nykyinen sanamääräni käsittää [lindex $for 0] sanaa, aivojeni koko on [expr [lindex $for 1]+[lindex $back 1]] nystyrää, ja oppimistila on tilassa: $learnmode. Yllätystila on tilassa: $surprise. Sanoja vastauksissa: $maxreplywords." 
+#  if {[file exists megahal.old]} {
+#    puthelp "PRIVMSG $chan :This brain has been growing for [duration [expr [unixtime] - [file mtime megahal.old]]]" 
+#  }
+}
+
+bind pub o|o "!learningmode" pub_learningmode
+proc pub_learningmode {nick uhost hand chan arg} {
+  global learnmode
+  set arg1 [lindex $arg 0]
+  if {$arg1 == "" || ($arg1 != "on" && $arg1 != "off")} {
+   puthelp "PRIVMSG $chan :Käyttö: !learningmode on/off"
+   return
+  }
+  set learnmode $arg1
+  learningmode $learnmode
+  puthelp "PRIVMSG $chan :Oppimistila on nyt asetettu: $arg1" 
+}
+
+bind pub o|o "!talkfrequency" pub_talkfrequency
+proc pub_talkfrequency {nick uhost hand chan arg} {
+  global talkfreq
+  set arg1 [lindex $arg 0]
+  if {$arg1 == ""} {
+   puthelp "PRIVMSG $chan :Puhumisväli on nyt asetettu - $talkfreq riviä" 
+   return
+  }
+  set talkfreq $arg1
+  puthelp "PRIVMSG $chan :Puhumisväli on nyt asetettu - $arg1 riviä" 
+}
+
+bind pub o|o "!restorebrain" pub_restorebrain
+proc pub_restorebrain {nick uhost hand chan arg} {
+  if {[file exists megahal.old]} {
+    file delete megahal.brn
+    file copy megahal.old megahal.brn
+    reloadbrain
+    puthelp "PRIVMSG $chan :Vanhat aivot palautettu!"
+  } else {
+    puthelp "PRIVMSG $chan :Vanhoja aivoja ei löytynyt!" 
+  }
+}
+
+proc isnum {num} {
+  for {set x 0} {$x < [string length $num]} {incr x} {
+  if {[string trim [string index $num $x] 0123456789.] != ""} {return 0}
+  }
+ return 1
+}

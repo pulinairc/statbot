@@ -1,0 +1,47 @@
+24 1 CMoreTennis 04:05 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130124001 13
+24 1 CMoreTennis 11:00 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130124002 13
+24 1 CMoreExtreme 04:05 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124001 13
+24 1 CMoreExtreme 04:30 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124002 13
+24 1 CMoreSportHD 08:00 {La Liga: Getafe - Sevilla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124001 13
+24 1 CMoreSportHD 10:00 {La Liga: Atlético Madrid - Levante} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124002 13
+24 1 CMoreUrheilu 13:45 {Serie A Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124001 13
+24 1 CMoreUrheilu 14:15 {Valioliiga: West Bromwich - Aston Villa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124002 13
+24 1 CMoreUrheilu 16:15 {Elitserien: Frölunda - Brynäs} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124003 13
+24 1 CMoreTennis 14:15 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130124003 13
+24 1 CMoreAitio 14:10 {Valioliiga: Newcastle - Reading} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130124001 13
+24 1 CMoreAitio 16:00 {Valioliiga: Liverpool - Norwich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130124002 13
+24 1 CMoreAitio 17:50 {Valioliiga: Tottenham - Manchester United} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130124003 13
+24 1 CMoreSportHD 12:00 {Ishockey: Elitserien 12/13: Frölunda - Brynäs} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124003 13
+24 1 CMoreSportHD 14:15 {Ishockey: Elitserien 12/13: Växjö Lakers HC - AIK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124004 13
+24 1 CMoreSportHD 16:30 {Ishockey: Elitserien 12/13: HV 71 - Luleå HF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124005 13
+24 1 CMoreUrheilu 18:15 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124004 13
+24 1 CMoreUrheilu 18:45 {Premier League Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124005 13
+24 1 CMoreUrheilu 19:45 {Elitserien studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124006 13
+24 1 CMoreUrheilu 19:55 {Elitserien: Färjestad - Timrå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124007 13
+24 1 CMoreTennis 18:55 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130124004 13
+24 1 CMoreAitio 19:40 {Valioliiga: Arsenal - West Ham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130124004 13
+24 1 CMoreExtreme 20:00 {Speedway: Elitserien 2012} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124003 13
+24 1 CMoreSportHD 18:35 {Fotboll: La Liga 12/13 World - Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124006 13
+24 1 CMoreSportHD 19:10 {Elitserien: Condensed Games 12/13} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124007 13
+24 1 CMoreSportHD 19:25 {Elitserien: Condensed Games 12/13} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124008 13
+24 1 CMoreSportHD 19:45 {Elitserien studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124009 13
+24 1 CMoreSportHD 19:55 {Ishockey: Elitserien 12/13: Färjestad - Timrå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124010 13
+24 1 CMoreUrheilu 22:25 {Elitserien studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124008 13
+24 1 CMoreUrheilu 22:45 {Valioliiga: Chelsea - Arsenal} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124009 13
+25 01 CMoreUrheilu 00:35-02:25 {Valioliiga: Wigan - Sunderland} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130124010 13
+24 1 CMoreTennis 22:40 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130124005 13
+25 01 CMoreTennis 01:20-05:34 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130124006 13
+24 1 CMoreAitio 21:30 {Valioliiga: Swansea - Stoke} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130124005 13
+24 1 CMoreAitio 23:20 {Serie A Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130124006 13
+24 1 CMoreAitio 23:50-02:05 {Real Madrid - TV} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130124007 13
+24 1 CMoreExtreme 22:05 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124004 13
+25 01 CMoreExtreme 01:15 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124005 13
+25 01 CMoreExtreme 01:40 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124006 13
+25 01 CMoreExtreme 02:05 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124007 13
+25 01 CMoreExtreme 02:30 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124008 13
+25 01 CMoreExtreme 03:20 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124009 13
+25 01 CMoreExtreme 03:55-04:18 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130124010 13
+24 1 CMoreSportHD 22:30 {Elitserien studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124011 13
+24 1 CMoreSportHD 22:50 {Ishockey: Elitserien 12/13: Rögle BK - Linköping} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124012 13
+25 01 CMoreSportHD 01:00 {Ishockey: Elitserien 12/13: Brynäs - Frölunda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124013 13
+25 01 CMoreSportHD 03:10-04:53 {La Liga: Granada - Rayo Vallecano} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130124014 13

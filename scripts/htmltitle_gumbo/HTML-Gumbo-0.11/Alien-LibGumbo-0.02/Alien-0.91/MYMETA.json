@@ -1,0 +1,31 @@
+{
+   "abstract" : "unknown",
+   "author" : [
+      "unknown"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4203",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Alien",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Test::Pod" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Alien" : {
+         "file" : "lib/Alien.pm",
+         "version" : "0.91"
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.91"
+}

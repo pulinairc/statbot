@@ -1,0 +1,10 @@
+do{ my $x = {
+       'build_requires' => {
+                             'Test::Pod' => 0
+                           },
+       'test_requires' => {},
+       'conflicts' => {},
+       'requires' => {},
+       'recommends' => {}
+     };
+$x; }

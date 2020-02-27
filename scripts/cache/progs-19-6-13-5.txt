@@ -1,0 +1,44 @@
+19 6 CMoreTennis 04:10 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619001 13
+19 6 CMoreTennis 11:00 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619002 13
+19 6 CMoreSportHD 08:00 {Tennis: Decade of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619001 13
+19 6 CMoreSportHD 09:00 {Allsvenskan: Göteborg - Djurgården} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619002 13
+19 6 CMoreSportHD 11:00 {Allsvenskan: Gefle - Östers IF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619003 13
+19 6 CMoreUrheilu 17:29 {Hockey Night Spotlight: Tero Lehterä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130619001 13
+19 6 CMoreTennis 12:00 {Tennis: Gerry Weber Open Halle 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619003 13
+19 6 CMoreTennis 14:05 {Tennis: Wimbledon Record Breakers} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619004 13
+19 6 CMoreTennis 15:00 {Tennis: WTA AEGON International Eastbourne} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619005 13
+19 6 CMoreTennis 16:30 {Tennis: WTA AEGON International Eastbourne} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619006 13
+19 6 CMoreSportHD 13:00 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619004 13
+19 6 CMoreSportHD 13:35 {La Liga: Atlético Madrid - Barcelona} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619005 13
+19 6 CMoreSportHD 15:30 {Elitserien i speedway: Dackarna - Västervik} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619006 13
+19 6 CMoreSportHD 17:45 {Allsvenskan: Kalmar - Norrköping} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619007 13
+19 6 CMoreUrheilu 18:00 {Legends of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130619002 13
+19 6 CMoreUrheilu 19:00 {Timanttiliiga: Oslo} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130619003 13
+19 6 CMoreTennis 18:15 {Tennis: Gerry Weber Open Halle 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619007 13
+19 6 CMoreTennis 19:50 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619008 13
+19 6 CMoreTennis 20:20 {Tennis: Decade of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619009 13
+19 6 CMoreAitio 18:00 {IIHF Hockey Hall of Fame -seremonia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130619001 13
+19 6 CMoreAitio 19:35 {Valioliiga: Goals of the Season} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130619002 13
+19 6 CMoreAitio 20:35 {UEFA Champions League: Paris Saint-Germain - Dynamo Kiova} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130619003 13
+19 6 CMoreExtreme 20:00 {Motor: IndyCar Highlights 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130619001 13
+19 6 CMoreExtreme 20:55 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130619002 13
+19 6 CMoreSportHD 19:45 {Allsvenskan: studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619008 13
+19 6 CMoreSportHD 20:00 {Allsvenskan: Elfsborg - Gefle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619009 13
+19 6 CMoreUrheilu 21:10 {ATP Tennis: Rooma / välierä 1} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130619004 13
+19 6 CMoreUrheilu 22:45 {ATP Tennis: Rooma / välierä 2} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130619005 13
+20 06 CMoreUrheilu 00:30-02:15 {ATP Tennis: Rooma / loppuottelu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130619006 13
+19 6 CMoreTennis 21:15 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619010 13
+19 6 CMoreTennis 21:45 {Tennis: Wimbledon Final} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619011 13
+20 06 CMoreTennis 01:15 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619012 13
+20 06 CMoreTennis 02:00-04:07 {Tennis: Open de Nice Côte d'Azur 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130619013 13
+19 6 CMoreAitio 22:25 {UEFA Champions League: Bayern München - Valencia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130619004 13
+20 06 CMoreAitio 00:15-02:00 Barca-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130619005 13
+19 6 CMoreExtreme 21:30 {Motor: Speedway British Elite League: Eastbourne - Poole} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130619003 13
+19 6 CMoreExtreme 23:30 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130619004 13
+20 06 CMoreExtreme 00:15 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130619005 13
+20 06 CMoreExtreme 01:10 {Elitserien i speedway: Dackarna - Västervik} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130619006 13
+20 06 CMoreExtreme 03:25-04:17 {Motor: IndyCar Highlights 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130619007 13
+19 6 CMoreSportHD 22:00 {Allsvenskan: studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619010 13
+19 6 CMoreSportHD 22:15 {Tennis: Decade of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619011 13
+19 6 CMoreSportHD 23:15 {Allsvenskan: IF Brommapojkarna - Halmstad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619012 13
+20 06 CMoreSportHD 01:10-03:00 {Allsvenskan: Häcken - Åtvidabergs FF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130619013 13

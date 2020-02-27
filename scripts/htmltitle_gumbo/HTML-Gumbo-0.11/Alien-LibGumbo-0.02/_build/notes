@@ -1,0 +1,5 @@
+do{ my $x = {
+       'ACTION_alien_completed' => 1,
+       'alien_blib_scheme' => 0
+     };
+$x; }

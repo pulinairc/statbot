@@ -1,0 +1,159 @@
+---------------------------------
+             UPDATES
+---------------------------------
+        netbots.tcl v4.10
+    botnet script for eggdrop
+---------------------------------
+Visit http://www.egghelp.org/ for
+    contact info and support.
+---------------------------------
+
+This file lists all significant updates to the script and components in each new version.
+
+
+CONTENTS
+ Upgrade Procedure
+ Settings Updates
+ Script Updates
+
+
+UPGRADE PROCEDURE
+
+If upgrading from netbots.tcl v4.00 or later:
+
+1. Read the "Script Updates" section below to familiarise yourself with the changes in this version.
+2. Read the "Settings Updates" section below to check whether you need to add/remove/change settings in your existing netset.tcl file. Edit it if necessary.
+3. Upload netbots.tcl and each component to the shell of your hub bot (or other distribution bot), overwriting the old versions.
+4. Rehash the bot to make sure it loads fine. If it does, you can perform a .netupdate (as described in netbots.txt) to upgrade the rest of your netbots.
+
+If updating from a netbots.tcl version older than v4.00, it's recommended that you delete your old installation, restart each bot, and perform the setup from scratch as described in netbots.txt.
+
+
+SETTINGS UPDATES
+
+v4.10
+- Added 'cl_priority' setting to chanlimit.tcl section.
+- Added 'ex_telnethost' setting to extras.tcl section.
+- sentinel.tcl settings have changed significantly. If you use the sentinel.tcl component, you should redo your sentinel.tcl settings by copying those from the example netset.tcl. You'll need to refer to the components documentation to understand the new settings and changes to existing ones.
+- The section that removed redundant functions leftover from old versions of netbots.tcl has been deleted.
+
+v4.09
+- No changes.
+
+v4.05
+- The 'ms_mservers' setting in mainserver.tcl section is now set in the same style as 'ms_servers' (i.e. list with braces).
+
+v4.00
+- Changed 'nb_nudisable' to 'nb_netupdate'. It is necessary to read components.txt for more info.
+- The 'nb_ctrlbots' and 'nb_group' settings must now be separated by commas instead of spaces, e.g. "bot1,bot2,botN" instead of "bot1 bot2 botN".
+- Removed 'nb_autopass'.
+- Added 'rp_efficient' in repeat.tcl section.
+
+
+SCRIPT UPDATES
+
+v4.10 (8/8/2005)
+
+Core updates:
+- Components to be unloaded on next restart are now listed in .components, .netinfo -more, and when rehashing.
+- The nb_update update check is now performed weekly instead of every other day.
+- Replaced nb_tmin and nb_thour global variables with different method for setting/deleting random time binds.
+- Added missing permanent owner check for .components command.
+- Fixed a bug that caused -more argument in .netinfo to be ignored if not controlling the current bot.
+
+botnetop.tcl updates:
+- Now calls chanlimit.tcl v4.09.1 or later (if available) for raising limits first. This allows the setting of a more appropriate limit and reduces +l flooding if chanlimit.tcl's cl_priority feature is enabled.
+- Adds a delay feature which should reduce +l flooding a bit if you're not using chanlimit.tcl.
+- Will now attempt to give out the key for a channel even if the bot is not opped on it.
+
+chanlimit.tcl updates:
+- Added the cl_priority feature, which is useful for reducing +l flooding.
+
+extras.tcl
+- Added the ex_telnethost feature. This automatically adds telnet hostmasks (e.g. -telnet!*@the.admins.hostname) to users with the flags specified $ex_telnethost once a day or when the .telnethosts command is used.
+
+nocycle.tcl:
+- This EFnet-specific component has been removed as the functions it performed are no longer applicable.
+
+sentinel.tcl updates:
+- Fixed sl_nkflood "invalid channel" error when bind doesn't provide channel.
+- Added support for custom lock modes. sl_locktimes replaces the old sl_ilocktime and sl_mlocktime settings.
+- The avalanche/tsunami detector is now a general text/notice flood detector, and the sl_avflood setting has been renamed to sl_txflood to reflect this.
+- Added settings sl_txlength and sl_nclength.
+- Modified functionality of sl_tsunami (0 now disables _both_ tsunami and avalanche detection, 1 or more enables both and determines the number of control codes needed for a message to be considered part of a "tsunami").
+- The sl_txflood setting is now sl_linecap to reduce confusion about this particular detector.
+
+
+v4.09 (1/4/2002)
+
+Core updates:
+- Fixed netdump which was sending user's handle to the server instead of the specified text.
+- Removed deletion of nb_chattr proc from the bottom section of netset.tcl. This should be the end of nb_chattr errors.
+- Improved update check. Removed unnecessary sendnote check, added check for valid recipients, and runs every other day instead of daily.
+
+repeat.tcl updates:
+- Fixed bot not kicking after multiple repeat flood detection if rp_warning was enabled.
+- Wasn't properly handling 0:0 settings (to disable detection). Shifted lots of things around to fix.
+- Now checks if ban is already in the list before trying to add it (reduces sharebot +b-b floods).
+- Swapped around nb_killutimers which were in the wrong place.
+
+
+v4.05 (3/9/2001)
+
+Core updates:
+- Rearranged a few things at the start of the script.
+- Added global-revenge-mode in nb_chanset.
+- Added malformed data check in nb_gotcmd to prevent possible errors.
+- Removed 'initial' argument from nb_randomise proc (note that this may produce errors in old third-party netbots components). Should be using concat instead.
+- Added a plural thingy in netpass.
+
+aidle.tcl updates:
+- Fixed possibility of a "random limit must be greater than zero" error if ai_msgbots is enabled but there are no other bots on the channel to msg.
+
+mainserver.tcl:
+- Changed the ms_mservers setting to a list format (same as ms_servers), and they're now randomised (also like ms_servers).
+
+sentinel.tcl updates:
+- Fixed incorrect variable name which caused an error if sl_masktype was set to 2.
+
+
+v4.00 (22/8/2001)
+
+Core updates:
+- Enhanced netupdate now downloads files from the hub/distribution bot only if different from those it already has (smart update feature).
+- Changed nb_nudisable to a more flexible nb_netupdate setting (see components.txt for details on the new setting).
+- Changed most netbot commands to send things in lists instead of strings in both core and component scripts, which breaks compatibility with older versions of netbots.tcl and my own components, but nb_sendcmd works exactly the same way so older third-party components should still work fine.
+- Removed some unnecessarily declared global variables in procs and did some other small cleanups.
+- Major changes to the way netpass words, it now uses a 'password table' instead of a single botnet-wide password (which was less secure), and the command syntax has also changed.
+- Removed nb_autopass feature which, with the new netpass, would cause too many failed links due to incorrect password (may implement a more advanced version of this feature in the future to avoid this).
+- Made nb_plural more flexible (command syntax has changed too).
+- The '-info' argument in .components and .netinfo sounded funny, changed it to '-more'.
+- More unbinded procs are now deleted for efficiency.
+- Changed use of 'split' in timers to the less ugly 'list' in core and component scripts - let's see if this breaks anything.
+- netupdate -file now accepts wildcards and multiple files.
+- netupdate no longer rehashes bots automatically after -file updates.
+- nb_ctrlbots and nb_group must now be separated by commas instead of spaces (consistency allows for simultaneous nb_group compatibility with nb_set and nb_ctrlbots standard mode).
+
+aidle.tcl updates:
+- Bot no longer sends msgs to itself when ai_msgbots is enabled.
+- Moved validchan and botonchan checks so that you can send msgs to non-existent channels, which will reset idle-time on most networks.
+
+botnetop.tcl updates:
+- Removed some not-completely-necessary matchattrs in bop_askbot to improve efficiency.
+- Small improvements in botname variable checking.
+
+mass.tcl updates:
+- Fixed variable in mass deop proc which caused netbots to be deopped if nb_flag was set to 'all'.
+
+repeat.tcl updates:
+- Integrated more accurate (but less efficient) repeat detection which can be optionally enabled by setting rp_efficient to 0.
+- Added rp_warning feature which replaces kicks with warning messages.
+
+sentinel.tcl updates:
+- Fixed 'allbans' error which could occur when sl_wideban is disabled.
+- Added sl_masktype option, currently offering three different ban/ignore mask types.
+- Merged unsets in sl_unsetarray
+- Added sl_detectquits to enable detection of quits as part of the join-part flood detection (currently disabled and undocumented - not sure how many networks it would be of any use on since there's usually no distinguising between user and server-invoked netsplit quits).
+
+superbitch.tcl updates:
+- sb_checkop now pays attention to the sb_chans setting.

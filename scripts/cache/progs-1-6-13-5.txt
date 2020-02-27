@@ -1,0 +1,64 @@
+1 6 CMoreUrheilu 09:00 {Serie A Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601001 13
+1 6 CMoreUrheilu 09:30 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601002 13
+1 6 CMoreUrheilu 10:00 {UEFA Champions League viikkomakasiini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601003 13
+1 6 CMoreUrheilu 10:30 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601004 13
+1 6 CMoreUrheilu 11:00 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601005 13
+1 6 CMoreUrheilu 11:30 {Valioliiga: Review of the Season} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601006 13
+1 6 CMoreTennis 04:35 {Tennis: ATP 500 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601001 13
+1 6 CMoreTennis 11:00 {Tennis: Davis Cup Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601002 13
+1 6 CMoreAitio 09:00 {Real Madrid News} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601001 13
+1 6 CMoreAitio 10:00 {IIHF Hockey Hall of Fame -seremonia} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601002 13
+1 6 CMoreAitio 11:30 {Valioliiga: Liverpool - QPR} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601003 13
+1 6 CMoreSportHD 08:00 {Allsvenskan: Djurgården - Kalmar} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601001 13
+1 6 CMoreSportHD 10:00 {Tennis: Wimbledon - Legends of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601002 13
+1 6 CMoreSportHD 11:00 {Allsvenskan: Norrköping - AIK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601003 13
+1 6 CMoreUrheilu 12:30 {Real Madrid News} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601007 13
+1 6 CMoreUrheilu 13:30 {Serie A Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601008 13
+1 6 CMoreUrheilu 14:00 {Valioliiga: Goals of the Season} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601009 13
+1 6 CMoreUrheilu 15:00 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601010 13
+1 6 CMoreUrheilu 15:30 {UEFA Champions League viikkomakasiini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601011 13
+1 6 CMoreUrheilu 16:00 {La Liga: Valencia - Granada} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601012 13
+1 6 CMoreUrheilu 17:55 {La Liga: Real Sociedad - Real Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601013 13
+1 6 CMoreTennis 12:00 {Tennis: VTR Open Chile 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601003 13
+1 6 CMoreTennis 13:45 {Tennis: VTR Open Chile 250} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601004 13
+1 6 CMoreTennis 16:50 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601005 13
+1 6 CMoreTennis 17:45 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601006 13
+1 6 CMoreAitio 13:20 {Valioliiga: Swansea - Fulham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601004 13
+1 6 CMoreAitio 15:10 {Valioliiga: Wigan - Aston Villa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601005 13
+1 6 CMoreAitio 17:00 {Valioliiga: Manchester City - Norwich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601006 13
+1 6 CMoreSportHD 13:00 {Coupe de France: Evian TG - Bordeaux} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601004 13
+1 6 CMoreSportHD 14:50 {Allsvenskan: Östers IF - Göteborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601005 13
+1 6 CMoreSportHD 16:45 {Allsvenskan: studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601006 13
+1 6 CMoreSportHD 16:55 {Allsvenskan: Häcken - Elfsborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601007 13
+1 6 CMoreUrheilu 19:45 {La Liga Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601014 13
+1 6 CMoreUrheilu 20:50 {Timanttiliiga Highlights: Shanghai} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601015 13
+1 6 CMoreTennis 18:40 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601007 13
+1 6 CMoreTennis 19:10 {Tennis: Decade of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601008 13
+1 6 CMoreTennis 20:05 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601009 13
+1 6 CMoreAitio 18:50 {Valioliiga: Newcastle - Arsenal} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601007 13
+1 6 CMoreAitio 20:35 {Fight Sports Knockouts!} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601008 13
+1 6 CMoreExtreme 20:00 {Motor: Speedway British Elite League: Poole - Kings Lynn} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130601001 13
+1 6 CMoreSportHD 18:55 {Allsvenskan: studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601008 13
+1 6 CMoreSportHD 19:10 {Allsvenskan: Helsingborg - Åtvidabergs FF} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601009 13
+1 6 CMoreUrheilu 21:50 {Timanttiliiga Highlights: New York} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601016 13
+1 6 CMoreUrheilu 22:50 {Timanttiliiga: Eugene} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601017 13
+02 06 CMoreUrheilu 01:00-02:50 {Serie A: Pescara - Milan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130601018 13
+1 6 CMoreTennis 21:00 {Tennis: BNP Paribas Open Indian Wells 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601010 13
+1 6 CMoreTennis 23:15 {Tennis: WTA Brussels Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601011 13
+02 06 CMoreTennis 00:50 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601012 13
+02 06 CMoreTennis 01:25 {Tennis: Wimbledon - Great Wimbledon Rivalries} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601013 13
+02 06 CMoreTennis 02:20 {Tennis: Wimbledon Record Breakers} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601014 13
+02 06 CMoreTennis 03:15 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601015 13
+02 06 CMoreTennis 03:45-04:37 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130601016 13
+1 6 CMoreAitio 21:25 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601009 13
+1 6 CMoreAitio 21:55 {La Liga} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601010 13
+02 06 CMoreAitio 00:00 {La Liga} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601011 13
+02 06 CMoreAitio 01:50-02:20 {UEFA Champions League: A Short History} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130601012 13
+1 6 CMoreExtreme 22:00 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130601002 13
+1 6 CMoreExtreme 22:40 IndyCar http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130601003 13
+02 06 CMoreExtreme 01:45-04:49 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130601004 13
+1 6 CMoreSportHD 21:00 {La Liga World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601010 13
+1 6 CMoreSportHD 21:30 {La Liga 12/13 Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601011 13
+1 6 CMoreSportHD 22:00 {La Liga} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601012 13
+02 06 CMoreSportHD 00:10 {Allsvenskan: IF Brommapojkarna - Malmö} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601013 13
+02 06 CMoreSportHD 02:05-04:04 {Fotboll: Major League Soccer 2013: New York Red Bulls - Vancouver Whitecaps} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130601014 13

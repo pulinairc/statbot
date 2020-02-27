@@ -1,0 +1,139 @@
+
+################################################## Date: 14Aug14 ##
+## BogusTrivia 2.06.4.7 by SpiKe^^    The Ultimate Trivia Script ##
+###################################################################
+
+###################################################################
+# Eggdrop 1.6.21 Important Note!                                  #
+#                                                                 #
+# BogusTrivia is now Immune to the Eggdrop 1.6.21 utimers Bug!!!  #
+#                                                                 #
+# It may still be best to properly patch the flawed Eggdrop.      #
+# If you want to utimer patch an Eggdrop 1.6.21 bot, you will     #
+# need to apply the timerworkaround.patch.gz by Thommey available #
+# on egghelp.org at  http://www.egghelp.org/files.htm#patches     #
+# This patch fixes the utimers issue with the Eggdrop 1.6.21      #
+###################################################################
+
+BogusTrivia Installation for Eggdrop & Windrop
+
+The instructions below apply to both Eggdrop & Windrop with the
+exception of File Permissions on Windows.
+Please read carefully. 
+
+If upgrading from an older version of BogusTrivia:
+  -> The 2.06.4.7 release of BogusTrivia requires ALL NEW FILES.
+
+!! Important !!
+The installation instructions below are NECESSARY in their ENTIRETY.
+As always, it is recommended you backup your existing bot configuration.
+Extensive testing has been done in regards to updating BogusTrivia,
+however mistakes do happen, so BACKUP!!
+
+!! WARNING !!
+Uploaded Questions are added to a database & the files are deleted by the Script!
+KEEP Backups of your Trivia Files!!
+
+
+NOTE: As always, BogusTrivia is designed to work great right out of the box.
+      Other then setting your channel and choosing a color theme in the
+      t-2.settings.tcl, this script will run optimally as default.
+
+=================================================================================
+
+!! Important BogusTrivia Shell Setup Notes !!
+You may need to set the following File Permissions on your shell directories:
+1. Log into your shell account.
+2. You may need to chmod 711 on your home directory.
+   This directory could be called home or your login name.
+   Example:   chmod 711 home
+3. You may need to chmod 700 on your eggdrop directory.
+   This directory could be called eggdrop or whatever you named your bot folder.
+   Example:   chmod 700 eggdrop
+
+=================================================================================
+
+New Installation of BogusTrivia:
+
+1. Add this line to your bot's conf file:   source scripts/t-2.tcl
+2. Unzip the contents of the BogusTrivia zip file to your computer.
+3. Open the t-2.settings.tcl and set your channel & game options.
+4. Upload the following files to your bot's /scripts directory:
+
+     t-2.tcl              :Main BogusTrivia tcl game script
+     t-2.commands.tcl     :Extended BogusTrivia commands tcl
+     t-2.settings.tcl     :BogusTrivia Settings tcl  (Set All Game Options Here!)
+     bogus.ques.sample    :Sample questions file  (or some other question files)
+
+5. Rehash or Restart your bot.
+
+6. Add Questions to Create the Database:
+
+    Using the /msg command, message your bot with one of the .add commands.
+    .add is sufficient if you're adding the included question file or files
+    with *triv* in the filename(s). Follow the message window as the script may
+    ask for user input. It may have you verify by sending you 3 examples from
+    the file you're adding.
+    You will need to answer yes or no  {or: y or n}. 
+
+    Note: If you are adding multiple question files and you're sure they ALL
+          follow the same format, you may answer using "yes all"  {or:  y a}.
+          The script provides error correction and creates a file called t2.badqes,
+          these are broken Q&A and may later be edited or discarded as you wish.
+
+7. Mix the Question database using one of the mixing commands:
+
+    The default .mix will mix the question & kaos files 4 times.
+
+    Note: Extra large databases may not mix well and stall the bot. This is NOT
+          a BogusTrivia issue.  The issue occurs when mixing large databases
+          causes the bot to exceed your shell's process load limit.
+          Try using the mix only once commands:  .mix q 1   :and:  .mix k 1
+
+8. Starting the Game:
+
+    The commands to Start & Stop the Trivia are now script settings. The default
+    on/off triggers are both .t2 and may be modified in the:  t-2.settings.tcl
+    These are public commands used in the channel and you may set user access by
+    flags in the t-2.settings.tcl to minimize abuse.
+
+=================================================================================
+
+Upgrade Installation of BogusTrivia:
+
+1. Backup your existing BogusTrivia installation!
+2. Unzip the contents of the BogusTrivia zip file to your computer.
+3. Open the t-2.settings.tcl and set your channel & game options.
+4. Upload the following files to your bot's /scripts directory:
+
+     t-2.tcl              :Main BogusTrivia tcl game script
+     t-2.commands.tcl     :Extended BogusTrivia commands tcl
+     t-2.settings.tcl     :BogusTrivia Settings tcl (Set All Game Options Here!)
+     
+5. Rehash or Restart your bot.
+   Note: You may receive the message: 
+         ->  Quit: BogusTrivia script update: Bot must be restarted!
+
+6. Restart Game Play.
+
+=================================================================================
+
+
+#############################################################################
+# Copyright (c) 2006-2014, Richard Fischer (SpiKe^^) spike@mytclscripts.com #
+#                                                                           #
+# Permission to use, copy, modify, and/or distribute this software for any  #
+# purpose with or without fee is hereby granted, provided that the above    #
+# copyright notice and this permission notice appear in all copies.         #
+#                                                                           #
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES  #
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF          #
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR   #
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES    #
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN     #
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF   #
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.            #
+#                                                                           #
+# v1.1 by SpiKe^^  spike@mytclscripts.com,  August 14, 2014                 #
+#############################################################################
+

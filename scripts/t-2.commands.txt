@@ -1,0 +1,13 @@
+/msg Haamu 
+.add - lis‰‰ kysymyksi‰ (voi vastata yes/y/no/n/yes all/y a), jos ei laita muuta kuin .add niin etsii *triv* -tiedostoja root ja script-kansioista.
+.add <format> <filename> (esim .add a|q ques*, tai oletusformaatti: .add - *music*)
+
+.addk - lis‰‰ KAOS-kysymyksi‰
+.mix - sekoittaa kysymykset 4 kertaa
+.mix <1-9> - montako kertaa sekoitetaan?
+
+Julkiset komennot:
+!aloita
+!lopeta
+!vihje
+!kysymys

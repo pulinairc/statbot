@@ -1,0 +1,47 @@
+4 7 CMoreUrheilu 10:00 Wimbledon http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130704001 13
+4 7 CMoreTennis 05:30 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704001 13
+4 7 CMoreTennis 11:00 {Tennis: Wimbledon - Great Wimbledon Rivalries} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704002 13
+4 7 CMoreExtreme 04:10 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704001 13
+4 7 CMoreExtreme 04:30 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704002 13
+4 7 CMoreSportHD 04:05 {Fotboll: Major League Soccer 2013: Sporting Kansas City - Vancouver Whitecaps} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704001 13
+4 7 CMoreSportHD 07:40 {Elitserien i speedway: Piraterna - Dackarna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704002 13
+4 7 CMoreSportHD 10:00 {Allsvenskan: Malmö - Häcken} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704003 13
+4 7 CMoreUrheilu 15:00 Wimbledon http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130704002 13
+4 7 CMoreTennis 12:00 {Tennis: Wimbledon - Legends of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704003 13
+4 7 CMoreTennis 13:00 {Tennis: Wimbledon - Legends of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704004 13
+4 7 CMoreTennis 14:00 {Tennis: Wimbledon Daily Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704005 13
+4 7 CMoreTennis 15:00 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704006 13
+4 7 CMoreSportHD 12:00 {Allsvenskan: AIK - Mjällby} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704004 13
+4 7 CMoreSportHD 13:50 {Tennis: Wimbledon Daily Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704005 13
+4 7 CMoreSportHD 14:45 {Tennis: Wimbledon Studio} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704006 13
+4 7 CMoreSportHD 15:00 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704007 13
+4 7 CMoreUrheilu 20:00 {Wimbledon: Decade of Wimbledon / The 80 's} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130704003 13
+4 7 CMoreTennis 20:05 {Tennis: Wimbledon - Legends of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704007 13
+4 7 CMoreAitio 18:00 {Valioliiga: Chelsea - Manchester United} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130704001 13
+4 7 CMoreAitio 19:50 {Timanttiliiga Highlights: Birmingham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130704002 13
+4 7 CMoreAitio 20:50 {Timanttiliiga: Lausanne} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130704003 13
+4 7 CMoreExtreme 20:00 {Elitserien i speedway: Piraterna - Dackarna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704003 13
+4 7 CMoreSportHD 20:10 {Allsvenskan: Elfsborg - Syrianska} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704008 13
+4 7 CMoreUrheilu 21:00 {UEFA Champions League: Spartak Moskova - Celtic} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130704004 13
+4 7 CMoreUrheilu 22:50 {UEFA Champions League: Zenit - Milan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130704005 13
+05 07 CMoreUrheilu 00:40-02:30 {UEFA Champions League: Manchester City - Dortmund} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130704006 13
+4 7 CMoreTennis 21:00 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704008 13
+4 7 CMoreTennis 21:30 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704009 13
+4 7 CMoreTennis 22:00 {Tennis: Wimbledon - Legends of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704010 13
+4 7 CMoreTennis 23:00 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704011 13
+4 7 CMoreTennis 23:30 {Tennis: Wimbledon Daily Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704012 13
+05 07 CMoreTennis 00:25-05:21 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130704013 13
+4 7 CMoreAitio 23:00 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130704004 13
+4 7 CMoreAitio 23:30 {Valioliiga: Tottenham - Chelsea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130704005 13
+05 07 CMoreAitio 01:15-02:10 {Valioliiga: Review of the Season} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130704006 13
+4 7 CMoreExtreme 22:20 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704004 13
+4 7 CMoreExtreme 23:05 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704005 13
+4 7 CMoreExtreme 23:50 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704006 13
+05 07 CMoreExtreme 02:45 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704007 13
+05 07 CMoreExtreme 03:10 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704008 13
+05 07 CMoreExtreme 03:35-04:15 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130704009 13
+4 7 CMoreSportHD 22:05 {UEFA: Archive Films (52 min)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704009 13
+4 7 CMoreSportHD 23:00 {UEFA: Archive Films} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704010 13
+4 7 CMoreSportHD 23:30 {Tennis: Wimbledon Daily Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704011 13
+05 07 CMoreSportHD 00:25 {Fotboll: Major League Soccer 2013: San Jose Earthquakes - Los Angeles Galaxy} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704012 13
+05 07 CMoreSportHD 02:20-04:15 {Allsvenskan: Åtvidabergs FF - IF Brommapojkarna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130704013 13

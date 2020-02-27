@@ -1,0 +1,101 @@
+3 5 KinoTV 05:10 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503001 13
+3 5 NelonenPerhe 06:00 Zoobabu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503001 13
+3 5 NelonenPerhe 06:04 {Into ja Isi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503002 13
+3 5 NelonenPerhe 06:09 Mumuhali http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503003 13
+3 5 NelonenPerhe 06:15 Kambu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503004 13
+3 5 NelonenPerhe 06:22 {Tao Tao, pieni pandakarhu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503005 13
+3 5 NelonenPerhe 06:47 {Chuckin ja ystävien seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503006 13
+3 5 NelonenPerhe 06:59 {Chuckin ja ystävien seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503007 13
+3 5 NelonenPerhe 07:10 {Transformers Rescue Bots} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503008 13
+3 5 NelonenPerhe 07:35 Auttajat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503009 13
+3 5 NelonenPerhe 08:00 Sandokan http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503010 13
+3 5 NelonenPerhe 08:26 Bernard http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503011 13
+3 5 NelonenPerhe 08:30 {Pound Puppies} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503012 13
+3 5 NelonenPerhe 08:53 Zoobabu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503013 13
+3 5 NelonenPerhe 08:57 {Simo ja Roosa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503014 13
+3 5 NelonenPerhe 09:04 {Peukaloisen retket} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503015 13
+3 5 NelonenPerhe 09:30 Kambu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503016 13
+3 5 NelonenPerhe 09:37 Bernard http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503017 13
+3 5 NelonenPerhe 09:41 Zoobabu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503018 13
+3 5 NelonenPerhe 09:44 Mumuhali http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503019 13
+3 5 NelonenPerhe 09:51 {Herra Valtteri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503020 13
+3 5 NelonenPerhe 09:57 {Herra Valtteri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503021 13
+3 5 NelonenPerhe 10:03 Hydronautit http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503022 13
+3 5 NelonenPerhe 10:18 {Chuckin ja ystävien seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503023 13
+3 5 NelonenPerhe 10:30 {Eläimet töissä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503024 13
+3 5 NelonenPerhe 10:58 Babar http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503025 13
+3 5 NelonenPerhe 11:23 Auttajat http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503026 13
+3 5 NelonenPerhe 11:49 Bernard http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503027 13
+3 5 NelonenPerhe 11:53 {Vaaleanpunainen pantteri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503028 13
+3 5 NelonenMaailma 05:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503001 13
+3 5 NelonenMaailma 10:00 {Eläinpelastus 24/7} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503002 13
+3 5 NelonenMaailma 11:00 {Monty Hallsin elämää Skotlannissa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503003 13
+3 5 NelonenPro1 14:00 {Moto3 LIVE: Vapaat harjoitukset 2, Jerez} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UTP20130503001 13
+3 5 NelonenPro1 14:50 {MotoGP LIVE: Vapaat harjoitukset 2, Jerez} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UTP20130503002 13
+3 5 NelonenPro1 15:55 {Moto2 LIVE: Vapaat harjoitukset 2, Jerez} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UTP20130503003 13
+3 5 NelonenPro1 17:00 {World Of Freesports 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UTP20130503004 13
+3 5 NelonenPro1 17:30 {SM-liiga: Ässät - Tappara,6. finaaliottelu (24.4.)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UTP20130503005 13
+3 5 NelonenPro2 14:00 {Golf European Tour: Volvo China Open, 2. päivä (2.5.)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UR120130503001 13
+3 5 KinoTV 12:00 {Kicking and Screaming (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503002 13
+3 5 KinoTV 13:45 {Isku Los Angelesiin (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503003 13
+3 5 KinoTV 15:30 {Hesher - kapinallinen (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503004 13
+3 5 KinoTV 17:20 {Pieni gangsterisota (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503005 13
+3 5 NelonenPerhe 12:00 {Pound Puppies} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503029 13
+3 5 NelonenPerhe 12:23 Zoobabu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503030 13
+3 5 NelonenPerhe 12:26 Bernard http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503031 13
+3 5 NelonenPerhe 12:31 {Herra Valtteri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503032 13
+3 5 NelonenPerhe 12:37 {Herra Valtteri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503033 13
+3 5 NelonenPerhe 12:43 Sandokan http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503034 13
+3 5 NelonenPerhe 13:10 {Liisa ihmemaassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503035 13
+3 5 NelonenPerhe 13:35 {Lazy Town} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503036 13
+3 5 NelonenPerhe 14:00 {Elokuva: Ville Vallaton ja muistinmenetys (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503037 13
+3 5 NelonenPerhe 15:10 Mumuhali http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503038 13
+3 5 NelonenPerhe 15:16 Zoobabu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503039 13
+3 5 NelonenPerhe 15:20 Bernard http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503040 13
+3 5 NelonenPerhe 15:25 {Into ja Isi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503041 13
+3 5 NelonenPerhe 15:30 {Tao Tao, pieni pandakarhu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503042 13
+3 5 NelonenPerhe 15:55 {Chuckin ja ystävien seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503043 13
+3 5 NelonenPerhe 16:07 {Chuckin ja ystävien seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503044 13
+3 5 NelonenPerhe 16:20 {Lazy Town} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503045 13
+3 5 NelonenPerhe 16:46 Kambu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503046 13
+3 5 NelonenPerhe 16:53 Kambu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503047 13
+3 5 NelonenPerhe 17:00 {My Little Pony: Ystävyyden taikaa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503048 13
+3 5 NelonenPerhe 17:25 {Pound Puppies} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503049 13
+3 5 NelonenPerhe 17:48 Zoobabu http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503050 13
+3 5 NelonenPerhe 17:52 {Vaaleanpunainen pantteri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503051 13
+3 5 NelonenPerhe 17:59 {Herra Valtteri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503052 13
+3 5 NelonenMaailma 12:00 Huippuseikkailut http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503004 13
+3 5 NelonenMaailma 13:00 {Legenda Atlantiksesta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503005 13
+3 5 NelonenMaailma 14:00 {Reppu selässä maailmalla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503006 13
+3 5 NelonenMaailma 15:00 {Joanna Lumley revontulien maassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503007 13
+3 5 NelonenMaailma 16:00 {Shanen seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503008 13
+3 5 NelonenMaailma 17:00 {Eläinpelastus 24/7} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503009 13
+3 5 NelonenPro1 20:00 {UEFA Europa League: Benfica - Fenerbahce (2.5.)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UTP20130503006 13
+3 5 NelonenPro2 18:00 {UEFA Europa League: Chelsea - Basel (2.5.)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UR120130503002 13
+3 5 NelonenPro2 20:00 {Mobil 1 The Grid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UR120130503003 13
+3 5 NelonenPro2 20:30 {NHL: Montreal Canadiens - Ottawa Senators (2.5.)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UR120130503004 13
+3 5 KinoTV 19:00 {Koomikot koolla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503006 13
+3 5 KinoTV 19:30 Defenders http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503007 13
+3 5 KinoTV 20:15 {Good Wife} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503008 13
+3 5 NelonenPerhe 18:05 {Transformers Rescue Bots} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503053 13
+3 5 NelonenPerhe 18:27 {Fanipoju & SumSum} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503054 13
+3 5 NelonenPerhe 18:52 {Vaaleanpunainen pantteri} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503055 13
+3 5 NelonenPerhe 19:00 {Elokuva: Taikureiden salaisuus (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503056 13
+3 5 NelonenPerhe 20:30-06:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEF20130503057 13
+3 5 NelonenMaailma 18:00 {Monty Hallsin elämää Skotlannissa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503010 13
+3 5 NelonenMaailma 19:00 Huippuseikkailut http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503011 13
+3 5 NelonenMaailma 20:00 {Reppu selässä maailmalla} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503012 13
+3 5 NelonenPro1 22:00-02:00 {Golf PGA Tour LIVE: Wells Fargo Champioship, 2. päivä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UTP20130503007 13
+3 5 NelonenPro2 22:30 {UEFA Europe League Highlights 2.5.} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UR120130503005 13
+3 5 NelonenPro2 23:00 {NHL Tonight} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UR120130503006 13
+04 05 NelonenPro2 00:00-02:00 {PRO BOXING: Jürgen Brähmer vs. Tony Averlant (27.4.)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=UR120130503007 13
+3 5 KinoTV 21:00 {Hunted - tähtäimessä} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503009 13
+3 5 KinoTV 22:00 {Oikeuden puolesta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503010 13
+3 5 KinoTV 23:00 {Blind Horizon (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503011 13
+04 05 KinoTV 00:40 {Snake Eater (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503012 13
+04 05 KinoTV 02:15 {Tough Luck (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503013 13
+04 05 KinoTV 03:45-05:20 {Suvusta parhaasta (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEK20130503014 13
+3 5 NelonenMaailma 21:00 {Joanna Lumley revontulien maassa} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503013 13
+3 5 NelonenMaailma 22:00 {Shanen seikkailut} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503014 13
+3 5 NelonenMaailma 23:00 {Legenda Atlantiksesta} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503015 13
+04 05 NelonenMaailma 00:00-05:00 Älypää-TV http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=NEW20130503016 13

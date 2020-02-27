@@ -1,0 +1,34 @@
+5 8 CMoreTennis 09:55 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130805001 13
+5 8 CMoreSportHD 08:10 {Coupe de France: Troyes - Bordeaux} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805001 13
+5 8 CMoreSportHD 10:00 {Coupe de France: Evian TG - Bordeaux} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805002 13
+5 8 CMoreTennis 14:45 {Tennis: Atlanta Tennis Championships} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130805002 13
+5 8 CMoreSportHD 12:05 {Exhibition game : MLS All-Stars - Roma} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805003 13
+5 8 CMoreSportHD 13:55 {Allsvenskan: Göteborg - Häcken} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805004 13
+5 8 CMoreSportHD 16:00 {Allsvenskan: AIK - Elfsborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805005 13
+5 8 CMoreSportHD 17:50 {Emirates Cup: Arsenal - Napoli} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805006 13
+5 8 CMoreUrheilu 18:00 {ATP Tennis: Monte Carlo / loppuottelu} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130805001 13
+5 8 CMoreUrheilu 20:30 {ATP Tennis: Madrid / puolivälierä 1} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130805002 13
+5 8 CMoreTennis 19:00 {Tennis: Rogers Masters Montreal} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130805003 13
+5 8 CMoreAitio 18:00 {Valioliiga: Review of the Season 2012 - 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130805001 13
+5 8 CMoreAitio 19:00 {UEFA Champions League: Chelsea - Nordsjälland} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130805002 13
+5 8 CMoreAitio 20:45 {UEFA Champions League: Real Madrid - Manchester United} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130805003 13
+5 8 CMoreExtreme 20:00 {Motor: IndyCar Highlights 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130805001 13
+5 8 CMoreSportHD 19:45 {Allsvenskan: Fotbollsmåndag} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805007 13
+5 8 CMoreSportHD 20:00 {Allsvenskan: Djurgården - Helsingborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805008 13
+5 8 CMoreUrheilu 22:30 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130805003 13
+5 8 CMoreUrheilu 23:00 {Valioliiga: Fulham - Liverpool} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130805004 13
+06 08 CMoreUrheilu 00:50-02:35 {Valioliiga: Sunderland - Southampton} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130805005 13
+5 8 CMoreTennis 21:00 {Tennis: Rogers Masters Montreal} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130805004 13
+5 8 CMoreTennis 23:05 {Tennis: WTA Mercury Insurance Open Carlsbad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130805005 13
+06 08 CMoreTennis 01:00 {Tennis: Rogers Masters Montreal} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130805006 13
+06 08 CMoreTennis 03:00-05:00 {Tennis: Rogers Masters Montreal} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130805007 13
+5 8 CMoreAitio 22:30 {ATP Tennis: Madrid / puolivälierä 2} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130805004 13
+06 08 CMoreAitio 00:30-02:30 {ATP Tennis: Madrid / puolivälierä 3} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130805005 13
+5 8 CMoreExtreme 21:00 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130805002 13
+5 8 CMoreExtreme 21:30 {Motor: Speedway British Elite League: Poole - Coventry} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130805003 13
+5 8 CMoreExtreme 23:30 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130805004 13
+06 08 CMoreExtreme 02:25-03:45 {World Extreme Cagefighting} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130805005 13
+5 8 CMoreSportHD 21:55 {Allsvenskan: Fotbollsmåndag} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805009 13
+5 8 CMoreSportHD 22:20 {Allsvenskan: Norrköping - Mjällby} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805010 13
+06 08 CMoreSportHD 00:15 {Emirates Cup: Arsenal - Galatasaray} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805011 13
+06 08 CMoreSportHD 02:10-03:58 {Allsvenskan: Halmstad - Malmö} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130805012 13

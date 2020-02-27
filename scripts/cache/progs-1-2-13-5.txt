@@ -1,0 +1,46 @@
+1 2 CMoreTennis 04:00 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201001 13
+1 2 CMoreTennis 10:45 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201002 13
+1 2 CMoreSportHD 08:50 {Ishockey: Elitserien 12/13: MODO - Frölunda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201001 13
+1 2 CMoreSportHD 11:05 {La Liga: Sevilla - Granada} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201002 13
+1 2 CMoreUrheilu 13:50 {Valioliiga: Reading - Chelsea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201001 13
+1 2 CMoreUrheilu 15:40 {Valioliiga: QPR - Manchester City} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201002 13
+1 2 CMoreUrheilu 17:30 {Premier League Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201003 13
+1 2 CMoreTennis 14:00 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201003 13
+1 2 CMoreTennis 16:30 {Tennis: Davis Cup} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201004 13
+1 2 CMoreAitio 14:10 {Valioliiga: Stoke - Wigan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130201001 13
+1 2 CMoreAitio 16:00 {Elitserien: MODO - Luulaja} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130201002 13
+1 2 CMoreSportHD 13:05 {Ishockey: Elitserien 12/13: Färjestad - Skellefteå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201003 13
+1 2 CMoreSportHD 15:20 {Ishockey: Elitserien 12/13: Skellefteå - Växjö} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201004 13
+1 2 CMoreSportHD 17:30 {Fotboll: La Liga 12/13 World - Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201005 13
+1 2 CMoreUrheilu 18:30 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201004 13
+1 2 CMoreUrheilu 19:00 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201005 13
+1 2 CMoreUrheilu 19:30 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201006 13
+1 2 CMoreUrheilu 20:00 {Valioliiga: Arsenal - Liverpool} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201007 13
+1 2 CMoreTennis 20:00 {Tennis: WTA Open GDF SUEZ Paris} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201005 13
+1 2 CMoreAitio 18:00 {Valioliiga: Manchester United - Southampton} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130201003 13
+1 2 CMoreAitio 19:50 {La Liga: Athletic Bilbao - Atlético Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130201004 13
+1 2 CMoreExtreme 20:00 {Speedway: Elitserien 2012: Vargarna Norrköping - Hammarby} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130201001 13
+1 2 CMoreSportHD 18:00 {Ishockey: Elitserien 12/13: MODO - Luleå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201006 13
+1 2 CMoreSportHD 20:15 {Ishockey: Elitserien 12/13: AIK - Rögle BK} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201007 13
+1 2 CMoreUrheilu 21:50 {La Liga Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201008 13
+1 2 CMoreUrheilu 22:50 {Total Italian Football} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201009 13
+1 2 CMoreUrheilu 23:20 {Premier League Preview} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201010 13
+1 2 CMoreUrheilu 23:50 {La Liga Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201011 13
+02 02 CMoreUrheilu 00:20 {Valioliiga: Fulham - West Ham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201012 13
+02 02 CMoreUrheilu 02:10-02:40 {Premier League Preview} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130201013 13
+1 2 CMoreTennis 21:30 {Tennis: WTA Open GDF SUEZ Paris} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201006 13
+1 2 CMoreTennis 23:05 {Tennis: WTA Open GDF SUEZ Paris} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201007 13
+02 02 CMoreTennis 00:40 {Tennis: WTA Open GDF SUEZ Paris} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201008 13
+02 02 CMoreTennis 02:10 {Tennis: WTA Open GDF SUEZ Paris} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201009 13
+02 02 CMoreTennis 03:40-05:10 {Tennis: WTA Open GDF SUEZ Paris} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130201010 13
+1 2 CMoreAitio 21:40 {Valioliiga: Everton - West Bromwich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130201005 13
+1 2 CMoreAitio 23:30 {Valioliiga: Sunderland - Swansea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130201006 13
+02 02 CMoreAitio 01:20-02:20 {Real Madrid News} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130201007 13
+1 2 CMoreExtreme 22:00 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130201002 13
+02 02 CMoreExtreme 01:10 {Speedway: Elitserien 2012: Elit Vetlanda - Dackarna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130201003 13
+02 02 CMoreExtreme 03:05 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130201004 13
+02 02 CMoreExtreme 03:50-04:13 {Boxing: Greatest Fighters Archive} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130201005 13
+1 2 CMoreSportHD 22:25 {La Liga: Valladolid - Athletic Bilbao} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201008 13
+02 02 CMoreSportHD 00:30 {La Liga 12/13 Preview Show} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201009 13
+02 02 CMoreSportHD 01:00 {Ishockey: Elitserien 12/13: Linköping - Timrå} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201010 13
+02 02 CMoreSportHD 03:15-05:20 {Ishockey: Elitserien 12/13: HV71 - Frölunda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130201011 13

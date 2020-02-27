@@ -1,0 +1,46 @@
+{
+   "abstract" : "gumbo parser library",
+   "author" : [
+      "Ruslan Zakirov <Ruslan.Zakirov@gmail.com>"
+   ],
+   "dynamic_config" : 1,
+   "generated_by" : "Module::Build version 0.4007, CPAN::Meta::Converter version 2.131560",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Alien-LibGumbo",
+   "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "Alien::Base" : "0.002",
+            "File::ShareDir" : "1.03",
+            "Module::Build" : "0.40",
+            "Path::Class" : "0.013"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Alien::Base" : "0.002",
+            "File::ShareDir" : "1.03",
+            "Path::Class" : "0.013"
+         }
+      }
+   },
+   "provides" : {
+      "Alien::LibGumbo" : {
+         "file" : "lib/Alien/LibGumbo.pm",
+         "version" : "0.02"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "0.02"
+}

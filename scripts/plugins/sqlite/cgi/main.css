@@ -1,0 +1,38 @@
+body {
+	font-family: sans-serif;
+	background: #efefef;
+	color: #002;
+}
+
+ul{
+font: bold 13px sans-serif;
+padding-left: 0;
+margin-left: 0;
+height: 20px;
+}
+
+ul li
+{
+list-style: none;
+display:inline;
+}
+
+ul li a {
+padding: 2px 0.5em;
+text-decoration: none;
+float: left;
+color: black;
+background-color: #e1e1e1;
+border: 2px solid #e1e1e1;
+}
+
+ul li a:hover {
+background-color: #e5e5e5;
+border-style: outset;
+}
+
+.notice {
+	color: red;
+	padding-top: 1em;
+	padding-left: 1em;
+}

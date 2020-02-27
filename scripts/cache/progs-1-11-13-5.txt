@@ -1,0 +1,29 @@
+1 11 CMoreTennis 04:00 {Tennis: WTA TEB BNP Paribas Championship Istanbul} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101001 13
+1 11 CMoreTennis 11:20 {Tennis: ATP 1000 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101002 13
+1 11 CMoreUrheilu 15:00 {ATP Tennis: Pariisi / puolivälierä 1 ja 2} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131101001 13
+1 11 CMoreTennis 12:15 {Tennis: Davis Cup Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101003 13
+1 11 CMoreTennis 13:10 {Tennis: Swiss Indoors Basel 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101004 13
+1 11 CMoreTennis 15:00 {Tennis: BNP Paribas Masters Paris 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101005 13
+1 11 CMoreTennis 17:00 {Tennis: BNP Paribas Masters Paris 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101006 13
+1 11 CMoreUrheilu 19:00 {Premier League Sunday Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131101002 13
+1 11 CMoreUrheilu 20:00 {Premier League Match Pack} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131101003 13
+1 11 CMoreUrheilu 20:30 {ATP Tennis: Pariisi / puolivälierä 3 ja 4} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131101004 13
+1 11 CMoreTennis 19:05 {Tennis: Davis Cup Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101007 13
+1 11 CMoreTennis 20:00 {Tennis: Spirit of Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101008 13
+1 11 CMoreTennis 20:30 {Tennis: BNP Paribas Masters Paris 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101009 13
+1 11 CMoreAitio 18:00 {Premier League Match Pack} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131101001 13
+1 11 CMoreAitio 18:30 {Valioliiga: Swansea - West Ham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131101002 13
+1 11 CMoreAitio 20:20 {Valioliiga: Sunderland - Newcastle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131101003 13
+1 11 CMoreExtreme 20:00 {Elitserien i speedway: Ikaros Smederna - Elit Vetlanda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131101001 13
+1 11 CMoreSportHD 19:20-19:48 {Allsvenskan: topplistan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131101001 13
+02 11 CMoreUrheilu 00:30 {Premier League Preview} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131101005 13
+02 11 CMoreUrheilu 01:00-02:50 {UEFA Champions League: Schalke - Chelsea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131101006 13
+1 11 CMoreTennis 21:30 {Tennis: BNP Paribas Masters Paris 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101010 13
+1 11 CMoreTennis 23:40 {Tennis: Swiss Indoors Basel 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101011 13
+02 11 CMoreTennis 02:10-04:59 {Tennis: Swiss Indoors Basel 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131101012 13
+1 11 CMoreAitio 22:10 {Valioliiga: Chelsea - Manchester City} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131101004 13
+02 11 CMoreAitio 00:00-00:30 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131101005 13
+1 11 CMoreExtreme 22:15 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131101002 13
+02 11 CMoreExtreme 01:10 {UFC Main Event} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131101003 13
+02 11 CMoreExtreme 02:00 {UFC Main Event} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131101004 13
+02 11 CMoreExtreme 02:50-03:34 {UFC Main Event} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131101005 13

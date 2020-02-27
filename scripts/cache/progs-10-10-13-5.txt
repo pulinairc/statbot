@@ -1,0 +1,32 @@
+10 10 CMoreUrheilu 09:00 {ATP Tennis: Shanghai / 3. kierros} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131010001 13
+10 10 CMoreTennis 04:15 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010001 13
+10 10 CMoreTennis 09:00 {Tennis: Shanghai Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010002 13
+10 10 CMoreTennis 11:00 {Tennis: Shanghai Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010003 13
+10 10 CMoreSportHD 05:35 {Major League Soccer: San Jose Earthquakes - Colorado Rapids} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131010001 13
+10 10 CMoreSportHD 07:55 {Allsvenskan: Djurgården - Göteborg} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131010002 13
+10 10 CMoreSportHD 09:55 {Serie A: Lazio - Fiorentina} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131010003 13
+10 10 CMoreSportHD 11:50 {UEFA: Archive Films} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131010004 13
+10 10 CMoreUrheilu 17:00 {UEFA Champions League viikkomakasiini} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131010002 13
+10 10 CMoreUrheilu 17:30 {Premier League World} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131010003 13
+10 10 CMoreTennis 13:00 {Tennis: Shanghai Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010004 13
+10 10 CMoreTennis 15:00 {Tennis: Shanghai Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010005 13
+10 10 CMoreTennis 17:10 {Tennis: WTA China Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010006 13
+10 10 CMoreSportHD 12:45 {Allsvenskan: Häcken - Malmö} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131010005 13
+10 10 CMoreSportHD 16:55 {UEFA: Archive Films} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131010006 13
+10 10 CMoreUrheilu 18:00 {Valioliiga: Tottenham - West Ham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131010004 13
+10 10 CMoreUrheilu 19:50 {Valioliiga: Sunderland - Manchester United} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131010005 13
+10 10 CMoreTennis 18:45 {Tennis: Shanghai Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010007 13
+10 10 CMoreTennis 20:50 {Tennis: Shanghai Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010008 13
+10 10 CMoreAitio 18:00-02:00 {ATP Tennis: Shanghai / 3. kierros} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20131010001 13
+10 10 CMoreExtreme 20:00 IndyCar http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131010001 13
+10 10 CMoreUrheilu 21:40 {UEFA Champions League: Celtic - Barcelona} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131010006 13
+10 10 CMoreUrheilu 23:30 {UEFA Champions League: Arsenal - Napoli} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131010007 13
+11 10 CMoreUrheilu 01:20-02:15 {Premier League Saturday Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120131010008 13
+10 10 CMoreTennis 22:55 {Tennis: Shanghai Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010009 13
+11 10 CMoreTennis 01:00 {Tennis: Shanghai Rolex Masters 1000} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010010 13
+11 10 CMoreTennis 03:10-04:13 {Tennis: China Open 500} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220131010011 13
+10 10 CMoreExtreme 23:00 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131010002 13
+11 10 CMoreExtreme 02:00 {Kampsport: UFC Unleashed} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131010003 13
+11 10 CMoreExtreme 02:45 {Motor: IndyCar Highlights 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131010004 13
+11 10 CMoreExtreme 03:45-04:36 {Motor: IndyCar Highlights 2013} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20131010005 13
+10 10 CMoreSportHD 22:45-23:39 {C More Classics Hockey} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20131010007 13

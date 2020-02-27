@@ -1,0 +1,43 @@
+do{ my $x = {
+       'pkgconfig' => {
+                        '_manual' => bless( {
+                                              'keywords' => {
+                                                              'Version' => '',
+                                                              'Libs' => '-L${pcfiledir}/lib -lgumbo',
+                                                              'Cflags' => '-I${pcfiledir}/include'
+                                                            },
+                                              'vars' => {
+                                                          'pcfiledir' => '/usr/local/share/perl5/auto/share/dist/Alien-LibGumbo'
+                                                        },
+                                              'package' => 'libgumbo'
+                                            }, 'Alien::Base::PkgConfig' ),
+                        'gumbo' => bless( {
+                                            'keywords' => {
+                                                            'Version' => '1.0',
+                                                            'Libs' => '-L${libdir} -lgumbo',
+                                                            'Libs.private' => '',
+                                                            'Name' => 'Gumbo',
+                                                            'Description' => 'A fully-compliant HTML5 parser.',
+                                                            'Cflags' => '-I${includedir}'
+                                                          },
+                                            'vars' => {
+                                                        'pcfiledir' => '/home/rolle/eggdrop/scripts/htmltitle_gumbo/HTML-Gumbo-0.11/Alien-LibGumbo-0.02/_alien/libgumbo-0.2',
+                                                        'includedir' => '${prefix}/include',
+                                                        'exec_prefix' => '${prefix}',
+                                                        'prefix' => '/usr/local/share/perl5/auto/share/dist/Alien-LibGumbo',
+                                                        'libdir' => '${exec_prefix}/lib'
+                                                      },
+                                            'package' => 'gumbo'
+                                          }, 'Alien::Base::PkgConfig' )
+                      },
+       'inline_auto_include' => [],
+       'install_type' => 'share',
+       'working_directory' => '/home/rolle/eggdrop/scripts/htmltitle_gumbo/HTML-Gumbo-0.11/Alien-LibGumbo-0.02/_alien/libgumbo-0.2',
+       'version' => '0.2',
+       'name' => 'libgumbo',
+       'msys' => 0,
+       'ffi_name' => undef,
+       'alien_version' => '0.2',
+       'finished_installing' => 1
+     };
+$x; }

@@ -1,0 +1,36 @@
+4 9 CMoreTennis 11:00 {Tennis: Wimbledon} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130904001 13
+4 9 CMoreSportHD 08:00 {Allsvenskan: AIK - Gefle} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904001 13
+4 9 CMoreSportHD 09:55 {La Liga: Real Sociedad - Atlético Madrid} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904002 13
+4 9 CMoreSportHD 11:50 {Allsvenskan: Kalmar - Halmstad} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904003 13
+4 9 CMoreUrheilu 16:00 {Timanttiliiga Highlights: Zürich} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130904001 13
+4 9 CMoreUrheilu 17:00 {UEFA Super Cup: Bayern München - Chelsea} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130904002 13
+4 9 CMoreTennis 16:00 {Tennis: Western & Southern Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130904002 13
+4 9 CMoreTennis 17:00 {Tennis: Western & Southern Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130904003 13
+4 9 CMoreAitio 16:00 {ATP Tennis: Cincinnati / puolivälierä 3} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130904001 13
+4 9 CMoreAitio 17:00 {ATP Tennis: Cincinnati / puolivälierä 4} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130904002 13
+4 9 CMoreSportHD 13:50 {Elitserien i speedway: Elit Vetlanda - Dackarna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904004 13
+4 9 CMoreSportHD 16:05 {La Liga: Real Madrid - Athletic Bilbao} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904005 13
+4 9 CMoreUrheilu 19:40 {UEFA Champions League: Milan - PSV Eindhoven} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130904003 13
+4 9 CMoreTennis 19:55 {Tennis: Western & Southern Open} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130904004 13
+4 9 CMoreAitio 19:30 {Euro Hockey Tour: Venäjä - Suomi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130904003 13
+4 9 CMoreExtreme 20:00 {Elitserien i speedway: Piraterna - Ikaros Smederna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130904001 13
+4 9 CMoreSportHD 18:00 {Allsvenskan: topplistan} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904006 13
+4 9 CMoreSportHD 18:30 {C More Classics Soccer} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904007 13
+4 9 CMoreSportHD 20:00 {Elitserien i speedway: Dackarna - Elit Vetlanda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904008 13
+4 9 CMoreUrheilu 21:30 {UEFA Champions League: Celtic - Shahtjor Karaganda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130904004 13
+4 9 CMoreUrheilu 23:20 {UEFA Champions League: Legia Varsova - Steaua Bukarest} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130904005 13
+05 09 CMoreUrheilu 01:10 {Premier League Saturday Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130904006 13
+05 09 CMoreUrheilu 02:05-02:30 {Purjehdusta: 49er Grand Prix (Elokuva)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS120130904007 13
+4 9 CMoreTennis 22:15 {Tennis: Atlanta Tennis Championships} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130904005 13
+05 09 CMoreTennis 01:55 {Tennis: ATP 500 Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130904006 13
+05 09 CMoreTennis 03:00-04:15 {Tennis: WTA Western & Southern Open Cincinnati} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CS220130904007 13
+4 9 CMoreAitio 21:30 {Euro Hockey Tour: Tshekki - Ruotsi} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130904004 13
+4 9 CMoreAitio 23:30 {Premier League Sunday Highlights} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130904005 13
+05 09 CMoreAitio 00:25-02:15 {Valioliiga: Crystal Palace - Tottenham} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CAI20130904006 13
+4 9 CMoreExtreme 22:20 {Elitserien i speedway: Dackarna - Elit Vetlanda} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130904002 13
+05 09 CMoreExtreme 00:45 {Kampsport: UFC Fighter Profiles} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130904003 13
+05 09 CMoreExtreme 02:00-04:50 UFC http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSE20130904004 13
+4 9 CMoreSportHD 22:20 {Fotboll: La Liga 13/14 World (Highlights)} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904009 13
+4 9 CMoreSportHD 22:55 {Elitserien i speedway: Piraterna - Ikaros Smederna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904010 13
+05 09 CMoreSportHD 01:15 {La Liga: Valencia - Barcelona} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904011 13
+05 09 CMoreSportHD 03:05-05:02 {Allsvenskan: Helsingborg - IF Brommapojkarna} http://elisa.net/elisatv/tvjaradio/tv/tiedot.tv?t=&s=&id=CSH20130904012 13

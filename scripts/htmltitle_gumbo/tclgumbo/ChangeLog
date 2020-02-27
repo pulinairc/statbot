@@ -1,0 +1,17 @@
+2014-12-07  Danilo Chang <ray2501@gmail.com>
+
+	* Tclgumbo:         v0.1
+        * win/*.*:          Remove Visual Studio related files.
+
+2014-12-07  Danilo Chang <ray2501@gmail.com>
+
+	* tclgumbo.c:       Add Tclgumbo_Init function, add related variables.
+	* tgumbo.c:         Add hash table initial function.
+        * tests:            Add tclgumbo.test to do simple test.
+
+2014-12-06  Danilo Chang <ray2501@gmail.com>
+
+	* Initial:          Dump Sample extension files.
+        * Gumbo:            Get Gumbo 0.9.2 source files and setup configure.in.
+        * configure.in:     TEA_ADD_CFLAGS add -std=gnu99, for Gumbo used.
+

@@ -1,0 +1,206 @@
+---------------------------------
+      NETBOTS DOCUMENTATION
+---------------------------------
+        netbots.tcl v4.10
+    botnet script for eggdrop
+---------------------------------
+Visit http://www.egghelp.org/ for
+    contact info and support.
+---------------------------------
+
+Use an editor that supports word wrap to view the documentation files. A formatted, web version of the documentation can be found on the netbots.tcl page at http://www.egghelp.org/.
+
+This file contains general information about netbots.tcl that you'll need to know before you use the script. You will also need to read components.txt which describes each component and their settings. If you're updating from an earlier version of netbots.tcl, I recommend you read updates.txt. netbots.tcl is not a simple script, so you may require several hours to read the documentation and set up the script on your bots.
+
+Important: It is recommended you download this script and future versions from http://www.egghelp.org/ only. Copies of this script found at other locations may not be the latest verison, may be misconfigured, and could contain backdoors.
+
+
+CONTENTS
+ Introduction
+ Features
+ Setup
+ Netupdate Explained
+ Using Netupdate
+ Configuration & Components
+ Adding Your Own Components
+ Support & Comments
+ Credits
+ Copyright & Disclaimer
+
+
+INTRODUCTION
+
+netbots.tcl is a flexible, feature-rich, and relatively secure botnet script for eggdrop. It combines many of my previous standalone scripts, such as the original netbots.tcl, sentinel.tcl, botnetop.tcl, etc. with many additional refinements and features designed to make botnet management easier and less time-consuming.
+
+netbots.tcl and the included component scripts support eggdrop 1.3.22 - 1.3.28, 1.4.0 - 1.4.5, and 1.6.0 - 1.6.17 and should work with future versions in these series. Versions of eggdrop ported to Windows are not officially supported, although the scripts may still work. netbots.tcl also supports bots compiled with Tcl 7.6 and Tcl 8.
+
+netbots.tcl isn't a simple script. It requires a reasonable knowledge of eggdrop and how to use Tcl scripts. If you're new to eggdrop, you should not attempt to use netbots.tcl.
+
+
+FEATURES
+
+* Allows you to make a whole botnet perform functions with a single command (e.g. make all bots join a channel, rehash, change nicks, etc.). Integrated help explains all the different netbot commands.
+* Built-in update feature lets you update the netbots.tcl script and components, settings files, bot config files, motd and telnet-banner files, and other text files across a whole botnet with a single command on the hub bot (or other file distribution bot). No longer do you need to connect to each bot's shell for updates and changes.
+* Botnet communications are encrypted. Multiple security options allow you to strike an appropriate balance between functionality and security for your situation.
+* Component structure lets you load only those components of the script you need to use - the script won't bloat your bot with features you don't need.
+* Many useful components included, such as sentinel.tcl for flood protection, chanlimit.tcl for automatic channel limiting, mainserver.tcl for bot server management, and many more.
+* You can customise script and component settings for each bot in a single settings file - no need to have separate versions of the script to use different settings on a particular bot.
+* Update-check automatically informs you when a new version of netbots.tcl is available.
+
+
+SETUP
+
+1) netbots.tcl is split into several files - netset.tcl contains the script settings and netbots.tcl contains the code. Additional component scripts (e.g. aidle.tcl, botnetop.tcl, etc.) are also included. To setup the netbots.tcl script, netset.tcl is the only file you'll need to edit.
+
+2) To get netbots.tcl up and running, you only need to change two settings in the netset.tcl file. You can deal with the rest later if you wish. Near the top of the file, you'll see the lines 'set nb_key "changethis"' and 'set nb_flag N'. Change nb_key to a short, random set of alpha-numeric characters, e.g. "e9g4bMu". The nb_flag setting is explained in components.txt.
+
+3) In each bot's directory, create a new directory named 'netbots'. Copy the netset.tcl, netbots.tcl, and additional component scripts (e.g. aidle.tcl, botnetop.tcl, etc.) to this new directory. The netbots.tcl script, settings file, and any component scripts you wish to use must be placed in this directory for the script to work properly.
+
+4) At the end of each bot's config file, add the line 'source netbots/netbots.tcl'.
+
+5) Rehash each bot on the botnet (note that if you have any of my old standalone scripts installed, you should probably shut down and restart each bot instead of just rehashing). The basic netbots component with the default settings will be loaded on each bot.
+
+6) If you have nb_flag set to a custom netbot flag (i.e. "N" or another upper-case alphabet letter), you will need to setup the netbot flags on your bots. On the hub bot, type '.netbots add <leaf>' for each leaf bot. On each leaf bot, type '.netbots add <hub>'. You can also specify a list of bots to add when using the command, e.g. '.netbots add NiceBot,CuteBot,FatBot' instead of using the command multiple times to add different bots. Note that this command does not make a special netbot list anywhere - it simply gives the specified bots the netbot flag.
+
+
+NETUPDATE EXPLAINED
+
+Before you start to customise the settings, you need to be familiar with the netupdate feature. You should choose a bot on your botnet, preferably the hub bot, which will serve as a distribution bot for the settings file, netbots.tcl script and component scripts, bot config files, motd and telnet-banner files, and other third party files. In the rest of the documentation, I'll assume you're using the hub as the distribution bot.
+
+The hub's shell must contain the settings file, netbots.tcl script and component scripts, all bot config files (with separate filenames for each bot's config), and motd file(s). If you're using eggdrop 1.3.28 or later, you may include the telnet-banner file for all bots as well. Using a fictional hub bot (BigBoy) and a couple of leaf bots (Camelback and Mallard), here is a visual example of a typical setup:
+
+ BigBoy's shell (hub bot):
+  bigboy.conf camelback.conf mallard.conf motd netbots/netbots.tcl netbots/netset.tcl netbots/aidle.tcl netbots/botnetop.tcl
+ Camelback's shell:
+  camelback.conf motd netbots/netbots.tcl netbots/netset.tcl netbots/aidle.tcl netbots/botnetop.tcl
+ Mallard's shell:
+  mallard.conf motd netbots/netbots.tcl netbots/netset.tcl netbots/aidle.tcl netbots/botnetop.tcl
+
+When a scripts netupdate is initiated, Camelback and Mallard will request the file 'netbots/netbots.tcl' and additional component scripts (e.g. 'netbots/aidle.tcl') from BigBoy. When a motd netupdate is initiated, they will request 'motd'. However, when a config file netupdate is initiated, Camelback will request 'camelback.conf' while Mallard will request 'mallard.conf'. Now let's say you want BigBoy, Camelback, and Mallard to each have their own motd:
+
+ BigBoy's shell (hub bot):
+  bigboy.conf bigboy.motd camelback.conf camelback.motd mallard.conf mallard.motd
+ Camelback's shell:
+  camelback.conf camelback.motd
+ Mallard's shell:
+  mallard.conf mallard.motd
+
+In this setup, Camelback will request 'camelback.motd' during a motd netupdate, while Mallard will request 'mallard.motd'.
+
+You can choose any filename you want for the netbots.tcl components, config files, motd file(s), and telnet-banner file(s). You just need to make sure the files needed by each leaf bot are present on the hub bot's shell with the same filename and location.
+
+
+USING NETUPDATE
+
+You will typically use netupdate when you want to:
+
+  upgrade a bot or bots to a new version of netbots.tcl;
+  update or add a new component script to a bot or bots;
+  update netbots.tcl settings (netset.tcl) for a bot or bots;
+  update config files for a bot or bots;
+  update motd files for a bot or bots;
+  update telnet-banner files for a bot or bots;
+  update a third party script or text file for a bot or bots.
+
+To use netupdate, do the following:
+
+1) Upload the new or changed settings file, netbots.tcl script and/or component scripts, config file(s), motd(s), telnet-banner(s), or other file(s) to the hub's shell. If changing the nb_key or nb_flag options, don't rehash the hub just yet as these changes may prevent the transfer. If updating netbots.tcl to a new version, make sure you check updates.txt for any special upgrade instructions.
+
+2) Use the '.netupdate [option] [bot]' command on the hub bot. Valid options include -config, -motd, -banner, -settings and -scripts. If no option is specified, a combined settings/scripts update will be performed. If a bot is specified, the specified bot is updated, otherwise all bots are updated. Examples: 'netupdate -scripts' will transfer the netbots.tcl script and components to all bots, 'netupdate -config Mallard' will transfer the config file requested by Mallard.
+
+To update a file, use '.netupdate -file <filename> [bot]' (type '.nethelp netupdate' for more information on how to use file netupdates).
+
+Important: if updating to a new version of netbots.tcl or a new component that has new settings, you must first netupdate the settings file, then the script files (also be sure to read any update notes in updates.txt beforehand). Alternatively, a single combined settings/scripts netupdate (no switches specified) may be performed.
+
+3) Depending on how many bots you have and which files you're updating, the transfer(s) may take a few seconds to several minutes. Depending on the type of update performed, each bot may rehash itself or resource the script after receiving an update.
+
+4) Once all transfers are complete, .rehash the hub if required.
+
+
+CONFIGURATION & COMPONENTS
+
+netbots.tcl is split into three groups - the settings file (netset.tcl), the netbots core script (netbots.tcl), and additional 'component' scripts (aidle.tcl, botnetop.tcl, etc.). Using the settings in the netset.tcl file, you can choose whether or not a bot or bots should load a component. For more information about the core, each of the included components, and their respective settings, see the components.txt file.
+
+All core and component settings are set in the netset.tcl file. Settings are set in pretty much the same way you set them in other scripts, but there are two distinct features - nb_component and nb_set.
+
+The nb_component setting determines whether or not to load a particular component. Example:
+
+  set nb_component(sentinel) 1
+  set nb_component(chanlimit) 0
+
+In the above case, the bot will load the sentinel component, but not the chanlimit component. 1 loads the component, 0 skips the component.
+
+The nb_set feature allows you to customise components and settings for each netbot in the hub's copy of the netset.tcl file - you don't need to create different versions of netset.tcl (in fact, you should NOT create different versions unless you never intend to use netupdate) to have different components and settings for each bot. Instead, you control settings for all bots in one netset.tcl file. By default, all bots will use the standard settings - e.g. if you have 'set nb_update ""', all bots will use that setting for nb_update. If you'd like a bot to use a different setting, you add an nb_set line. The nb_set syntax is:
+
+  nb_set <bot> <setting> <value>
+               OR
+  nb_set <bot1,bot2,botN> <setting> <value>
+               OR
+  nb_set $nb_group(groupname) <setting> <value>   (nb_group is explained in components.txt)
+
+The nb_set line is placed just after the default setting. Example:
+
+  set nb_update ""
+  nb_set Mikado,BoBo nb_update "YourNick"
+
+Mikado and BoBo will set nb_update to "YourNick", while all other bots will set it to "". You can also use multiple nb_set lines for a particular setting if you wish. Remember to always specify a default setting before any nb_set lines.
+
+To customise *components* for different bots, simply do:
+
+  set nb_component(chanlimit) 0
+  nb_set BoBo nb_component(chanlimit) 1
+
+BoBo will load the chanlimit component, while other bots won't.
+
+
+ADDING YOUR OWN COMPONENTS
+
+Adding components (i.e. scripts) to netbots.tcl is very simple, and you will be able to take advantage of the nb_component and nb_set features with your component. Furthermore, because your component is integrated with netbots.tcl, it can be updated across the botnet with the '.netupdate -scripts' command. Almost any Tcl script can be used as a netbots.tcl component. Some scripts (such as the included components) may also be netbots-specific, making special use of netbots.tcl's features.
+
+To add your own component, all you need to do is place the script in the 'netbots' directory of your hub bot (or other file distribution bot). The component must have the 'tcl' file extension. netbots.tcl will then recognise the component as its filename minus its file extension - e.g. if you add a file named 'CoolScript2.1.tcl' to your netbots directory, the component will be known as 'CoolScript2.1'.
+
+To load the component on your bots, add an nb_component line in netset.tcl as described in the previous topic. For example, to load your new 'CoolScript2.1' component, use:
+
+  set nb_component(CoolScript2.1) 1
+
+You can also use nb_set to load your component on specific bots, as described previously.
+
+To distribute the new component to the rest of the bots on your botnet, type '.netupdate -settings'. This will update the settings file on each bot and let them know about the new script they need to request. Once that's done, type '.netupdate -scripts'. The bots that need CoolScript2.1 will request and download the script from the hub bot.
+
+One more thing you need to be aware of with component scripts is how to deal with script settings. The included netbots.tcl components have their script settings prelocated in the netset.tcl file. However, your third party script may contain its own settings at the top of the script file. You have two choices - you can relocate the settings to the netset.tcl file (making sure you delete the settings in the script file), or leave them in the script file. If you chose the latter, the script's settings will not be updated when you use '.netupdate -settings' - instead, they'll be updated when you use '.netupdate -scripts' or when you do a combined settings/scripts update by using '.netupdate' without any switches.
+
+There are a couple of DCC commands that can be useful when dealing with components. The '.components' command will show you a list of loaded components, and a list of available components. The '.netinfo' command will show you which components are loaded on each netbot.
+
+
+SUPPORT & COMMENTS
+
+Need help with the script? Found a bug?
+
+For general netbots.tcl support, visit the egghelp.org user forum and post a message to the Script Support section. For reporting bugs, send an e-mail to the address provided at http://www.egghelp.org/contact.htm (when reporting a bug, please include your netbots.tcl version, eggdrop version, a copy of your netset.tcl file and logs if possible).
+
+While I accept suggestions for changes and new features, I don't like being hounded about these things. Too many new features can bloat the script and/or reduce its efficiency, and implementation/testing can take a lot of time and effort. Remember that you're not required to pay for this software, so if there are missing features or you don't like the way something works, tough cookies. If you don't like it, either live with the fact that not everything can be made perfectly the way you want it, or don't use it.
+
+
+CREDITS
+
+First up, I'd like to thank guppy for all his help. This script would not have been possible without him. Thanks also to Bass, dw and Tothwolf for their willingness to help with Tcl stuff. I'd also like to thank \-\iTman, irccc and tsaros for their support. Finally, thanks to FireEgl, iBuMp, Johoho, raeky, trekker and upstream for their contributions and help with testing my scripts.
+
+A special thank you to all those people who've reported bugs in the script and suggested fixes. There are far too many of you to list.
+
+The ideas and inspiration for many parts of netbots.tcl originally came from other scripts, some of which are listed below:
+
+bitchxpack.tcl by DeathHand
+Botnet Tools by TheGhost
+extrabitch.tcl by thepin
+GetOps by various authors
+repeat.tcl by Tris
+UserLimiter v0.32 by ^Fluffy^
+
+
+COPYRIGHT & DISCLAIMER
+
+Copyright 1998-2005 by slennox
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.

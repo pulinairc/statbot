@@ -1,0 +1,56 @@
+# Commands covered:  sha1
+#
+# This file contains a collection of tests for one or more of the Tcl
+# built-in commands.  Sourcing this file into Tcl runs the tests and
+# generates output for errors.  No output means no errors were found.
+#
+# Copyright (c) 2000 by Scriptics Corporation.
+#
+# See the file "license.terms" for information on usage and redistribution
+# of this file, and for a DISCLAIMER OF ALL WARRANTIES.
+
+if {[lsearch [namespace children] ::tcltest] == -1} {
+    package require tcltest
+    namespace import ::tcltest::*
+}
+
+package require tclgumbo
+
+test initial-1.1 {} {
+  set html "<html><body><p>Hello World</p></body></html>"
+  set output [gumbo::parse $html]
+  set root [gumbo::output_get_root $output]
+
+  proc getTextContent {node} {
+      set type [gumbo::node_get_type $node]
+      set textContent ""
+      
+      if {$type == $gumbo::GUMBO_NODE_ELEMENT} {
+	  set children [gumbo::element_get_children $node]
+	  foreach child_node $children {
+	      set returntext [getTextContent $child_node]
+	      append textContent $returntext
+	  }
+      } elseif {$type == $gumbo::GUMBO_NODE_TEXT} {
+	  set returntext [gumbo::text_get_text $node];
+	  append textContent $returntext
+      }
+      
+      return $textContent
+  }
+
+  set mytext [getTextContent $root]
+
+  gumbo::destroy_output $output
+
+  if {[string equal $mytext "Hello World"]==1} {
+    set result 1
+  } else {
+    set result 0
+  }
+} {1}
+
+
+# cleanup
+::tcltest::cleanupTests
+return

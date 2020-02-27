@@ -1,0 +1,6 @@
+do{ my $x = {
+       'lib/HTML/Gumbo.o' => 1,
+       'lib/HTML/Gumbo.c' => 1,
+       'blib' => 1
+     };
+$x; }
