@@ -19,10 +19,10 @@
 #- Path options -#
 
 # Absolute path for livestats html output
-set livestats(dir) "/var/www/html/livestats/[string tolower ${::network}]/"
+set livestats(dir) "/var/www/livestats/[string tolower ${::network}]/"
 
 # Absolute path to nation flags
-set livestats(nation_abs) "/var/www/html/user/nation/"
+set livestats(nation_abs) "/var/www/user/nation/"
 
 # URL or relative path to nation flags
 # Examples: (1) www.mydomain.tld/path/to/flags/  (2) /path/to/flags/  (3) ../../../path/to/flags/ when livestats in /path2/to/livestats/

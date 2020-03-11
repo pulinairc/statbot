@@ -11,7 +11,7 @@
 
 set ver "1.0"
 # Change dumpfile to the path where you'd like the file to be written.
-set dumpfile "/var/www/html/nickplus.txt" 
+set dumpfile "/var/www/nickplus.txt" 
 # Change channel to the channel whos nicklist you'd like to write.
 set channel "#pulina" 
 
