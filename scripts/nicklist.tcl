@@ -14,7 +14,7 @@
 # **********************************************************************************************
 
 set ver "1.1" 
-set dumpfile "/var/www/nicklist.txt" 
+set dumpfile "/home/rolle/public_html/nicklist.txt" 
 set channel "#pulina" 
 
 # Bind Events we want to catch...

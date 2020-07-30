@@ -89,7 +89,7 @@ set chanpeak_setting(cast) 1
 # Set the database filename here. #
 ###################################
 
-set chanpeak_setting(db) "/var/www/peak.db"
+set chanpeak_setting(db) "/home/rolle/public_html/peak.db"
 
 ####################
 # Code begins here #

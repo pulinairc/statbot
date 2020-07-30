@@ -9,7 +9,7 @@
 # You must ".chanset #channel +url2irc" for each chan you wish to use this in. 
 
 # This needs to be set to a bot writable dir for the web log pages. 
-set url2irc(path) /var/www/pulinalinkit      ;# path to bot writable dir for web log pages
+set url2irc(path) /home/rolle/public_html/pulinalinkit      ;# path to bot writable dir for web log pages
 
 # Optional space separated list of domains/URLs/keywords to ignore. Entries are * expanded both ways, you have been warned.
 set url2irc(iglist) "lemonparty.org decentsite.tld/somepath/terriblepicture.jpg"
