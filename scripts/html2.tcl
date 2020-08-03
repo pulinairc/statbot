@@ -12,7 +12,7 @@ set web_chans(#pulina) pulina.html
 # what directory are your web pages in? or what directory do you want this to
 # be in?
 
-set web_dir /home/rolle/public_html/
+set web_dir /var/www/
 
 # how often do you want the page to be updated? (in minutes)
 

@@ -17,7 +17,7 @@
 #
 # CONFIGURATION
 
-set cs(workdir) "/home/rolle/public_html/chatstats/"
+set cs(workdir) "/var/www/chatstats/"
 set cs(trigger) "."
 set cs(idle) 300
 set cs(dont) "fserv type trigger"

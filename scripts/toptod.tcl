@@ -109,7 +109,7 @@ proc resumetoptod {} {
 
 	variable toptod
 	set dir [getsavedir]
-	set virhe [catch {set fiilu [open /home/rolle/public_html/toptod.save]}]
+	set virhe [catch {set fiilu [open /var/www/toptod.save]}]
 
 	if {$virhe != 1} {
 #		putlog "resuming toptod.."
@@ -140,7 +140,7 @@ proc savetoptod {name accessmode date} {
 
 	if {$accessmode != "a"} {
 		set dir [getsavedir]
-		set virhe [catch {set fiilu [open /home/rolle/public_html/toptod.save]}]
+		set virhe [catch {set fiilu [open /var/www/toptod.save]}]
 	        if {$virhe != 1} {
 	                set savedate [gets $fiilu]
 	                if {$savedate != $cdate} {
