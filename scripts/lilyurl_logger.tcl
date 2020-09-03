@@ -8,7 +8,7 @@
 
 # You must ".chanset #channel +url2irc" for each chan you wish to use this in. 
 
-# This needs to be set to a bot writable dir for the web log pages. 
+# This needs to be set to a bot writable dir for the web log pages.
 set url2irc(path) /var/www/pulinalinkit      ;# path to bot writable dir for web log pages
 
 # Optional space separated list of domains/URLs/keywords to ignore. Entries are * expanded both ways, you have been warned.
@@ -35,11 +35,14 @@ set url2irc(maxsize) 102400             ;# max page size in bytes
 # 10 - converted to sqlite3, main loop cleanup 20110305
 # 11 - secure URL handler, NSFW tagger 20110308
 # 12 - site blacklist, comment cleanup, chanflag removal (just one now) 20110309
-# 14 - post counts, day dividers, dupe detection - display newest w/ counter and poster list, carryover NSFW flag. 20110110
+# 14 - post counts, day dividers, dupe detection - display newest w/ counter and poster list, carryover NSFW flag. 20110310
 # 15 - logger index.html 20110311 
 # 16 - cleanups, 1.0 version for egghelp. 
 # 1.2 - fixed shortlink redirects, dbfile varname change, 20120821
-# TODO: urlsearch, sticky/hide
+# 1.3 - integrated google search. 20120821
+# 1.4 - fixed google search 20131217
+# 1.5 - fixed redir/reloc. YouTube ignore flag. removed google search. added output colors for some urls. 20150825
+# TODO: sticky/hide, urlsearch, convert to ascii? 
 # BUGS: alt langs (fixed in tcl8.5?)
 
 ################################################
@@ -49,11 +52,17 @@ package require htmlparse
 package require tls
 package require sqlite3
 set url2irc(last) 111
+set url2irc(agent) "Mozilla/5.0 (X11; Linux i686; rv:40.0) Gecko/20100101 Firefox/40.0"
 set udbfile "./urllog.db"
 setudef flag url2irc
-bind pubm $url2irc(pubmflags) {*://*} pubm:url2irc
+bind pubm $url2irc(pubmflags) {*://*} pub_url2irc
 
-proc pubm:url2irc {nick host user chan text} {
+#bind pub $url2irc(pubmflags) !g pub_g
+#proc pub_g {nick host user chan text} {
+# puthelp "PRIVMSG $chan :Google doesn't support anything that won't show an ad."
+#}
+
+proc pub_url2irc {nick host user chan text} {
 global url2irc
 global udbfile
 global botnick
@@ -71,16 +80,25 @@ set url2irc(redirects) 0
           set newurl [tinyurl $word]
         } else { set newurl "" }
         set urtitle [urltitle $word]
-        if {[string length $newurl]} {
-          #puthelp "PRIVMSG $chan :\002$urtitle\002 ( $newurl )"
-        } else { 
-          #puthelp "PRIVMSG $chan :\002$urtitle\002" 
-        }
         set lTime [clock seconds]
         sqlite3 ldb $udbfile
           ldb eval {CREATE TABLE IF NOT EXISTS urllog (lTime INTEGER,lchan TEXT,lnick TEXT,lurl TEXT,ltitle TEXT,lflag TEXT)}
           ldb eval {INSERT INTO urllog (lTime, lchan, lnick, lurl, ltitle, lflag)VALUES($lTime,$cname,$nick,$word,$urtitle,$lflag)}
         ldb close
+        regsub -all "Imgur" $urtitle "\00309,01Imgur\003" urtitle
+	if {[regexp -nocase {youtube} $urtitle] && $url2irc(ytignore) eq true} { 
+          break
+        } else { 
+          regsub -all "YouTube" $urtitle "\00301,00You\00300,04Tube\003" urtitle
+        } 
+        regsub -all "Google" $urtitle "\00302G\00304o\00308o\00302g\00303l\00304e\003" urtitle
+        if {[regexp {i.imgur} $word]} { 
+          regsub {.*} $urtitle "\00309,01Imgur: $urtitle\003" urtitle
+        }
+        if {[string length $newurl]} {
+          #puthelp "PRIVMSG $chan :\002$urtitle\002 ( $newurl ), linked by $nick"
+        } else { #puthelp "PRIVMSG $chan :\002$urtitle\002, linked by $nick" 
+        }
       }
     }
     if {[file isdirectory $url2irc(path)] && [file writable $url2irc(path)]} {
@@ -88,7 +106,7 @@ set url2irc(redirects) 0
       set rtime [expr [clock seconds] - ($url2irc(maxdays) * 86400)]
       ldb eval {DELETE FROM urllog WHERE lTime < $rtime}
       set logday 0000
-      set htmlpage [ open "$url2irc(path)/index.html" w+ ]
+      set htmlpage [ open "$url2irc(path)/$cname.html" w+ ]
       puts $htmlpage "
 
 <!DOCTYPE html>
@@ -106,7 +124,6 @@ set url2irc(redirects) 0
 <div id=\"wrapper\">
 <p class=\"stats\">$lcount linkkiä pastettu kanavalle $tdays päivän aikana.</p>
 <ul class=\"linkkilista\">"
-
       foreach lrowid [ldb eval {SELECT rowid FROM urllog WHERE lchan = $cname order by rowid desc}] {
         set lrurl [ldb eval {SELECT lurl FROM urllog where rowid = $lrowid }]
         set lrucount [ldb eval {SELECT COUNT(1) FROM urllog where lurl = $lrurl AND lchan = $cname}]
@@ -120,17 +137,12 @@ set url2irc(redirects) 0
         } else {set plrnick $lrnick}
         set lrtitle [ldb onecolumn {SELECT ltitle FROM urllog where rowid = $lrowid }]
         set lrTime [ldb eval {SELECT lTime FROM urllog where rowid = $lrowid }]
-        set tstamp [clock format $lrTime -format {%H:%M}]
+        set tstamp [clock format $lrTime -format {%b. %d - %H:%M}]
         if {[ldb eval {SELECT COUNT(1) FROM urllog where lurl = $lrurl AND lchan = $cname and lflag like '%NSFW%'}]} {
           set lrf " <b class=\"not-work-safe\">ei work-safe!</b>)"} else {set lrf ""}
-        #if {[string length $lrurl] >=$url2irc(clength)} {
-        #  set plrurl "[string replace $lrurl $url2irc(clength) end ] ..."
-        #} else { 
-
-set plrurl $lrurl 
-
-#}
-
+        if {[string length $lrurl] >=$url2irc(clength)} {
+          set plrurl "[string replace $lrurl $url2irc(clength) end ] ..."
+        } else { set plrurl $lrurl }
         if {[clock format $lrTime -format {%m%d}] != $logday} { 
           
           set weekday [clock format $lrTime -format {%A}]
@@ -218,22 +230,43 @@ set plrurl $lrurl
 
 proc urltitle {url} {
 global url2irc
-set agent "Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1"
+  set agent $url2irc(agent)
   if {[info exists url] && [string length $url]} {
-    ::http::register https 443 ::tls::socket
+    ::http::register https 443 [list ::tls::socket -tls1 1]
     set http [::http::config -useragent $agent]
     if {[catch {::http::geturl $url -timeout $url2irc(timeout) -validate 1} http]} {
       set status [::http::status $http]
-      ::http::cleanup $http
       return $status
     }
     array set meta [::http::meta $http]
     ::http::cleanup $http
-    if {[info exists meta(Location)] && [incr url2irc(redirects)] < 10} {
-      return [urltitle $meta(Location)]
+    while {[info exists meta(Redirect)] && [incr url2irc(redirects)] < 10} {
+      ::http::register https 443 [list ::tls::socket -tls1 1]
+      set http [::http::config -useragent $agent]
+      if {[catch {::http::geturl $meta(Redirect) -timeout $url2irc(timeout) -validate 1} http]} {
+        set status [::http::status $http]
+        return $status
+      }
+      array set meta [::http::meta $http]
+      putlog "REDIR: $url2irc(redirects) : $meta(Redirect)"
+      ::http::cleanup $http
+      set url $meta(Redirect)
     }
-    if {[info exists meta(Redirect)] && [incr url2irc(redirects)] < 10} {
-      return [urltitle $meta(Redirect)]
+    while {[info exists meta(Location)] && [incr url2irc(redirects)] < 10} {
+      set startloc $meta(Location)
+      ::http::register https 443 [list ::tls::socket -tls1 1]
+      set http [::http::config -useragent $agent]
+      if {[catch {::http::geturl $meta(Location) -timeout $url2irc(timeout) -validate 1} http]} {
+        set status [::http::status $http]
+        return $status
+      }
+      array set meta [::http::meta $http]
+      #putlog "RELOC: $url2irc(redirects) : $meta(Location)"
+      ::http::cleanup $http
+      if {$startloc eq $meta(Location)} { 
+        set url $startloc
+        break 
+      }
     }
     if {[info exists meta(Content-Type)]} {
       set content_type [lindex [split $meta(Content-Type) ";"] 0]
@@ -246,10 +279,11 @@ set agent "Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1"
       set content_length 0
     }
     if {$content_length <= $url2irc(maxsize) && [string match -nocase "text/*" $content_type]} {
+      ::http::register https 443 [list ::tls::socket -tls1 1]
       set http [::http::config -useragent $agent]
       if {[catch {::http::geturl $url -timeout $url2irc(timeout)} http]} {
-        ::http::cleanup $http
-        return $content_type
+        set status [::http::status $http]
+        return $status
       }
       set data [split [::http::data $http] \n]
       ::http::cleanup $http
@@ -268,8 +302,11 @@ set agent "Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1"
 }
 
 proc tinyurl {url} {
-global url2irc
+  global url2irc
+  set agent $url2irc(agent)
   if {[info exists url] && [string length $url]} {
+    #tinyurl doesnt work with https
+    set http [::http::config -useragent $agent]
     set http [::http::geturl "http://tinyurl.com/create.php" -query [::http::formatQuery "url" $url] -timeout $url2irc(timeout)]
     set data [split [::http::data $http] \n] ; ::http::cleanup $http
     for {set index [llength $data]} {$index >= 0} {incr index -1} {
@@ -281,4 +318,4 @@ global url2irc
  return ""
 }
 
-putlog "Script loaded: lilyurl_logger.tcl"
+putlog "URL 2 IRC v1.5 script loaded... (lilyurl_logger.tcl)"
