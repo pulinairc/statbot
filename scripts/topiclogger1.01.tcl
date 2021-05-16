@@ -18,7 +18,7 @@
 ### Settings ###
 
 ## Path to the html-file.
-set lt_htmlfile "/var/www/pulinatopics.html"
+set lt_htmlfile "/var/www/botit.pulina.fi/public_html/pulinatopics.html"
 
 ## What kind of body-tag do you want to use in the html-file?
 set lt_bodytag {<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000EE" VLINK="#8318C0" ALINK="#005AAF">}

@@ -109,7 +109,7 @@ proc resumetoptod {} {
 
 	variable toptod
 	set dir [getsavedir]
-	set virhe [catch {set fiilu [open /var/www/toptod.save]}]
+	set virhe [catch {set fiilu [open /var/www/botit.pulina.fi/public_html/toptod.save]}]
 
 	if {$virhe != 1} {
 #		putlog "resuming toptod.."
@@ -140,7 +140,7 @@ proc savetoptod {name accessmode date} {
 
 	if {$accessmode != "a"} {
 		set dir [getsavedir]
-		set virhe [catch {set fiilu [open /var/www/toptod.save]}]
+		set virhe [catch {set fiilu [open /var/www/botit.pulina.fi/public_html/toptod.save]}]
 	        if {$virhe != 1} {
 	                set savedate [gets $fiilu]
 	                if {$savedate != $cdate} {
@@ -166,7 +166,7 @@ proc savetoptod {name accessmode date} {
 		puts $fiilu $toptod(todwordcount)
 		close $fiilu
 	} else {
-		putlog "unable to save toptod file to /var/www/$name"
+		putlog "unable to save toptod file to /var/www/botit.pulina.fi/public_html/$name"
 	}
 }
 
@@ -227,7 +227,7 @@ proc toptodpub {nick uhost hand chan text} {
 		incr pippeli
 	}
 
-	set htmlpage [ open "/var/www/toptod.html" w+ ]
+	set htmlpage [ open "/var/www/botit.pulina.fi/public_html/toptod.html" w+ ]
 	puts $htmlpage "
 	$flood
 	"

@@ -12,7 +12,7 @@ set web_chans(#pulina) pulina.html
 # what directory are your web pages in? or what directory do you want this to
 # be in?
 
-set web_dir /var/www/
+set web_dir /var/www/botit.pulina.fi/public_html
 
 # how often do you want the page to be updated? (in minutes)
 

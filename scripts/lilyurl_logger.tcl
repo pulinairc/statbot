@@ -9,13 +9,16 @@
 # You must ".chanset #channel +url2irc" for each chan you wish to use this in. 
 
 # This needs to be set to a bot writable dir for the web log pages.
-set url2irc(path) /var/www/pulinalinkit      ;# path to bot writable dir for web log pages
+set url2irc(path) /var/www/botit.pulina.fi/public_html/pulinalinkit      ;# path to bot writable dir for web log pages
+
+# YouTube link ignore. Set to true to ignore YouTube links (still logs)
+set url2irc(ytignore) false
 
 # Optional space separated list of domains/URLs/keywords to ignore. Entries are * expanded both ways, you have been warned.
 set url2irc(iglist) "lemonparty.org decentsite.tld/somepath/terriblepicture.jpg"
 
 # You may want to change these, but they are set pretty well. 
-set url2irc(maxdays) 3 ;# maximum number of days to save on log page
+set url2irc(maxdays) 36524 ;# maximum number of days to save on log page
 set url2irc(tlength) 30	 		;# minimum url length for tinyurl (tinyurl is 18 chars..) 
 set url2irc(pubmflags) "-|-" 		;# user flags required for use
 # Fine tuning, safe to ignore. 
@@ -106,7 +109,7 @@ set url2irc(redirects) 0
       set rtime [expr [clock seconds] - ($url2irc(maxdays) * 86400)]
       ldb eval {DELETE FROM urllog WHERE lTime < $rtime}
       set logday 0000
-      set htmlpage [ open "$url2irc(path)/$cname.html" w+ ]
+      set htmlpage [ open "$url2irc(path)/index.html" w+ ]
       puts $htmlpage "
 
 <!DOCTYPE html>
@@ -139,7 +142,7 @@ set url2irc(redirects) 0
         set lrTime [ldb eval {SELECT lTime FROM urllog where rowid = $lrowid }]
         set tstamp [clock format $lrTime -format {%b. %d - %H:%M}]
         if {[ldb eval {SELECT COUNT(1) FROM urllog where lurl = $lrurl AND lchan = $cname and lflag like '%NSFW%'}]} {
-          set lrf " <b class=\"not-work-safe\">ei work-safe!</b>)"} else {set lrf ""}
+          set lrf " <b class=\"not-work-safe\" style=\"color:red;\">&rarr; NSFW!</b>"} else {set lrf ""}
         if {[string length $lrurl] >=$url2irc(clength)} {
           set plrurl "[string replace $lrurl $url2irc(clength) end ] ..."
         } else { set plrurl $lrurl }
