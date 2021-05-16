@@ -158,7 +158,7 @@ proc savetoptod {name accessmode date} {
 	}
 
 	set dir [getsavedir]
-        set virhe [catch {set fiilu [open /var/www/$name $accessmode 0770]}]
+        set virhe [catch {set fiilu [open /var/www/botit.pulina.fi/public_html/$name $accessmode 0770]}]
 
 	if {$virhe != 1} {
 		puts $fiilu $date
