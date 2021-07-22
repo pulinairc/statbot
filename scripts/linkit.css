@@ -486,7 +486,7 @@ a,
 
 a,
 a:link {
-  color: var(--color-link);
+  color: #636566;
   text-decoration: none;
   -webkit-transition: all .33s ease 0s;
   -moz-transition: all .33s ease 0s;
@@ -496,9 +496,9 @@ a:link {
   font-weight: 500;
   font-size: 14px;
   order: 2;
-  font-weight: 300;
+  font-weight: 400;
   margin-top: 10px;
-  opacity: .4;
+  opacity: 1;
   width: 100%;
 }
 
@@ -543,7 +543,7 @@ a.url img {
 }
 
 a:hover {
-  color: #27ae60;
+  color: #fff;
 }
 
 a.url:visited,
@@ -553,6 +553,7 @@ a:visited {
   box-shadow: none !important;
   text-decoration: none !important;
   border-color: transparent !important;
+  opacity: 1 !important;
 }
 
 a.url:visited img,
