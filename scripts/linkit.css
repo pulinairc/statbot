@@ -443,6 +443,7 @@ template {
 /* Start real styles */
 body {
   background-color: var(--color-background);
+  margin: 0;
 }
 
 body,
@@ -473,10 +474,12 @@ a,
   background-color: var(--color-background);
 }
 
+footer,
 #wrapper {
   overflow: hidden;
-  padding: 15px;
-  width: 80%;
+  padding: 0;
+  width: calc(100% - 40px);
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -542,6 +545,16 @@ a.url img {
   image-rendering: pixelated;
 }
 
+a.url:visited img {
+  display: none !important;
+  width: 0 !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  position: absolute;
+  text-indent: -9999px;
+  left: -9999px;
+}
+
 a:hover {
   color: #fff;
 }
@@ -565,18 +578,24 @@ a:visited img {
   display: none;
 }
 
-footer {
-  overflow: hidden;
-  padding: 15px;
-  width: 80%;
-  margin: 0 auto;
-}
-
 footer a,
 footer a:link,
 footer a:visited,
-footer a:active,
-footer p,
+footer a:active
+footer a:hover {
+  color: #636566 !important;
+  font-size: 15px !important;
+  text-decoration: underline !important;
+}
+
 footer {
-  color: rgba(255, 255, 255, 0.2);
+  max-width: calc(1200px - 40px);
+  margin-bottom: 40px;
+  padding: 20px;
+}
+
+footer,
+footer p {
+  color: #636566 !important;
+  font-size: 15px !important;
 }
